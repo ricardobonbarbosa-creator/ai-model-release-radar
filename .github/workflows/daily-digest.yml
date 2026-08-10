@@ -34,13 +34,19 @@ jobs:
           git diff --cached --quiet || git commit -m "chore: update digest data for $(date -u +%F)"
           git push
 
+      - name: Ensure digest label exists
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh label create "digest" --color "0e8a16" --description "Daily AI release digest" --force
+
       - name: Create digest issue
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           BODY_FILE="data/digest_body.md"
           TITLE="AI Model Release Digest — $(date -u +%F)"
-          gh issue create --title "$TITLE" --body-file "$BODY_FILE" --label "digest" || true
+          gh issue create --title "$TITLE" --body-file "$BODY_FILE" --label "digest"
 
       - name: Setup Pages
         uses: actions/configure-pages@v6
