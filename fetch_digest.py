@@ -1,15 +1,16 @@
 #!/usr/bin/env python3
 """
-Daily AI model release fetcher.
+Daily AI model release fetcher (v2 - friendlier digest).
 Pulls new releases/announcements from major AI labs, Hugging Face trending
 models, and arXiv cs.AI, then writes a digest JSON and appends to history.
+Adds short human-readable summaries and simplified categories.
 """
+import html
 import json
 import os
 import re
 from datetime import datetime, timedelta, timezone
 from urllib.request import Request, urlopen
-from urllib.error import URLError, HTTPError
 import xml.etree.ElementTree as ET
 
 DATA_DIR = "data"
@@ -17,14 +18,14 @@ HISTORY_FILE = os.path.join(DATA_DIR, "history.json")
 LATEST_FILE = os.path.join(DATA_DIR, "latest.json")
 
 RSS_SOURCES = {
-    "OpenAI": "https://openai.com/news/rss.xml",
-    "Anthropic": "https://www.anthropic.com/rss.xml",
-    "Google AI": "https://blog.google/technology/ai/rss/",
-    "Meta AI": "https://ai.meta.com/blog/rss/",
-    "Hugging Face": "https://huggingface.co/blog/feed.xml",
-    "Mistral AI": "https://mistral.ai/news/rss.xml",
-    "Stability AI": "https://stability.ai/news?format=rss",
-    "DeepMind": "https://deepmind.google/blog/rss.xml",
+    "OpenAI": ("https://openai.com/news/rss.xml", "release"),
+    "Anthropic": ("https://www.anthropic.com/rss.xml", "release"),
+    "Google AI": ("https://blog.google/technology/ai/rss/", "release"),
+    "Meta AI": ("https://ai.meta.com/blog/rss/", "release"),
+    "Hugging Face": ("https://huggingface.co/blog/feed.xml", "release"),
+    "Mistral AI": ("https://mistral.ai/news/rss.xml", "release"),
+    "Stability AI": ("https://stability.ai/news?format=rss", "release"),
+    "DeepMind": ("https://deepmind.google/blog/rss.xml", "release"),
 }
 
 HF_TRENDING_API = "https://huggingface.co/api/models?sort=lastModified&direction=-1&limit=25"
@@ -34,13 +35,30 @@ ARXIV_API = (
 )
 
 LOOKBACK_HOURS = 30
-UA = {"User-Agent": "ai-model-release-radar/1.0 (+github actions daily digest)"}
+UA = {"User-Agent": "ai-model-release-radar/2.0 (+github actions daily digest)"}
+
+CATEGORY_META = {
+    "release":     {"label_en": "New Release",       "label_pt": "Lançamento",        "emoji": "🚀"},
+    "model_upload":{"label_en": "New Model on HF",    "label_pt": "Novo Modelo (HF)",  "emoji": "🤗"},
+    "paper":       {"label_en": "Research Paper",     "label_pt": "Artigo de Pesquisa","emoji": "📄"},
+}
 
 
 def http_get(url, timeout=15):
     req = Request(url, headers=UA)
     with urlopen(req, timeout=timeout) as resp:
         return resp.read()
+
+
+def clean_text(raw, max_len=220):
+    if not raw:
+        return ""
+    text = re.sub(r"<[^>]+>", " ", raw)
+    text = html.unescape(text)
+    text = re.sub(r"\s+", " ", text).strip()
+    if len(text) > max_len:
+        text = text[:max_len].rsplit(" ", 1)[0] + "…"
+    return text
 
 
 def parse_rss(xml_bytes):
@@ -53,7 +71,8 @@ def parse_rss(xml_bytes):
         title = (item.findtext("title") or "").strip()
         link = (item.findtext("link") or "").strip()
         pub = (item.findtext("pubDate") or "").strip()
-        items.append({"title": title, "link": link, "published": pub})
+        desc = clean_text(item.findtext("description") or "")
+        items.append({"title": title, "link": link, "published": pub, "summary": desc})
     if not items:
         ns = {"a": "http://www.w3.org/2005/Atom"}
         for entry in root.findall(".//a:entry", ns):
@@ -62,7 +81,8 @@ def parse_rss(xml_bytes):
             link = link_el.get("href") if link_el is not None else ""
             pub = (entry.findtext("a:updated", namespaces=ns)
                    or entry.findtext("a:published", namespaces=ns) or "").strip()
-            items.append({"title": title, "link": link, "published": pub})
+            desc = clean_text(entry.findtext("a:summary", namespaces=ns) or "")
+            items.append({"title": title, "link": link, "published": pub, "summary": desc})
     return items
 
 
@@ -88,7 +108,7 @@ def try_parse_date(s):
 def fetch_rss_sources():
     cutoff = datetime.now(timezone.utc) - timedelta(hours=LOOKBACK_HOURS)
     results = []
-    for source, url in RSS_SOURCES.items():
+    for source, (url, category) in RSS_SOURCES.items():
         try:
             raw = http_get(url)
         except Exception as e:
@@ -102,8 +122,9 @@ def fetch_rss_sources():
                 "source": source,
                 "title": item["title"],
                 "link": item["link"],
+                "summary": item.get("summary", ""),
                 "published": dt.isoformat() if dt else item.get("published", ""),
-                "category": "announcement",
+                "category": category,
             })
     return results
 
@@ -128,10 +149,13 @@ def fetch_hf_trending():
         if dt and dt < cutoff:
             continue
         model_id = m.get("id", "")
+        pipeline = m.get("pipeline_tag", "")
+        summary = "Trending on Hugging Face" + (f" · {pipeline}" if pipeline else "")
         results.append({
             "source": "Hugging Face Hub",
             "title": model_id,
             "link": f"https://huggingface.co/{model_id}",
+            "summary": summary,
             "published": dt.isoformat() if dt else "",
             "category": "model_upload",
         })
@@ -152,6 +176,7 @@ def fetch_arxiv():
         title = re.sub(r"\s+", " ", (entry.findtext("a:title", namespaces=ns) or "")).strip()
         link = entry.findtext("a:id", namespaces=ns) or ""
         published = entry.findtext("a:published", namespaces=ns) or ""
+        summary = clean_text(entry.findtext("a:summary", namespaces=ns) or "", max_len=200)
         dt = None
         try:
             dt = datetime.strptime(published, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
@@ -160,9 +185,10 @@ def fetch_arxiv():
         if dt and dt < cutoff:
             continue
         results.append({
-            "source": "arXiv cs.AI/cs.CL",
+            "source": "arXiv",
             "title": title,
             "link": link,
+            "summary": summary,
             "published": dt.isoformat() if dt else published,
             "category": "paper",
         })
@@ -214,23 +240,35 @@ def main():
     with open(HISTORY_FILE, "w") as f:
         json.dump(history, f, indent=2, ensure_ascii=False)
 
-    lines = [f"# AI Model Release Digest — {today}", ""]
+    releases = [it for it in all_items if it["category"] in ("release", "model_upload")]
+    papers = [it for it in all_items if it["category"] == "paper"]
+
+    lines = [f"# 🛰️ Resumo Diário de IA — {today}", ""]
     if not all_items:
-        lines.append("No new releases detected in the last 24-30h window.")
+        lines.append("Nenhuma novidade detectada nas últimas 24-30h.")
     else:
-        by_source = {}
-        for it in all_items:
-            by_source.setdefault(it["source"], []).append(it)
-        for source, items in by_source.items():
-            lines.append(f"## {source} ({len(items)})")
-            for it in items:
+        if releases:
+            lines.append(f"## 🚀 Lançamentos e novidades ({len(releases)})")
+            for it in releases:
+                meta = CATEGORY_META.get(it["category"], {})
+                emoji = meta.get("emoji", "•")
+                lines.append(f"**{emoji} [{it['title']}]({it['link']})** — {it['source']}")
+                if it.get("summary"):
+                    lines.append(f"> {it['summary']}")
+                lines.append("")
+        if papers:
+            lines.append(f"## 📄 Pesquisas recentes ({len(papers)})")
+            for it in papers[:8]:
                 lines.append(f"- [{it['title']}]({it['link']})")
+            if len(papers) > 8:
+                lines.append(f"- …e mais {len(papers) - 8} artigos no dashboard")
             lines.append("")
-    lines.append("---\n[View live dashboard](https://ricardobonbarbosa-creator.github.io/ai-model-release-radar/)")
+    lines.append("---")
+    lines.append("[📊 Ver dashboard completo](https://ricardobonbarbosa-creator.github.io/ai-model-release-radar/)")
     with open(os.path.join(DATA_DIR, "digest_body.md"), "w") as f:
         f.write("\n".join(lines))
 
-    print(f"Digest generated: {len(all_items)} items")
+    print(f"Digest generated: {len(all_items)} items ({len(releases)} releases, {len(papers)} papers)")
 
 
 if __name__ == "__main__":
