@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Daily AI model release fetcher (v2 - friendlier digest).
+Daily AI model release fetcher (v3 - less noisy Hugging Face feed).
 Pulls new releases/announcements from major AI labs, Hugging Face trending
 models, and arXiv cs.AI, then writes a digest JSON and appends to history.
 Adds short human-readable summaries and simplified categories.
@@ -28,14 +28,18 @@ RSS_SOURCES = {
     "DeepMind": ("https://deepmind.google/blog/rss.xml", "release"),
 }
 
-HF_TRENDING_API = "https://huggingface.co/api/models?sort=lastModified&direction=-1&limit=25"
+# Sort by trendingScore instead of lastModified - lastModified surfaces any
+# recently-touched repo (including junk/test uploads); trendingScore reflects
+# genuine community attention (likes + downloads velocity).
+HF_TRENDING_API = "https://huggingface.co/api/models?sort=trendingScore&direction=-1&limit=15"
+HF_MIN_LIKES = 3  # filter out obscure/test repos with almost no engagement
 ARXIV_API = (
     "http://export.arxiv.org/api/query?search_query=cat:cs.AI+OR+cat:cs.CL"
     "&sortBy=submittedDate&sortOrder=descending&max_results=15"
 )
 
 LOOKBACK_HOURS = 30
-UA = {"User-Agent": "ai-model-release-radar/2.0 (+github actions daily digest)"}
+UA = {"User-Agent": "ai-model-release-radar/3.0 (+github actions daily digest)"}
 
 CATEGORY_META = {
     "release":     {"label_en": "New Release",       "label_pt": "Lançamento",        "emoji": "🚀"},
@@ -137,8 +141,10 @@ def fetch_hf_trending():
     except Exception as e:
         print(f"[skip] HuggingFace API: {e}")
         return results
-    cutoff = datetime.now(timezone.utc) - timedelta(hours=LOOKBACK_HOURS)
     for m in models:
+        likes = m.get("likes", 0) or 0
+        if likes < HF_MIN_LIKES:
+            continue
         last_modified = m.get("lastModified")
         dt = None
         if last_modified:
@@ -146,11 +152,9 @@ def fetch_hf_trending():
                 dt = datetime.strptime(last_modified, "%Y-%m-%dT%H:%M:%S.%fZ").replace(tzinfo=timezone.utc)
             except ValueError:
                 pass
-        if dt and dt < cutoff:
-            continue
         model_id = m.get("id", "")
         pipeline = m.get("pipeline_tag", "")
-        summary = "Trending on Hugging Face" + (f" · {pipeline}" if pipeline else "")
+        summary = f"{likes} curtidas no Hugging Face" + (f" · {pipeline}" if pipeline else "")
         results.append({
             "source": "Hugging Face Hub",
             "title": model_id,
@@ -159,7 +163,7 @@ def fetch_hf_trending():
             "published": dt.isoformat() if dt else "",
             "category": "model_upload",
         })
-    return results
+    return results[:10]
 
 
 def fetch_arxiv():
