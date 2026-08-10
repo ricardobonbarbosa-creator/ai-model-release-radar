@@ -1,0 +1,196 @@
+{
+  "date": "2026-08-10",
+  "generated_at": "2026-08-10T12:44:45.914196+00:00",
+  "count": 27,
+  "items": [
+    {
+      "source": "Hugging Face Hub",
+      "title": "Miiche/visualrl-ft-grpo",
+      "link": "https://huggingface.co/Miiche/visualrl-ft-grpo",
+      "published": "2026-08-10T12:44:43+00:00",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "bghira/minimax-h3-anyflow-wip",
+      "link": "https://huggingface.co/bghira/minimax-h3-anyflow-wip",
+      "published": "2026-08-10T12:44:43+00:00",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "Miical/gaussian-actor-libero-spatial-task0-step100-baseline",
+      "link": "https://huggingface.co/Miical/gaussian-actor-libero-spatial-task0-step100-baseline",
+      "published": "2026-08-10T12:44:40+00:00",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "Nhoodie/npu-moe-vlm",
+      "link": "https://huggingface.co/Nhoodie/npu-moe-vlm",
+      "published": "2026-08-10T12:44:27+00:00",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "gradients-io-tournaments/tournament-tourn_20f928c9169811d7_20260810-6d8b2af6-9715-4a60-bc19-b7e8023b57a2-5FpdSckw",
+      "link": "https://huggingface.co/gradients-io-tournaments/tournament-tourn_20f928c9169811d7_20260810-6d8b2af6-9715-4a60-bc19-b7e8023b57a2-5FpdSckw",
+      "published": "2026-08-10T12:44:20+00:00",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "Miiche/visualrl-gad-gated-v3",
+      "link": "https://huggingface.co/Miiche/visualrl-gad-gated-v3",
+      "published": "2026-08-10T12:44:19+00:00",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "layaiyer/Politifact_fake_news-syn-youtube-adjectives-dict-lora",
+      "link": "https://huggingface.co/layaiyer/Politifact_fake_news-syn-youtube-adjectives-dict-lora",
+      "published": "2026-08-10T12:44:18+00:00",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "Miiche/visualrl-agopd-v3",
+      "link": "https://huggingface.co/Miiche/visualrl-agopd-v3",
+      "published": "2026-08-10T12:44:14+00:00",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "juergengunz/fluxer",
+      "link": "https://huggingface.co/juergengunz/fluxer",
+      "published": "2026-08-10T12:44:11+00:00",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "DreamFast/Qwen3-VL-4b-Heretic-ComfyUI",
+      "link": "https://huggingface.co/DreamFast/Qwen3-VL-4b-Heretic-ComfyUI",
+      "published": "2026-08-10T12:44:10+00:00",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "yannikheizmann/trackerclassification",
+      "link": "https://huggingface.co/yannikheizmann/trackerclassification",
+      "published": "2026-08-10T12:43:46+00:00",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "Miiche/visualrl-opd-gkd",
+      "link": "https://huggingface.co/Miiche/visualrl-opd-gkd",
+      "published": "2026-08-10T12:43:41+00:00",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "Racktic/swecl-qwen35-ckpt",
+      "link": "https://huggingface.co/Racktic/swecl-qwen35-ckpt",
+      "published": "2026-08-10T12:43:36+00:00",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "Miiche/visualrl-gad-pure-v3",
+      "link": "https://huggingface.co/Miiche/visualrl-gad-pure-v3",
+      "published": "2026-08-10T12:43:31+00:00",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "LAXMAYDAY/NOOB2-Project-Character-Reference-Bypass-Injector-Research",
+      "link": "https://huggingface.co/LAXMAYDAY/NOOB2-Project-Character-Reference-Bypass-Injector-Research",
+      "published": "2026-08-10T12:43:29+00:00",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "LuffyTheFox/Qwen3.5-35B-A3B-Uncensored-Genesis-BF16-GGUF",
+      "link": "https://huggingface.co/LuffyTheFox/Qwen3.5-35B-A3B-Uncensored-Genesis-BF16-GGUF",
+      "published": "2026-08-10T12:43:21+00:00",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "gmp-dev/pc-models",
+      "link": "https://huggingface.co/gmp-dev/pc-models",
+      "published": "2026-08-10T12:43:16+00:00",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "Preyazz/Muse-Glimmer-30B-NVFP4",
+      "link": "https://huggingface.co/Preyazz/Muse-Glimmer-30B-NVFP4",
+      "published": "2026-08-10T12:43:12+00:00",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "haku86/haku99",
+      "link": "https://huggingface.co/haku86/haku99",
+      "published": "2026-08-10T12:43:08+00:00",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "nguyenthilaitrieulong/Muse-Glimmer-30B-assistant",
+      "link": "https://huggingface.co/nguyenthilaitrieulong/Muse-Glimmer-30B-assistant",
+      "published": "2026-08-10T12:42:52+00:00",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "ASD12SDA2SAD12AZ/MyAwesomeModel-TestRepo",
+      "link": "https://huggingface.co/ASD12SDA2SAD12AZ/MyAwesomeModel-TestRepo",
+      "published": "2026-08-10T12:42:51+00:00",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "EhtishamAhmed/gemma3-4b-8bit-paraphrased-bank-ds-95-5-lora",
+      "link": "https://huggingface.co/EhtishamAhmed/gemma3-4b-8bit-paraphrased-bank-ds-95-5-lora",
+      "published": "2026-08-10T12:42:49+00:00",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "sundaycoil/bookmark-manager",
+      "link": "https://huggingface.co/sundaycoil/bookmark-manager",
+      "published": "2026-08-10T12:42:39+00:00",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "QwenELI/QwenELI-0.8B",
+      "link": "https://huggingface.co/QwenELI/QwenELI-0.8B",
+      "published": "2026-08-10T12:42:38+00:00",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "MrItachi/smart-fitness-ai-qwen",
+      "link": "https://huggingface.co/MrItachi/smart-fitness-ai-qwen",
+      "published": "2026-08-10T12:42:36+00:00",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+      "link": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+      "published": "2026-08-10T10:05:36+00:00",
+      "category": "announcement"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+      "link": "https://huggingface.co/blog/muse-glimmer",
+      "published": "2026-08-10T00:00:00+00:00",
+      "category": "announcement"
+    }
+  ]
+}
