@@ -1,1 +1,62 @@
-PLACEHOLDER
+name: Daily AI Model Release Digest
+
+on:
+  schedule:
+    - cron: "0 11 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  issues: write
+  pages: write
+  id-token: write
+
+jobs:
+  build-digest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run fetch script
+        run: python fetch_digest.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "ai-release-radar-bot"
+          git config user.email "actions@github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "chore: update digest data for $(date -u +%F)"
+          git push
+
+      - name: Create digest issue
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          BODY_FILE="data/digest_body.md"
+          TITLE="AI Model Release Digest — $(date -u +%F)"
+          gh issue create --title "$TITLE" --body-file "$BODY_FILE" --label "digest" || true
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "docs"
+
+  deploy-pages:
+    needs: build-digest
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

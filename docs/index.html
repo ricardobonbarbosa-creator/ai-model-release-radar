@@ -1,1 +1,111 @@
-PLACEHOLDER
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI Model Release Radar</title>
+<style>
+  :root {
+    --bg: #0b0d12; --card: #141824; --border: #232838;
+    --text: #e6e9f0; --muted: #8b93a7; --accent: #6ea8fe;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  }
+  header { padding: 28px 24px 12px; border-bottom: 1px solid var(--border); }
+  header h1 { margin: 0 0 4px; font-size: 22px; }
+  header p { margin: 0; color: var(--muted); font-size: 14px; }
+  .controls { display: flex; gap: 8px; flex-wrap: wrap; padding: 16px 24px; }
+  .chip { padding: 6px 14px; border-radius: 999px; border: 1px solid var(--border); background: var(--card); color: var(--text); cursor: pointer; font-size: 13px; }
+  .chip.active { background: var(--accent); color: #06101f; border-color: var(--accent); }
+  .stats { display: flex; gap: 16px; padding: 0 24px 16px; flex-wrap: wrap; }
+  .stat { background: var(--card); border: 1px solid var(--border); border-radius: 12px; padding: 14px 18px; min-width: 140px; }
+  .stat .num { font-size: 26px; font-weight: 700; }
+  .stat .label { color: var(--muted); font-size: 12px; }
+  main { padding: 0 24px 40px; max-width: 980px; margin: 0 auto; }
+  .day-group { margin-bottom: 28px; }
+  .day-title { font-size: 14px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.06em; margin-bottom: 10px; border-bottom: 1px solid var(--border); padding-bottom: 6px; }
+  .item { background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 12px 16px; margin-bottom: 8px; display: flex; justify-content: space-between; align-items: center; gap: 12px; }
+  .item a { color: var(--text); text-decoration: none; font-size: 14px; }
+  .item a:hover { color: var(--accent); }
+  .badge { font-size: 11px; padding: 3px 10px; border-radius: 999px; white-space: nowrap; background: #1c2333; color: var(--accent); border: 1px solid var(--border); }
+  .empty { color: var(--muted); padding: 40px; text-align: center; }
+  footer { text-align: center; color: var(--muted); font-size: 12px; padding: 20px; }
+</style>
+</head>
+<body>
+<header>
+  <h1>🛰️ AI Model Release Radar</h1>
+  <p>Automated daily digest of new AI model releases, papers, and provider announcements.</p>
+</header>
+
+<div class="stats" id="stats"></div>
+<div class="controls" id="filters"></div>
+<main id="main"><div class="empty">Loading…</div></main>
+<footer>Updates daily via GitHub Actions · Data sources: OpenAI, Anthropic, Google, Meta, Mistral, DeepMind, Hugging Face, arXiv</footer>
+
+<script>
+let activeFilter = "All";
+
+async function loadData() {
+  try {
+    const res = await fetch("../data/history.json?_=" + Date.now());
+    const history = await res.json();
+    render(history);
+  } catch (e) {
+    document.getElementById("main").innerHTML = '<div class="empty">No data yet. First run pending.</div>';
+  }
+}
+
+function render(history) {
+  const sorted = [...history].sort((a, b) => (a.date < b.date ? 1 : -1));
+  const allItems = sorted.flatMap(d => d.items.map(it => ({...it, date: d.date})));
+
+  const sources = ["All", ...new Set(allItems.map(i => i.source))];
+  const filtersEl = document.getElementById("filters");
+  filtersEl.innerHTML = "";
+  sources.forEach(s => {
+    const chip = document.createElement("div");
+    chip.className = "chip" + (s === activeFilter ? " active" : "");
+    chip.textContent = s;
+    chip.onclick = () => { activeFilter = s; render(history); };
+    filtersEl.appendChild(chip);
+  });
+
+  const filtered = activeFilter === "All" ? allItems : allItems.filter(i => i.source === activeFilter);
+
+  const last7 = sorted.slice(0, 7).reduce((sum, d) => sum + d.items.length, 0);
+  document.getElementById("stats").innerHTML = `
+    <div class="stat"><div class="num">${sorted[0]?.items.length ?? 0}</div><div class="label">Today</div></div>
+    <div class="stat"><div class="num">${last7}</div><div class="label">Last 7 days</div></div>
+    <div class="stat"><div class="num">${sources.length - 1}</div><div class="label">Sources tracked</div></div>
+  `;
+
+  const byDate = {};
+  filtered.forEach(it => { (byDate[it.date] = byDate[it.date] || []).push(it); });
+
+  const main = document.getElementById("main");
+  const dates = Object.keys(byDate).sort().reverse();
+  if (!dates.length) {
+    main.innerHTML = '<div class="empty">No releases match this filter.</div>';
+    return;
+  }
+  main.innerHTML = dates.map(date => `
+    <div class="day-group">
+      <div class="day-title">${date}</div>
+      ${byDate[date].map(it => `
+        <div class="item">
+          <a href="${it.link}" target="_blank" rel="noopener">${it.title}</a>
+          <span class="badge">${it.source}</span>
+        </div>
+      `).join("")}
+    </div>
+  `).join("");
+}
+
+loadData();
+</script>
+</body>
+</html>
