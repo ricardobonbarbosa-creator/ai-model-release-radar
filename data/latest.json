@@ -1,210 +1,247 @@
 {
   "date": "2026-08-10",
-  "generated_at": "2026-08-10T14:29:05.489272+00:00",
-  "count": 29,
+  "generated_at": "2026-08-10T16:21:31.055440+00:00",
+  "count": 30,
   "items": [
     {
       "source": "Hugging Face Hub",
-      "title": "Miiche/visualrl-ral-official",
-      "link": "https://huggingface.co/Miiche/visualrl-ral-official",
-      "published": "2026-08-10T14:29:03+00:00",
+      "title": "magic-dev/co216",
+      "link": "https://huggingface.co/magic-dev/co216",
+      "summary": "Trending on Hugging Face",
+      "published": "2026-08-10T16:21:25+00:00",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "harrywang01/rebuttal-baselines",
-      "link": "https://huggingface.co/harrywang01/rebuttal-baselines",
-      "published": "2026-08-10T14:28:59+00:00",
+      "title": "stage-babylm/llama-128-1L",
+      "link": "https://huggingface.co/stage-babylm/llama-128-1L",
+      "summary": "Trending on Hugging Face",
+      "published": "2026-08-10T16:21:25+00:00",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "bghira/minimax-h3-anyflow-wip",
-      "link": "https://huggingface.co/bghira/minimax-h3-anyflow-wip",
-      "published": "2026-08-10T14:28:56+00:00",
+      "title": "neonforestmist/Clover-Image-Tiny",
+      "link": "https://huggingface.co/neonforestmist/Clover-Image-Tiny",
+      "summary": "Trending on Hugging Face · text-to-image",
+      "published": "2026-08-10T16:21:22+00:00",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "layaiyer/hateconceptFT-syn-combined-all-vanilla-lora",
-      "link": "https://huggingface.co/layaiyer/hateconceptFT-syn-combined-all-vanilla-lora",
-      "published": "2026-08-10T14:28:56+00:00",
+      "title": "chronocode7/co183",
+      "link": "https://huggingface.co/chronocode7/co183",
+      "summary": "Trending on Hugging Face",
+      "published": "2026-08-10T16:21:21+00:00",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "aibatchelor22/multi_species_detector_epoch_6_shift_gain_mean_sub_high_pass_os_boost",
-      "link": "https://huggingface.co/aibatchelor22/multi_species_detector_epoch_6_shift_gain_mean_sub_high_pass_os_boost",
-      "published": "2026-08-10T14:28:53+00:00",
+      "title": "Miiche/visualrl-gad-pure-v3",
+      "link": "https://huggingface.co/Miiche/visualrl-gad-pure-v3",
+      "summary": "Trending on Hugging Face",
+      "published": "2026-08-10T16:21:19+00:00",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "icebitz/co7",
+      "link": "https://huggingface.co/icebitz/co7",
+      "summary": "Trending on Hugging Face",
+      "published": "2026-08-10T16:21:18+00:00",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "hunter-04/co2",
+      "link": "https://huggingface.co/hunter-04/co2",
+      "summary": "Trending on Hugging Face",
+      "published": "2026-08-10T16:21:18+00:00",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "niklastr/dipper",
+      "link": "https://huggingface.co/niklastr/dipper",
+      "summary": "Trending on Hugging Face",
+      "published": "2026-08-10T16:21:13+00:00",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "godit15/co33",
+      "link": "https://huggingface.co/godit15/co33",
+      "summary": "Trending on Hugging Face",
+      "published": "2026-08-10T16:21:13+00:00",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "UlukaDev/Uluka-Comet-1.5B-Hybrid-Ternary",
+      "link": "https://huggingface.co/UlukaDev/Uluka-Comet-1.5B-Hybrid-Ternary",
+      "summary": "Trending on Hugging Face · text-generation",
+      "published": "2026-08-10T16:21:11+00:00",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "Miiche/visualrl-agopd-v3",
+      "link": "https://huggingface.co/Miiche/visualrl-agopd-v3",
+      "summary": "Trending on Hugging Face",
+      "published": "2026-08-10T16:21:10+00:00",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
       "title": "Miiche/visualrl-opd-v3",
       "link": "https://huggingface.co/Miiche/visualrl-opd-v3",
-      "published": "2026-08-10T14:28:50+00:00",
+      "summary": "Trending on Hugging Face",
+      "published": "2026-08-10T16:21:07+00:00",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "Miiche/visualrl-opd-gkd",
-      "link": "https://huggingface.co/Miiche/visualrl-opd-gkd",
-      "published": "2026-08-10T14:28:50+00:00",
+      "title": "legend9/co233",
+      "link": "https://huggingface.co/legend9/co233",
+      "summary": "Trending on Hugging Face",
+      "published": "2026-08-10T16:21:04+00:00",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "velev65656/sn99-router-a",
-      "link": "https://huggingface.co/velev65656/sn99-router-a",
-      "published": "2026-08-10T14:28:48+00:00",
+      "title": "stage-babylm/llama-128-12L",
+      "link": "https://huggingface.co/stage-babylm/llama-128-12L",
+      "summary": "Trending on Hugging Face",
+      "published": "2026-08-10T16:21:04+00:00",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "beyondyourself113/sn99-r2",
-      "link": "https://huggingface.co/beyondyourself113/sn99-r2",
-      "published": "2026-08-10T14:28:48+00:00",
+      "title": "sundaycoil/linting-orchestrator",
+      "link": "https://huggingface.co/sundaycoil/linting-orchestrator",
+      "summary": "Trending on Hugging Face",
+      "published": "2026-08-10T16:20:56+00:00",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "sundaycoil/circuit-breaker",
-      "link": "https://huggingface.co/sundaycoil/circuit-breaker",
-      "published": "2026-08-10T14:28:44+00:00",
+      "title": "chronocode7/co191",
+      "link": "https://huggingface.co/chronocode7/co191",
+      "summary": "Trending on Hugging Face",
+      "published": "2026-08-10T16:20:55+00:00",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "prithivMLmods/Muse-Glimmer-30B-GGUF",
-      "link": "https://huggingface.co/prithivMLmods/Muse-Glimmer-30B-GGUF",
-      "published": "2026-08-10T14:28:44+00:00",
+      "title": "magic-dev/co186",
+      "link": "https://huggingface.co/magic-dev/co186",
+      "summary": "Trending on Hugging Face",
+      "published": "2026-08-10T16:20:52+00:00",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "maheshwork/new_177_5dtnxamt4t",
-      "link": "https://huggingface.co/maheshwork/new_177_5dtnxamt4t",
-      "published": "2026-08-10T14:28:43+00:00",
+      "title": "Miiche/visualrl-ral-official",
+      "link": "https://huggingface.co/Miiche/visualrl-ral-official",
+      "summary": "Trending on Hugging Face",
+      "published": "2026-08-10T16:20:51+00:00",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "jacob-rojic/albedo-arc-bkn1890-hk974",
-      "link": "https://huggingface.co/jacob-rojic/albedo-arc-bkn1890-hk974",
-      "published": "2026-08-10T14:28:42+00:00",
+      "title": "icebitz/co16",
+      "link": "https://huggingface.co/icebitz/co16",
+      "summary": "Trending on Hugging Face",
+      "published": "2026-08-10T16:20:48+00:00",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "Yoko999/a2c-PandaReachDense-v3",
-      "link": "https://huggingface.co/Yoko999/a2c-PandaReachDense-v3",
-      "published": "2026-08-10T14:28:41+00:00",
+      "title": "Miiche/visualrl-gad-gated-v3",
+      "link": "https://huggingface.co/Miiche/visualrl-gad-gated-v3",
+      "summary": "Trending on Hugging Face",
+      "published": "2026-08-10T16:20:46+00:00",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "beyondyourself113/sn99-r1",
-      "link": "https://huggingface.co/beyondyourself113/sn99-r1",
-      "published": "2026-08-10T14:28:35+00:00",
+      "title": "hunter-04/co224",
+      "link": "https://huggingface.co/hunter-04/co224",
+      "summary": "Trending on Hugging Face",
+      "published": "2026-08-10T16:20:45+00:00",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "ajaxdavis/alpha-yi-f7-base-locked-20260810",
-      "link": "https://huggingface.co/ajaxdavis/alpha-yi-f7-base-locked-20260810",
-      "published": "2026-08-10T14:28:35+00:00",
+      "title": "godit15/co55",
+      "link": "https://huggingface.co/godit15/co55",
+      "summary": "Trending on Hugging Face",
+      "published": "2026-08-10T16:20:38+00:00",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "paulsaul126261/nagini-glm-5.2-abliterated-fp8",
-      "link": "https://huggingface.co/paulsaul126261/nagini-glm-5.2-abliterated-fp8",
-      "published": "2026-08-10T14:28:31+00:00",
+      "title": "legend9/co189",
+      "link": "https://huggingface.co/legend9/co189",
+      "summary": "Trending on Hugging Face",
+      "published": "2026-08-10T16:20:32+00:00",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "KissTheHabit/IDA_AI",
-      "link": "https://huggingface.co/KissTheHabit/IDA_AI",
-      "published": "2026-08-10T14:28:30+00:00",
+      "title": "magic-dev/co219",
+      "link": "https://huggingface.co/magic-dev/co219",
+      "summary": "Trending on Hugging Face",
+      "published": "2026-08-10T16:20:25+00:00",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "JamesResearch1216/HELM_7c",
-      "link": "https://huggingface.co/JamesResearch1216/HELM_7c",
-      "published": "2026-08-10T14:28:30+00:00",
+      "title": "bcckfdn/llama-resized-v5.0.12-fp16_ckpt1600",
+      "link": "https://huggingface.co/bcckfdn/llama-resized-v5.0.12-fp16_ckpt1600",
+      "summary": "Trending on Hugging Face",
+      "published": "2026-08-10T16:20:25+00:00",
       "category": "model_upload"
     },
     {
-      "source": "Hugging Face Hub",
-      "title": "aixk/fasthypernet-125m-tagless68",
-      "link": "https://huggingface.co/aixk/fasthypernet-125m-tagless68",
-      "published": "2026-08-10T14:28:26+00:00",
-      "category": "model_upload"
-    },
-    {
-      "source": "Hugging Face Hub",
-      "title": "vmlinux/Muse-Glimmer-30B-ROCmFPX-GGUF",
-      "link": "https://huggingface.co/vmlinux/Muse-Glimmer-30B-ROCmFPX-GGUF",
-      "published": "2026-08-10T14:28:25+00:00",
-      "category": "model_upload"
-    },
-    {
-      "source": "Hugging Face Hub",
-      "title": "royhensley/koth-miner-v303",
-      "link": "https://huggingface.co/royhensley/koth-miner-v303",
-      "published": "2026-08-10T14:28:22+00:00",
-      "category": "model_upload"
-    },
-    {
-      "source": "Hugging Face Hub",
-      "title": "BlueShark1214/koth-miner",
-      "link": "https://huggingface.co/BlueShark1214/koth-miner",
-      "published": "2026-08-10T14:28:18+00:00",
-      "category": "model_upload"
-    },
-    {
-      "source": "Hugging Face Hub",
-      "title": "zatup/sn99-router-v2",
-      "link": "https://huggingface.co/zatup/sn99-router-v2",
-      "published": "2026-08-10T14:28:17+00:00",
-      "category": "model_upload"
-    },
-    {
-      "source": "Hugging Face Hub",
-      "title": "realrebelai/Rebels_w4a8s",
-      "link": "https://huggingface.co/realrebelai/Rebels_w4a8s",
-      "published": "2026-08-10T14:28:17+00:00",
-      "category": "model_upload"
+      "source": "Google AI",
+      "title": "Evolve your marketing with new AI tools",
+      "link": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
+      "summary": "Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow.",
+      "published": "2026-08-10T14:30:00+00:00",
+      "category": "release"
     },
     {
       "source": "OpenAI",
       "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
       "link": "https://openai.com/index/responsible-ai-infrastructure-texas",
+      "summary": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
       "published": "2026-08-10T14:00:00+00:00",
-      "category": "announcement"
+      "category": "release"
     },
     {
       "source": "OpenAI",
       "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
       "link": "https://openai.com/index/model-ml",
+      "summary": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
       "published": "2026-08-10T12:00:00+00:00",
-      "category": "announcement"
+      "category": "release"
     },
     {
       "source": "Hugging Face",
       "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
       "link": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+      "summary": "",
       "published": "2026-08-10T10:05:36+00:00",
-      "category": "announcement"
+      "category": "release"
     },
     {
       "source": "Hugging Face",
       "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
       "link": "https://huggingface.co/blog/muse-glimmer",
+      "summary": "",
       "published": "2026-08-10T00:00:00+00:00",
-      "category": "announcement"
+      "category": "release"
     }
   ]
 }

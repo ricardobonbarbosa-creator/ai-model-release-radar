@@ -1,39 +1,93 @@
-# AI Model Release Digest — 2026-08-10
+# 🛰️ Resumo Diário de IA — 2026-08-10
 
-## Hugging Face Hub (25)
-- [Miiche/visualrl-ral-official](https://huggingface.co/Miiche/visualrl-ral-official)
-- [harrywang01/rebuttal-baselines](https://huggingface.co/harrywang01/rebuttal-baselines)
-- [bghira/minimax-h3-anyflow-wip](https://huggingface.co/bghira/minimax-h3-anyflow-wip)
-- [layaiyer/hateconceptFT-syn-combined-all-vanilla-lora](https://huggingface.co/layaiyer/hateconceptFT-syn-combined-all-vanilla-lora)
-- [aibatchelor22/multi_species_detector_epoch_6_shift_gain_mean_sub_high_pass_os_boost](https://huggingface.co/aibatchelor22/multi_species_detector_epoch_6_shift_gain_mean_sub_high_pass_os_boost)
-- [Miiche/visualrl-opd-v3](https://huggingface.co/Miiche/visualrl-opd-v3)
-- [Miiche/visualrl-opd-gkd](https://huggingface.co/Miiche/visualrl-opd-gkd)
-- [velev65656/sn99-router-a](https://huggingface.co/velev65656/sn99-router-a)
-- [beyondyourself113/sn99-r2](https://huggingface.co/beyondyourself113/sn99-r2)
-- [sundaycoil/circuit-breaker](https://huggingface.co/sundaycoil/circuit-breaker)
-- [prithivMLmods/Muse-Glimmer-30B-GGUF](https://huggingface.co/prithivMLmods/Muse-Glimmer-30B-GGUF)
-- [maheshwork/new_177_5dtnxamt4t](https://huggingface.co/maheshwork/new_177_5dtnxamt4t)
-- [jacob-rojic/albedo-arc-bkn1890-hk974](https://huggingface.co/jacob-rojic/albedo-arc-bkn1890-hk974)
-- [Yoko999/a2c-PandaReachDense-v3](https://huggingface.co/Yoko999/a2c-PandaReachDense-v3)
-- [beyondyourself113/sn99-r1](https://huggingface.co/beyondyourself113/sn99-r1)
-- [ajaxdavis/alpha-yi-f7-base-locked-20260810](https://huggingface.co/ajaxdavis/alpha-yi-f7-base-locked-20260810)
-- [paulsaul126261/nagini-glm-5.2-abliterated-fp8](https://huggingface.co/paulsaul126261/nagini-glm-5.2-abliterated-fp8)
-- [KissTheHabit/IDA_AI](https://huggingface.co/KissTheHabit/IDA_AI)
-- [JamesResearch1216/HELM_7c](https://huggingface.co/JamesResearch1216/HELM_7c)
-- [aixk/fasthypernet-125m-tagless68](https://huggingface.co/aixk/fasthypernet-125m-tagless68)
-- [vmlinux/Muse-Glimmer-30B-ROCmFPX-GGUF](https://huggingface.co/vmlinux/Muse-Glimmer-30B-ROCmFPX-GGUF)
-- [royhensley/koth-miner-v303](https://huggingface.co/royhensley/koth-miner-v303)
-- [BlueShark1214/koth-miner](https://huggingface.co/BlueShark1214/koth-miner)
-- [zatup/sn99-router-v2](https://huggingface.co/zatup/sn99-router-v2)
-- [realrebelai/Rebels_w4a8s](https://huggingface.co/realrebelai/Rebels_w4a8s)
+## 🚀 Lançamentos e novidades (30)
+**🤗 [magic-dev/co216](https://huggingface.co/magic-dev/co216)** — Hugging Face Hub
+> Trending on Hugging Face
 
-## OpenAI (2)
-- [OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas](https://openai.com/index/responsible-ai-infrastructure-texas)
-- [Model ML completes finance work more efficiently with GPT-5.6 Sol](https://openai.com/index/model-ml)
+**🤗 [stage-babylm/llama-128-1L](https://huggingface.co/stage-babylm/llama-128-1L)** — Hugging Face Hub
+> Trending on Hugging Face
 
-## Hugging Face (2)
-- [Making Knowledge Distillation Cheap Enough to Run at Scale](https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation)
-- [Meta is back with Muse Glimmer: local, agentic, multimodal, and open source](https://huggingface.co/blog/muse-glimmer)
+**🤗 [neonforestmist/Clover-Image-Tiny](https://huggingface.co/neonforestmist/Clover-Image-Tiny)** — Hugging Face Hub
+> Trending on Hugging Face · text-to-image
+
+**🤗 [chronocode7/co183](https://huggingface.co/chronocode7/co183)** — Hugging Face Hub
+> Trending on Hugging Face
+
+**🤗 [Miiche/visualrl-gad-pure-v3](https://huggingface.co/Miiche/visualrl-gad-pure-v3)** — Hugging Face Hub
+> Trending on Hugging Face
+
+**🤗 [icebitz/co7](https://huggingface.co/icebitz/co7)** — Hugging Face Hub
+> Trending on Hugging Face
+
+**🤗 [hunter-04/co2](https://huggingface.co/hunter-04/co2)** — Hugging Face Hub
+> Trending on Hugging Face
+
+**🤗 [niklastr/dipper](https://huggingface.co/niklastr/dipper)** — Hugging Face Hub
+> Trending on Hugging Face
+
+**🤗 [godit15/co33](https://huggingface.co/godit15/co33)** — Hugging Face Hub
+> Trending on Hugging Face
+
+**🤗 [UlukaDev/Uluka-Comet-1.5B-Hybrid-Ternary](https://huggingface.co/UlukaDev/Uluka-Comet-1.5B-Hybrid-Ternary)** — Hugging Face Hub
+> Trending on Hugging Face · text-generation
+
+**🤗 [Miiche/visualrl-agopd-v3](https://huggingface.co/Miiche/visualrl-agopd-v3)** — Hugging Face Hub
+> Trending on Hugging Face
+
+**🤗 [Miiche/visualrl-opd-v3](https://huggingface.co/Miiche/visualrl-opd-v3)** — Hugging Face Hub
+> Trending on Hugging Face
+
+**🤗 [legend9/co233](https://huggingface.co/legend9/co233)** — Hugging Face Hub
+> Trending on Hugging Face
+
+**🤗 [stage-babylm/llama-128-12L](https://huggingface.co/stage-babylm/llama-128-12L)** — Hugging Face Hub
+> Trending on Hugging Face
+
+**🤗 [sundaycoil/linting-orchestrator](https://huggingface.co/sundaycoil/linting-orchestrator)** — Hugging Face Hub
+> Trending on Hugging Face
+
+**🤗 [chronocode7/co191](https://huggingface.co/chronocode7/co191)** — Hugging Face Hub
+> Trending on Hugging Face
+
+**🤗 [magic-dev/co186](https://huggingface.co/magic-dev/co186)** — Hugging Face Hub
+> Trending on Hugging Face
+
+**🤗 [Miiche/visualrl-ral-official](https://huggingface.co/Miiche/visualrl-ral-official)** — Hugging Face Hub
+> Trending on Hugging Face
+
+**🤗 [icebitz/co16](https://huggingface.co/icebitz/co16)** — Hugging Face Hub
+> Trending on Hugging Face
+
+**🤗 [Miiche/visualrl-gad-gated-v3](https://huggingface.co/Miiche/visualrl-gad-gated-v3)** — Hugging Face Hub
+> Trending on Hugging Face
+
+**🤗 [hunter-04/co224](https://huggingface.co/hunter-04/co224)** — Hugging Face Hub
+> Trending on Hugging Face
+
+**🤗 [godit15/co55](https://huggingface.co/godit15/co55)** — Hugging Face Hub
+> Trending on Hugging Face
+
+**🤗 [legend9/co189](https://huggingface.co/legend9/co189)** — Hugging Face Hub
+> Trending on Hugging Face
+
+**🤗 [magic-dev/co219](https://huggingface.co/magic-dev/co219)** — Hugging Face Hub
+> Trending on Hugging Face
+
+**🤗 [bcckfdn/llama-resized-v5.0.12-fp16_ckpt1600](https://huggingface.co/bcckfdn/llama-resized-v5.0.12-fp16_ckpt1600)** — Hugging Face Hub
+> Trending on Hugging Face
+
+**🚀 [Evolve your marketing with new AI tools](https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/)** — Google AI
+> Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow.
+
+**🚀 [OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas](https://openai.com/index/responsible-ai-infrastructure-texas)** — OpenAI
+> OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.
+
+**🚀 [Model ML completes finance work more efficiently with GPT-5.6 Sol](https://openai.com/index/model-ml)** — OpenAI
+> Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.
+
+**🚀 [Making Knowledge Distillation Cheap Enough to Run at Scale](https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation)** — Hugging Face
+
+**🚀 [Meta is back with Muse Glimmer: local, agentic, multimodal, and open source](https://huggingface.co/blog/muse-glimmer)** — Hugging Face
 
 ---
-[View live dashboard](https://ricardobonbarbosa-creator.github.io/ai-model-release-radar/)
+[📊 Ver dashboard completo](https://ricardobonbarbosa-creator.github.io/ai-model-release-radar/)
