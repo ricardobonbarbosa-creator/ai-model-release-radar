@@ -1,181 +1,181 @@
 {
   "date": "2026-08-10",
-  "generated_at": "2026-08-10T13:49:48.111279+00:00",
+  "generated_at": "2026-08-10T13:59:12.117097+00:00",
   "count": 28,
   "items": [
     {
       "source": "Hugging Face Hub",
-      "title": "beyondyourself113/sn99-r2",
-      "link": "https://huggingface.co/beyondyourself113/sn99-r2",
-      "published": "2026-08-10T13:49:45+00:00",
+      "title": "luzai-9527/luzai-krea2-character-v1",
+      "link": "https://huggingface.co/luzai-9527/luzai-krea2-character-v1",
+      "published": "2026-08-10T13:59:11+00:00",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "glory-hyeok/wam-dit4dit-gr1-jointInit10K-nstep5-agg4-ft-integ-frozen-action",
-      "link": "https://huggingface.co/glory-hyeok/wam-dit4dit-gr1-jointInit10K-nstep5-agg4-ft-integ-frozen-action",
-      "published": "2026-08-10T13:49:45+00:00",
+      "title": "JINOHYOON/ACT_58_322_uncapped_dirty_data",
+      "link": "https://huggingface.co/JINOHYOON/ACT_58_322_uncapped_dirty_data",
+      "published": "2026-08-10T13:59:10+00:00",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "glory-hyeok/wam-dit4dit-gr1-jointInit10K-nstep5-agg2-ft-integ-frozen-action",
-      "link": "https://huggingface.co/glory-hyeok/wam-dit4dit-gr1-jointInit10K-nstep5-agg2-ft-integ-frozen-action",
-      "published": "2026-08-10T13:49:44+00:00",
+      "title": "Swoxi/limit-poker-ai",
+      "link": "https://huggingface.co/Swoxi/limit-poker-ai",
+      "published": "2026-08-10T13:59:07+00:00",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "glory-hyeok/wam-dit4dit-gr1-jointInit10K-nstep5-agg2-integ-frozen-action",
-      "link": "https://huggingface.co/glory-hyeok/wam-dit4dit-gr1-jointInit10K-nstep5-agg2-integ-frozen-action",
-      "published": "2026-08-10T13:49:44+00:00",
+      "title": "Miiche/visualrl-opd-v3",
+      "link": "https://huggingface.co/Miiche/visualrl-opd-v3",
+      "published": "2026-08-10T13:59:04+00:00",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "xxrickyxx/AILOFlow",
-      "link": "https://huggingface.co/xxrickyxx/AILOFlow",
-      "published": "2026-08-10T13:49:43+00:00",
+      "title": "GohaDAYN/sn99-router",
+      "link": "https://huggingface.co/GohaDAYN/sn99-router",
+      "published": "2026-08-10T13:59:02+00:00",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "glory-hyeok/wam-dit4dit-gr1-jointInit10K-nstep4-agg4-integ-frozen-action",
-      "link": "https://huggingface.co/glory-hyeok/wam-dit4dit-gr1-jointInit10K-nstep4-agg4-integ-frozen-action",
-      "published": "2026-08-10T13:49:43+00:00",
+      "title": "OSTswiss/whisper-large-v3-turbo-swiss-german-ct2",
+      "link": "https://huggingface.co/OSTswiss/whisper-large-v3-turbo-swiss-german-ct2",
+      "published": "2026-08-10T13:59:02+00:00",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "nurida-senior/my-comfyui-models",
-      "link": "https://huggingface.co/nurida-senior/my-comfyui-models",
-      "published": "2026-08-10T13:49:42+00:00",
+      "title": "sundaycoil/note-taking-app",
+      "link": "https://huggingface.co/sundaycoil/note-taking-app",
+      "published": "2026-08-10T13:58:58+00:00",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "MilesKimRLWRLD/domino-rldx-1",
-      "link": "https://huggingface.co/MilesKimRLWRLD/domino-rldx-1",
-      "published": "2026-08-10T13:49:42+00:00",
+      "title": "tanprodium/augseg-checkpoints",
+      "link": "https://huggingface.co/tanprodium/augseg-checkpoints",
+      "published": "2026-08-10T13:58:54+00:00",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "glory-hyeok/wam-dit4dit-gr1-jointInit10K-nstep4-agg4-ftbaseres-rezero-integ-frozen-action",
-      "link": "https://huggingface.co/glory-hyeok/wam-dit4dit-gr1-jointInit10K-nstep4-agg4-ftbaseres-rezero-integ-frozen-action",
-      "published": "2026-08-10T13:49:42+00:00",
+      "title": "AXERA-TECH/Pulsar2",
+      "link": "https://huggingface.co/AXERA-TECH/Pulsar2",
+      "published": "2026-08-10T13:58:53+00:00",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "glory-hyeok/wam-dit4dit-gr1-jointInit10K-nstep4-agg4-ftbaseres-zeroconv-integ-frozen-action",
-      "link": "https://huggingface.co/glory-hyeok/wam-dit4dit-gr1-jointInit10K-nstep4-agg4-ftbaseres-zeroconv-integ-frozen-action",
-      "published": "2026-08-10T13:49:42+00:00",
+      "title": "Bc-AI/nova-1-standard-checkpoints",
+      "link": "https://huggingface.co/Bc-AI/nova-1-standard-checkpoints",
+      "published": "2026-08-10T13:58:52+00:00",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "glory-hyeok/wam-dit4dit-gr1-jointInit10K-nstep4-agg4-ftbaseres-rezero-e4-warmup-integ-frozen-action",
-      "link": "https://huggingface.co/glory-hyeok/wam-dit4dit-gr1-jointInit10K-nstep4-agg4-ftbaseres-rezero-e4-warmup-integ-frozen-action",
-      "published": "2026-08-10T13:49:41+00:00",
+      "title": "chengze79/MyAwesomeModel-TestRepo",
+      "link": "https://huggingface.co/chengze79/MyAwesomeModel-TestRepo",
+      "published": "2026-08-10T13:58:52+00:00",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "beketov027/koth-miner",
-      "link": "https://huggingface.co/beketov027/koth-miner",
-      "published": "2026-08-10T13:49:40+00:00",
+      "title": "Miiche/visualrl-gad-gated-v3",
+      "link": "https://huggingface.co/Miiche/visualrl-gad-gated-v3",
+      "published": "2026-08-10T13:58:50+00:00",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "glory-hyeok/wam-dit4dit-gr1-jointInit10K-nstep4-agg4-ftbaseres-rezero-e3-stepdropout-integ-frozen-action",
-      "link": "https://huggingface.co/glory-hyeok/wam-dit4dit-gr1-jointInit10K-nstep4-agg4-ftbaseres-rezero-e3-stepdropout-integ-frozen-action",
-      "published": "2026-08-10T13:49:40+00:00",
+      "title": "riftstack/Laguna-S-2.1-exl3",
+      "link": "https://huggingface.co/riftstack/Laguna-S-2.1-exl3",
+      "published": "2026-08-10T13:58:49+00:00",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "glory-hyeok/wam-dit4dit-gr1-jointInit10K-nstep4-agg4-ftbaseres-rezero-e2-perstepgated-integ-frozen-action",
-      "link": "https://huggingface.co/glory-hyeok/wam-dit4dit-gr1-jointInit10K-nstep4-agg4-ftbaseres-rezero-e2-perstepgated-integ-frozen-action",
-      "published": "2026-08-10T13:49:40+00:00",
+      "title": "DreamFast/Qwen3-VL-4b-Heretic-ComfyUI",
+      "link": "https://huggingface.co/DreamFast/Qwen3-VL-4b-Heretic-ComfyUI",
+      "published": "2026-08-10T13:58:45+00:00",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "glory-hyeok/wam-dit4dit-gr1-jointInit10K-nstep4-agg4-ftbaseres-rezero-e1-blackout-integ-frozen-action",
-      "link": "https://huggingface.co/glory-hyeok/wam-dit4dit-gr1-jointInit10K-nstep4-agg4-ftbaseres-rezero-e1-blackout-integ-frozen-action",
-      "published": "2026-08-10T13:49:39+00:00",
+      "title": "Miiche/visualrl-agopd-v3",
+      "link": "https://huggingface.co/Miiche/visualrl-agopd-v3",
+      "published": "2026-08-10T13:58:45+00:00",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "aixk/fasthypernet-125m-tagless68",
-      "link": "https://huggingface.co/aixk/fasthypernet-125m-tagless68",
-      "published": "2026-08-10T13:49:38+00:00",
+      "title": "14A2/A8UqVHOQRahfLiOo",
+      "link": "https://huggingface.co/14A2/A8UqVHOQRahfLiOo",
+      "published": "2026-08-10T13:58:41+00:00",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "fanzh03/fast-wam",
-      "link": "https://huggingface.co/fanzh03/fast-wam",
-      "published": "2026-08-10T13:49:38+00:00",
+      "title": "paulsaul126261/nagini-glm-5.2-abliterated-fp8",
+      "link": "https://huggingface.co/paulsaul126261/nagini-glm-5.2-abliterated-fp8",
+      "published": "2026-08-10T13:58:39+00:00",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "glory-hyeok/wam-dit4dit-gr1-jointInit10K-nstep4-agg2-integ-frozen-action",
-      "link": "https://huggingface.co/glory-hyeok/wam-dit4dit-gr1-jointInit10K-nstep4-agg2-integ-frozen-action",
-      "published": "2026-08-10T13:49:38+00:00",
+      "title": "Miiche/visualrl-ral-official",
+      "link": "https://huggingface.co/Miiche/visualrl-ral-official",
+      "published": "2026-08-10T13:58:36+00:00",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "glory-hyeok/wam-dit4dit-gr1-jointInit10K-nstep4-agg4-ft-integ-frozen-action",
-      "link": "https://huggingface.co/glory-hyeok/wam-dit4dit-gr1-jointInit10K-nstep4-agg4-ft-integ-frozen-action",
-      "published": "2026-08-10T13:49:38+00:00",
+      "title": "14A2/IDgFEZPT3UmvYLZl",
+      "link": "https://huggingface.co/14A2/IDgFEZPT3UmvYLZl",
+      "published": "2026-08-10T13:58:32+00:00",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "glory-hyeok/wam-dit4dit-gr1-jointInit10K-nstep4-agg2-ftbaseres-zeroconv-integ-frozen-action",
-      "link": "https://huggingface.co/glory-hyeok/wam-dit4dit-gr1-jointInit10K-nstep4-agg2-ftbaseres-zeroconv-integ-frozen-action",
-      "published": "2026-08-10T13:49:37+00:00",
+      "title": "Jack214/albedo-qwen3.6-35b-jackjack",
+      "link": "https://huggingface.co/Jack214/albedo-qwen3.6-35b-jackjack",
+      "published": "2026-08-10T13:58:25+00:00",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "glory-hyeok/wam-dit4dit-gr1-jointInit10K-nstep4-agg2-ftbaseres-zeroconv-compressK64-integ-frozen-action",
-      "link": "https://huggingface.co/glory-hyeok/wam-dit4dit-gr1-jointInit10K-nstep4-agg2-ftbaseres-zeroconv-compressK64-integ-frozen-action",
-      "published": "2026-08-10T13:49:36+00:00",
+      "title": "putty77/p77-4",
+      "link": "https://huggingface.co/putty77/p77-4",
+      "published": "2026-08-10T13:58:22+00:00",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "glory-hyeok/wam-dit4dit-gr1-jointInit10K-nstep4-agg2-ftbaseres-zeroconv-compressK32-integ-frozen-action",
-      "link": "https://huggingface.co/glory-hyeok/wam-dit4dit-gr1-jointInit10K-nstep4-agg2-ftbaseres-zeroconv-compressK32-integ-frozen-action",
-      "published": "2026-08-10T13:49:36+00:00",
+      "title": "Cameron3T3T/coco2",
+      "link": "https://huggingface.co/Cameron3T3T/coco2",
+      "published": "2026-08-10T13:58:21+00:00",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "beyondyourself113/sn99-r1",
-      "link": "https://huggingface.co/beyondyourself113/sn99-r1",
-      "published": "2026-08-10T13:49:35+00:00",
+      "title": "sundaycoil/plant-care-reminder",
+      "link": "https://huggingface.co/sundaycoil/plant-care-reminder",
+      "published": "2026-08-10T13:58:20+00:00",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "glory-hyeok/wam-dit4dit-gr1-jointInit10K-nstep4-agg2-ftbaseres-rezero-integ-frozen-action",
-      "link": "https://huggingface.co/glory-hyeok/wam-dit4dit-gr1-jointInit10K-nstep4-agg2-ftbaseres-rezero-integ-frozen-action",
-      "published": "2026-08-10T13:49:35+00:00",
+      "title": "putty77/p77-5",
+      "link": "https://huggingface.co/putty77/p77-5",
+      "published": "2026-08-10T13:58:20+00:00",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "nphSi/Z-Image-Lora",
-      "link": "https://huggingface.co/nphSi/Z-Image-Lora",
-      "published": "2026-08-10T13:49:34+00:00",
+      "title": "Cameron3T3T/coco1",
+      "link": "https://huggingface.co/Cameron3T3T/coco1",
+      "published": "2026-08-10T13:58:20+00:00",
       "category": "model_upload"
     },
     {
