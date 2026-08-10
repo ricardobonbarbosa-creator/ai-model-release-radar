@@ -51,7 +51,7 @@ let activeFilter = "All";
 
 async function loadData() {
   try {
-    const res = await fetch("../data/history.json?_=" + Date.now());
+    const res = await fetch("data/history.json?_=" + Date.now());
     const history = await res.json();
     render(history);
   } catch (e) {

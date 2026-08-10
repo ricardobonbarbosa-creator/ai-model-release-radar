@@ -48,6 +48,12 @@ jobs:
           TITLE="AI Model Release Digest — $(date -u +%F)"
           gh issue create --title "$TITLE" --body-file "$BODY_FILE" --label "digest"
 
+      - name: Copy data into docs for Pages
+        run: |
+          mkdir -p docs/data
+          cp data/history.json docs/data/history.json
+          cp data/latest.json docs/data/latest.json
+
       - name: Setup Pages
         uses: actions/configure-pages@v6
         with:
