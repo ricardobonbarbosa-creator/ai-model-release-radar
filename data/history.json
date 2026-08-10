@@ -1,182 +1,182 @@
 [
   {
     "date": "2026-08-10",
-    "generated_at": "2026-08-10T14:24:15.276126+00:00",
+    "generated_at": "2026-08-10T14:29:05.489272+00:00",
     "count": 29,
     "items": [
       {
         "source": "Hugging Face Hub",
-        "title": "anbucode/fake-news-distilbert",
-        "link": "https://huggingface.co/anbucode/fake-news-distilbert",
-        "published": "2026-08-10T14:24:10+00:00",
+        "title": "Miiche/visualrl-ral-official",
+        "link": "https://huggingface.co/Miiche/visualrl-ral-official",
+        "published": "2026-08-10T14:29:03+00:00",
         "category": "model_upload"
       },
       {
         "source": "Hugging Face Hub",
-        "title": "toola/MyAwesomeModel-TestRepo",
-        "link": "https://huggingface.co/toola/MyAwesomeModel-TestRepo",
-        "published": "2026-08-10T14:23:54+00:00",
+        "title": "harrywang01/rebuttal-baselines",
+        "link": "https://huggingface.co/harrywang01/rebuttal-baselines",
+        "published": "2026-08-10T14:28:59+00:00",
         "category": "model_upload"
       },
       {
         "source": "Hugging Face Hub",
-        "title": "ASzecsenyi/VQLM",
-        "link": "https://huggingface.co/ASzecsenyi/VQLM",
-        "published": "2026-08-10T14:23:50+00:00",
+        "title": "bghira/minimax-h3-anyflow-wip",
+        "link": "https://huggingface.co/bghira/minimax-h3-anyflow-wip",
+        "published": "2026-08-10T14:28:56+00:00",
         "category": "model_upload"
       },
       {
         "source": "Hugging Face Hub",
-        "title": "Elod1e/Llama-3.1-8B-Instruct-Lingala-QLoRA-merged_vf",
-        "link": "https://huggingface.co/Elod1e/Llama-3.1-8B-Instruct-Lingala-QLoRA-merged_vf",
-        "published": "2026-08-10T14:23:49+00:00",
+        "title": "layaiyer/hateconceptFT-syn-combined-all-vanilla-lora",
+        "link": "https://huggingface.co/layaiyer/hateconceptFT-syn-combined-all-vanilla-lora",
+        "published": "2026-08-10T14:28:56+00:00",
         "category": "model_upload"
       },
       {
         "source": "Hugging Face Hub",
-        "title": "best26/hk974",
-        "link": "https://huggingface.co/best26/hk974",
-        "published": "2026-08-10T14:23:46+00:00",
-        "category": "model_upload"
-      },
-      {
-        "source": "Hugging Face Hub",
-        "title": "Kanha-AI/kanha_0.6B_v1",
-        "link": "https://huggingface.co/Kanha-AI/kanha_0.6B_v1",
-        "published": "2026-08-10T14:23:45+00:00",
-        "category": "model_upload"
-      },
-      {
-        "source": "Hugging Face Hub",
-        "title": "jbdc1/milmmt-fulltune-vi-lo-en-4b",
-        "link": "https://huggingface.co/jbdc1/milmmt-fulltune-vi-lo-en-4b",
-        "published": "2026-08-10T14:23:41+00:00",
-        "category": "model_upload"
-      },
-      {
-        "source": "Hugging Face Hub",
-        "title": "Miiche/visualrl-ft-grpo",
-        "link": "https://huggingface.co/Miiche/visualrl-ft-grpo",
-        "published": "2026-08-10T14:23:35+00:00",
-        "category": "model_upload"
-      },
-      {
-        "source": "Hugging Face Hub",
-        "title": "keystats/w2v-bert-2.0-lingala-main-best-3",
-        "link": "https://huggingface.co/keystats/w2v-bert-2.0-lingala-main-best-3",
-        "published": "2026-08-10T14:23:33+00:00",
-        "category": "model_upload"
-      },
-      {
-        "source": "Hugging Face Hub",
-        "title": "best26/jackjack",
-        "link": "https://huggingface.co/best26/jackjack",
-        "published": "2026-08-10T14:23:31+00:00",
-        "category": "model_upload"
-      },
-      {
-        "source": "Hugging Face Hub",
-        "title": "Miiche/visualrl-agopd-v3",
-        "link": "https://huggingface.co/Miiche/visualrl-agopd-v3",
-        "published": "2026-08-10T14:23:30+00:00",
-        "category": "model_upload"
-      },
-      {
-        "source": "Hugging Face Hub",
-        "title": "sam01ghsh/experiments_pythia-160m-deduped_matryoshka_batch_top_k_baseline",
-        "link": "https://huggingface.co/sam01ghsh/experiments_pythia-160m-deduped_matryoshka_batch_top_k_baseline",
-        "published": "2026-08-10T14:23:27+00:00",
-        "category": "model_upload"
-      },
-      {
-        "source": "Hugging Face Hub",
-        "title": "KissTheHabit/IDA_AI",
-        "link": "https://huggingface.co/KissTheHabit/IDA_AI",
-        "published": "2026-08-10T14:23:25+00:00",
-        "category": "model_upload"
-      },
-      {
-        "source": "Hugging Face Hub",
-        "title": "david123TJP/MyAwesomeModel-TestRepo",
-        "link": "https://huggingface.co/david123TJP/MyAwesomeModel-TestRepo",
-        "published": "2026-08-10T14:23:22+00:00",
+        "title": "aibatchelor22/multi_species_detector_epoch_6_shift_gain_mean_sub_high_pass_os_boost",
+        "link": "https://huggingface.co/aibatchelor22/multi_species_detector_epoch_6_shift_gain_mean_sub_high_pass_os_boost",
+        "published": "2026-08-10T14:28:53+00:00",
         "category": "model_upload"
       },
       {
         "source": "Hugging Face Hub",
         "title": "Miiche/visualrl-opd-v3",
         "link": "https://huggingface.co/Miiche/visualrl-opd-v3",
-        "published": "2026-08-10T14:23:18+00:00",
-        "category": "model_upload"
-      },
-      {
-        "source": "Hugging Face Hub",
-        "title": "Miiche/visualrl-gad-pure-v3",
-        "link": "https://huggingface.co/Miiche/visualrl-gad-pure-v3",
-        "published": "2026-08-10T14:23:16+00:00",
-        "category": "model_upload"
-      },
-      {
-        "source": "Hugging Face Hub",
-        "title": "abrar06/atlas-cp-model",
-        "link": "https://huggingface.co/abrar06/atlas-cp-model",
-        "published": "2026-08-10T14:23:15+00:00",
-        "category": "model_upload"
-      },
-      {
-        "source": "Hugging Face Hub",
-        "title": "csukuangfj2/sherpa-onnx-libs",
-        "link": "https://huggingface.co/csukuangfj2/sherpa-onnx-libs",
-        "published": "2026-08-10T14:23:14+00:00",
-        "category": "model_upload"
-      },
-      {
-        "source": "Hugging Face Hub",
-        "title": "vmlinux/Muse-Glimmer-30B-ROCmFPX-GGUF",
-        "link": "https://huggingface.co/vmlinux/Muse-Glimmer-30B-ROCmFPX-GGUF",
-        "published": "2026-08-10T14:23:07+00:00",
-        "category": "model_upload"
-      },
-      {
-        "source": "Hugging Face Hub",
-        "title": "devika-tiwari/gpt2_small_expandedbabyLM_25M_43",
-        "link": "https://huggingface.co/devika-tiwari/gpt2_small_expandedbabyLM_25M_43",
-        "published": "2026-08-10T14:23:02+00:00",
-        "category": "model_upload"
-      },
-      {
-        "source": "Hugging Face Hub",
-        "title": "Miiche/visualrl-ral-official",
-        "link": "https://huggingface.co/Miiche/visualrl-ral-official",
-        "published": "2026-08-10T14:22:59+00:00",
+        "published": "2026-08-10T14:28:50+00:00",
         "category": "model_upload"
       },
       {
         "source": "Hugging Face Hub",
         "title": "Miiche/visualrl-opd-gkd",
         "link": "https://huggingface.co/Miiche/visualrl-opd-gkd",
-        "published": "2026-08-10T14:22:55+00:00",
+        "published": "2026-08-10T14:28:50+00:00",
         "category": "model_upload"
       },
       {
         "source": "Hugging Face Hub",
-        "title": "michael00523/albedo-qwen3.6-35b-20260810-142252",
-        "link": "https://huggingface.co/michael00523/albedo-qwen3.6-35b-20260810-142252",
-        "published": "2026-08-10T14:22:52+00:00",
+        "title": "velev65656/sn99-router-a",
+        "link": "https://huggingface.co/velev65656/sn99-router-a",
+        "published": "2026-08-10T14:28:48+00:00",
         "category": "model_upload"
       },
       {
         "source": "Hugging Face Hub",
-        "title": "us-7z/20260810-232246",
-        "link": "https://huggingface.co/us-7z/20260810-232246",
-        "published": "2026-08-10T14:22:51+00:00",
+        "title": "beyondyourself113/sn99-r2",
+        "link": "https://huggingface.co/beyondyourself113/sn99-r2",
+        "published": "2026-08-10T14:28:48+00:00",
         "category": "model_upload"
       },
       {
         "source": "Hugging Face Hub",
-        "title": "two-loaves/queue_4t-v9a",
-        "link": "https://huggingface.co/two-loaves/queue_4t-v9a",
-        "published": "2026-08-10T14:22:48+00:00",
+        "title": "sundaycoil/circuit-breaker",
+        "link": "https://huggingface.co/sundaycoil/circuit-breaker",
+        "published": "2026-08-10T14:28:44+00:00",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "prithivMLmods/Muse-Glimmer-30B-GGUF",
+        "link": "https://huggingface.co/prithivMLmods/Muse-Glimmer-30B-GGUF",
+        "published": "2026-08-10T14:28:44+00:00",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "maheshwork/new_177_5dtnxamt4t",
+        "link": "https://huggingface.co/maheshwork/new_177_5dtnxamt4t",
+        "published": "2026-08-10T14:28:43+00:00",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "jacob-rojic/albedo-arc-bkn1890-hk974",
+        "link": "https://huggingface.co/jacob-rojic/albedo-arc-bkn1890-hk974",
+        "published": "2026-08-10T14:28:42+00:00",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Yoko999/a2c-PandaReachDense-v3",
+        "link": "https://huggingface.co/Yoko999/a2c-PandaReachDense-v3",
+        "published": "2026-08-10T14:28:41+00:00",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "beyondyourself113/sn99-r1",
+        "link": "https://huggingface.co/beyondyourself113/sn99-r1",
+        "published": "2026-08-10T14:28:35+00:00",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "ajaxdavis/alpha-yi-f7-base-locked-20260810",
+        "link": "https://huggingface.co/ajaxdavis/alpha-yi-f7-base-locked-20260810",
+        "published": "2026-08-10T14:28:35+00:00",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "paulsaul126261/nagini-glm-5.2-abliterated-fp8",
+        "link": "https://huggingface.co/paulsaul126261/nagini-glm-5.2-abliterated-fp8",
+        "published": "2026-08-10T14:28:31+00:00",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "KissTheHabit/IDA_AI",
+        "link": "https://huggingface.co/KissTheHabit/IDA_AI",
+        "published": "2026-08-10T14:28:30+00:00",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "JamesResearch1216/HELM_7c",
+        "link": "https://huggingface.co/JamesResearch1216/HELM_7c",
+        "published": "2026-08-10T14:28:30+00:00",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "aixk/fasthypernet-125m-tagless68",
+        "link": "https://huggingface.co/aixk/fasthypernet-125m-tagless68",
+        "published": "2026-08-10T14:28:26+00:00",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "vmlinux/Muse-Glimmer-30B-ROCmFPX-GGUF",
+        "link": "https://huggingface.co/vmlinux/Muse-Glimmer-30B-ROCmFPX-GGUF",
+        "published": "2026-08-10T14:28:25+00:00",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "royhensley/koth-miner-v303",
+        "link": "https://huggingface.co/royhensley/koth-miner-v303",
+        "published": "2026-08-10T14:28:22+00:00",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "BlueShark1214/koth-miner",
+        "link": "https://huggingface.co/BlueShark1214/koth-miner",
+        "published": "2026-08-10T14:28:18+00:00",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "zatup/sn99-router-v2",
+        "link": "https://huggingface.co/zatup/sn99-router-v2",
+        "published": "2026-08-10T14:28:17+00:00",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "realrebelai/Rebels_w4a8s",
+        "link": "https://huggingface.co/realrebelai/Rebels_w4a8s",
+        "published": "2026-08-10T14:28:17+00:00",
         "category": "model_upload"
       },
       {
