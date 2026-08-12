@@ -412,5 +412,244 @@
         "category": "model_upload"
       }
     ]
+  },
+  {
+    "date": "2026-08-12",
+    "generated_at": "2026-08-12T11:44:02.556623+00:00",
+    "count": 29,
+    "items": [
+      {
+        "source": "arXiv",
+        "title": "Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning",
+        "link": "http://arxiv.org/abs/2608.11204v1",
+        "summary": "Learning reliable surgical manipulation policies is bottlenecked by the scarcity of action-labeled demonstrations: teleoperated surgical robot (e.g., dVRK) trajectories with synchronized kinematics…",
+        "published": "2026-08-11T17:59:13+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "ConVAWG: A Retrieval-Grounded Framework for Controlled Synthetic Dialogue Generation in Violence Against Women and Girls",
+        "link": "http://arxiv.org/abs/2608.11200v1",
+        "summary": "Synthetic dialogue generation offers a way to study conversational dynamics in sensitive domains where real data are difficult to access, release, or annotate. The underlying abuse may occur online…",
+        "published": "2026-08-11T17:57:34+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "Beyond a Bag of Features: Set-Level Instability in Sparse Autoencoders",
+        "link": "http://arxiv.org/abs/2608.11197v1",
+        "summary": "Shani et al. (2026) show that LLM representations broadly recover human category boundaries, while failing to reflect fine-grained typicality structure. Their analysis uses cosine similarity over…",
+        "published": "2026-08-11T17:55:59+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "Long-Horizon AI Research for Grothendieck Constant: A Case Study in Human-AI Mathematical Collaboration",
+        "link": "http://arxiv.org/abs/2608.11195v1",
+        "summary": "AI agents are increasingly used in mathematics research, but it is often unclear how to use them effectively. Towards this, we present an extensive case study of how AI was used to improve bounds on…",
+        "published": "2026-08-11T17:53:48+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "Test-Time Self-Evolving GUI Visual Grounding via Reflection-Guided On-Policy Self-Distillation",
+        "link": "http://arxiv.org/abs/2608.11191v1",
+        "summary": "GUI Visual Grounding is a fundamental capability for GUI agents. Existing models typically freeze their parameters after deployment, limiting their ability to adapt to unseen interfaces. Although…",
+        "published": "2026-08-11T17:50:25+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "How to Verify Consistency of Probabilistic Claims",
+        "link": "http://arxiv.org/abs/2608.11181v1",
+        "summary": "When a probabilistic predictor answers many conditional-probability queries, are its answers self-consistent, and can this be verified in polynomial time? This problem is of interest for AI safety,…",
+        "published": "2026-08-11T17:41:39+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "From Interpretability to Control: Insights from Six Years of the TrustNLP Workshop",
+        "link": "http://arxiv.org/abs/2608.11171v1",
+        "summary": "The Workshop on Trustworthy Natural Language Processing (TrustNLP), co-located with major ACL conferences since 2021, has grown from 8 proceedings papers to 41 over six editions, documenting a…",
+        "published": "2026-08-11T17:30:16+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "MultiModal Code-Switching: Interleaving Visual Objects into Language for Explicit Object-Level Alignment",
+        "link": "http://arxiv.org/abs/2608.11167v1",
+        "summary": "Existing Multimodal Large Language Models (MLLMs) predominantly rely on image-text pairs for modality alignment pretraining, mapping global image representations to long textual descriptions.…",
+        "published": "2026-08-11T17:28:52+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "The Illusion of Cross-Lingual Safety in Low-Resource Languages",
+        "link": "http://arxiv.org/abs/2608.11146v1",
+        "summary": "Safety alignment in large language models (LLMs) is largely developed in English, assuming these safeguards generalize across multilingual settings. However, this assumption remains underexplored and…",
+        "published": "2026-08-11T17:05:26+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "Google AI",
+        "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+        "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+        "summary": "Google introduces AMIE for real-time clinical video consultations in simulated settings.",
+        "published": "2026-08-11T17:00:00+00:00",
+        "category": "release"
+      },
+      {
+        "source": "arXiv",
+        "title": "Attention-Path Fragility as an Uncertainty Signal in Large Language Models",
+        "link": "http://arxiv.org/abs/2608.11138v1",
+        "summary": "We propose that a model's uncertainty about a token is reflected not only in the breadth of its output distribution but also in whether a confident prediction is \\emph{fragile} under perturbation of…",
+        "published": "2026-08-11T16:59:02+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "sLTN: Structural Logic Tensor Networks",
+        "link": "http://arxiv.org/abs/2608.11136v1",
+        "summary": "Logic Tensor Networks (LTN) provide a neurosymbolic framework in which first-order logic is interpreted through tensor operations, enabling logical constraints to be integrated with differentiable…",
+        "published": "2026-08-11T16:58:38+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "Two-stage Odd Residual Flows for Mean-Preserving Probabilistic Time Series Forecasting",
+        "link": "http://arxiv.org/abs/2608.11114v1",
+        "summary": "Probabilistic forecasting plays an essential role in risk-sensitive decision-making, particularly in long-horizon settings. However, existing approaches often face a fundamental trade-off between…",
+        "published": "2026-08-11T16:22:47+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "Actions Speak Louder than Words: Measuring Cross-Lingual Policy Retention in Tool-Using Agents",
+        "link": "http://arxiv.org/abs/2608.11110v1",
+        "summary": "When a tool-using agent is given the same task in a different language, does it still take the same steps? Multilingual evaluation rarely asks: it compares final answers and discards the actions. Yet…",
+        "published": "2026-08-11T16:18:34+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "Why Does CLAUDE.md Keep Growing? Catastrophic Remembering in Agentic Coding",
+        "link": "http://arxiv.org/abs/2608.11095v1",
+        "summary": "Agentic coding READMEs like CLAUDE.md grow without bound in real repositories, stopping only when the repository retires or someone rewrites the file wholesale. We trace this to imperfect recall:…",
+        "published": "2026-08-11T16:00:55+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "RTSKG: Building a Rail Transit Station Knowledge Graph Dataset",
+        "link": "http://arxiv.org/abs/2608.11080v1",
+        "summary": "Rail transit systems play a vital role in urban mobility and economic development. As key components of such systems, rail transit stations function as critical transport hubs that enhance urban…",
+        "published": "2026-08-11T15:41:34+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "Hugging Face",
+        "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+        "link": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+        "summary": "",
+        "published": "2026-08-11T13:37:10+00:00",
+        "category": "release"
+      },
+      {
+        "source": "OpenAI",
+        "title": "Testing ads in ChatGPT",
+        "link": "https://openai.com/index/testing-ads-in-chatgpt",
+        "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+        "published": "2026-08-11T10:00:00+00:00",
+        "category": "release"
+      },
+      {
+        "source": "OpenAI",
+        "title": "Daybreak models are now available on AWS",
+        "link": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+        "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+        "published": "2026-08-11T10:00:00+00:00",
+        "category": "release"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "MiniMaxAI/MiniMax-H3",
+        "link": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+        "summary": "3662 curtidas no Hugging Face · image-text-to-video",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "meta-models/Muse-Glimmer-30B",
+        "link": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
+        "summary": "1178 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "larryvrh/MiniMax-H3-Turbo-Lora",
+        "link": "https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora",
+        "summary": "675 curtidas no Hugging Face · text-to-video",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+        "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+        "summary": "3197 curtidas no Hugging Face · text-generation",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Comfy-Org/MiniMax-H3",
+        "link": "https://huggingface.co/Comfy-Org/MiniMax-H3",
+        "summary": "1235 curtidas no Hugging Face",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Lightricks/LTX-2.5",
+        "link": "https://huggingface.co/Lightricks/LTX-2.5",
+        "summary": "413 curtidas no Hugging Face · image-to-video",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "moonshotai/Kimi-K3",
+        "link": "https://huggingface.co/moonshotai/Kimi-K3",
+        "summary": "10553 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "lightx2v/Minimax-h3-Turbo",
+        "link": "https://huggingface.co/lightx2v/Minimax-h3-Turbo",
+        "summary": "381 curtidas no Hugging Face · image-to-video",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+        "link": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+        "summary": "1927 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "LiquidAI/LFM2.5-2.6B",
+        "link": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
+        "summary": "567 curtidas no Hugging Face · text-generation",
+        "published": "",
+        "category": "model_upload"
+      }
+    ]
   }
 ]
