@@ -1,56 +1,55 @@
-# 🛰️ Resumo Diário de IA — 2026-08-12
+# 🛰️ Resumo Diário de IA — 2026-08-13
 
 ## 🚀 Lançamentos e novidades (14)
-**🚀 [AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.](https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/)** — Google AI
-> Google introduces AMIE for real-time clinical video consultations in simulated settings.
+**🚀 [Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis](https://huggingface.co/blog/allenai/olmoearth-embeddings)** — Hugging Face
 
-**🚀 [Thinking of ACE? We Can Do It with Fewer Tokens](https://huggingface.co/blog/ibm-research/altk-evolve-sldd)** — Hugging Face
+**🚀 [Putting sign language AI into users’ hands](https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/)** — DeepMind
+> Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.
 
-**🚀 [Testing ads in ChatGPT](https://openai.com/index/testing-ads-in-chatgpt)** — OpenAI
-> OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.
+**🚀 [LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge](https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b)** — Hugging Face
 
-**🚀 [Daybreak models are now available on AWS](https://openai.com/index/daybreak-models-are-now-available-on-aws)** — OpenAI
-> OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.
-
-**🤗 [MiniMaxAI/MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3)** — Hugging Face Hub
-> 3662 curtidas no Hugging Face · image-text-to-video
+**🚀 [From assistance to execution: How enterprises put AI to work](https://openai.com/index/how-enterprises-put-ai-to-work)** — OpenAI
+> OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.
 
 **🤗 [meta-models/Muse-Glimmer-30B](https://huggingface.co/meta-models/Muse-Glimmer-30B)** — Hugging Face Hub
-> 1178 curtidas no Hugging Face · image-text-to-text
+> 1359 curtidas no Hugging Face · image-text-to-text
 
-**🤗 [larryvrh/MiniMax-H3-Turbo-Lora](https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora)** — Hugging Face Hub
-> 675 curtidas no Hugging Face · text-to-video
+**🤗 [MiniMaxAI/MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3)** — Hugging Face Hub
+> 3777 curtidas no Hugging Face · image-text-to-video
 
-**🤗 [deepseek-ai/DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731)** — Hugging Face Hub
-> 3197 curtidas no Hugging Face · text-generation
-
-**🤗 [Comfy-Org/MiniMax-H3](https://huggingface.co/Comfy-Org/MiniMax-H3)** — Hugging Face Hub
-> 1235 curtidas no Hugging Face
+**🤗 [Qwen/Qwen3.8-2.4T-A95B](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B)** — Hugging Face Hub
+> 683 curtidas no Hugging Face · text-generation
 
 **🤗 [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)** — Hugging Face Hub
-> 413 curtidas no Hugging Face · image-to-video
+> 629 curtidas no Hugging Face · image-to-video
 
-**🤗 [moonshotai/Kimi-K3](https://huggingface.co/moonshotai/Kimi-K3)** — Hugging Face Hub
-> 10553 curtidas no Hugging Face · image-text-to-text
+**🤗 [deepseek-ai/DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731)** — Hugging Face Hub
+> 3285 curtidas no Hugging Face · text-generation
+
+**🤗 [larryvrh/MiniMax-H3-Turbo-Lora](https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora)** — Hugging Face Hub
+> 712 curtidas no Hugging Face · text-to-video
 
 **🤗 [lightx2v/Minimax-h3-Turbo](https://huggingface.co/lightx2v/Minimax-h3-Turbo)** — Hugging Face Hub
-> 381 curtidas no Hugging Face · image-to-video
+> 432 curtidas no Hugging Face · image-to-video
 
-**🤗 [DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF)** — Hugging Face Hub
-> 1927 curtidas no Hugging Face · image-text-to-text
+**🤗 [Comfy-Org/MiniMax-H3](https://huggingface.co/Comfy-Org/MiniMax-H3)** — Hugging Face Hub
+> 1273 curtidas no Hugging Face
 
-**🤗 [LiquidAI/LFM2.5-2.6B](https://huggingface.co/LiquidAI/LFM2.5-2.6B)** — Hugging Face Hub
-> 567 curtidas no Hugging Face · text-generation
+**🤗 [unsloth/Muse-Glimmer-30B-GGUF](https://huggingface.co/unsloth/Muse-Glimmer-30B-GGUF)** — Hugging Face Hub
+> 377 curtidas no Hugging Face · image-text-to-text
+
+**🤗 [moonshotai/Kimi-K3](https://huggingface.co/moonshotai/Kimi-K3)** — Hugging Face Hub
+> 10599 curtidas no Hugging Face · image-text-to-text
 
 ## 📄 Pesquisas recentes (15)
-- [Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning](http://arxiv.org/abs/2608.11204v1)
-- [ConVAWG: A Retrieval-Grounded Framework for Controlled Synthetic Dialogue Generation in Violence Against Women and Girls](http://arxiv.org/abs/2608.11200v1)
-- [Beyond a Bag of Features: Set-Level Instability in Sparse Autoencoders](http://arxiv.org/abs/2608.11197v1)
-- [Long-Horizon AI Research for Grothendieck Constant: A Case Study in Human-AI Mathematical Collaboration](http://arxiv.org/abs/2608.11195v1)
-- [Test-Time Self-Evolving GUI Visual Grounding via Reflection-Guided On-Policy Self-Distillation](http://arxiv.org/abs/2608.11191v1)
-- [How to Verify Consistency of Probabilistic Claims](http://arxiv.org/abs/2608.11181v1)
-- [From Interpretability to Control: Insights from Six Years of the TrustNLP Workshop](http://arxiv.org/abs/2608.11171v1)
-- [MultiModal Code-Switching: Interleaving Visual Objects into Language for Explicit Object-Level Alignment](http://arxiv.org/abs/2608.11167v1)
+- [AVA-Encoder: Towards Agent-Native Video Representation Learning](http://arxiv.org/abs/2608.12313v1)
+- [DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation](http://arxiv.org/abs/2608.12308v1)
+- [AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses](http://arxiv.org/abs/2608.12307v1)
+- [Redistribution-based Cost Inference Improves Sparse Safe Offline RL](http://arxiv.org/abs/2608.12306v1)
+- [Constructing Dynamic Master Logic Models as Knowledge Graphs for Complex System Diagnostics Using Retrieval-Augmented Large Language Models](http://arxiv.org/abs/2608.12304v1)
+- [Class Activation Mapping in Explainable Computer Vision: A Method-Centered Review of CNN, Transformer, and Foundation-Model-Era Visual Explanations](http://arxiv.org/abs/2608.12299v1)
+- [Beyond Trial-and-Error: Agentic Optimization for Image-to-Video Adherence](http://arxiv.org/abs/2608.12290v1)
+- [Large Language Model-Driven Small-Capitalization Trading: Integrating Financial News Sentiment, Macroeconomic Indicators, and Technical Signals](http://arxiv.org/abs/2608.12283v1)
 - …e mais 7 artigos no dashboard
 
 ---
