@@ -1,165 +1,181 @@
 {
-  "date": "2026-08-13",
-  "generated_at": "2026-08-13T11:44:29.390263+00:00",
-  "count": 29,
+  "date": "2026-08-14",
+  "generated_at": "2026-08-14T11:42:25.205328+00:00",
+  "count": 31,
   "items": [
     {
       "source": "arXiv",
-      "title": "AVA-Encoder: Towards Agent-Native Video Representation Learning",
-      "link": "http://arxiv.org/abs/2608.12313v1",
-      "summary": "Creative agents still lack an effective way to learn from high-quality human films, limiting their ability to produce cinematic-grade videos. A key challenge is the absence of a structured video…",
-      "published": "2026-08-12T17:58:02+00:00",
+      "title": "AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design",
+      "link": "http://arxiv.org/abs/2608.13560v1",
+      "summary": "Transforming multimodal sources into condensed and structured media outputs can be fundamentally conceptualized as a long-horizon agentic process centered on a model-harness system. While an ideal…",
+      "published": "2026-08-13T17:59:57+00:00",
       "category": "paper"
     },
     {
       "source": "arXiv",
-      "title": "DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation",
-      "link": "http://arxiv.org/abs/2608.12308v1",
-      "summary": "Aerial vision-language navigation (VLN) requires an embodied agent to integrate visual evidence over time, plan future actions, and determine when it has reached a navigation goal under partial…",
-      "published": "2026-08-12T17:54:33+00:00",
+      "title": "OmniScientist: An Omni-Modal Omni-Discipline AI Scientist",
+      "link": "http://arxiv.org/abs/2608.13558v1",
+      "summary": "Recent advances in foundation models have enabled AI scientists to automate increasingly complete research workflows, from hypothesis generation and code execution to manuscript preparation. Yet…",
+      "published": "2026-08-13T17:59:52+00:00",
       "category": "paper"
     },
     {
       "source": "arXiv",
-      "title": "AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses",
-      "link": "http://arxiv.org/abs/2608.12307v1",
-      "summary": "Recent work on distillation transfers the capabilities of large models to smaller ones often by updating the latter's parameters, through teacher forcing, on-policy distillation, and related…",
-      "published": "2026-08-12T17:53:18+00:00",
+      "title": "HumanTracker: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark",
+      "link": "http://arxiv.org/abs/2608.13555v1",
+      "summary": "Humanoid motion tracking is central to teleoperation and whole-body imitation, yet evaluation often disagrees with what people perceive in videos. Kinematic errors average per-frame pose differences…",
+      "published": "2026-08-13T17:59:40+00:00",
       "category": "paper"
     },
     {
       "source": "arXiv",
-      "title": "Redistribution-based Cost Inference Improves Sparse Safe Offline RL",
-      "link": "http://arxiv.org/abs/2608.12306v1",
-      "summary": "Safe offline RL typically assumes access to dense per-step cost annotations, but in practice supervisors provide only trajectory-level stop-feedback: a binary signal at the first unsafe transition,…",
-      "published": "2026-08-12T17:53:15+00:00",
+      "title": "QuoteBench: How Matched Scores Can Hide Command-Path Failures",
+      "link": "http://arxiv.org/abs/2608.13547v1",
+      "summary": "LLM coding agents issue Bash commands through interfaces that may serialize, wrap, and reparse model output. Matched execution scores alone cannot distinguish command-generation errors from failures…",
+      "published": "2026-08-13T17:57:20+00:00",
       "category": "paper"
     },
     {
       "source": "arXiv",
-      "title": "Constructing Dynamic Master Logic Models as Knowledge Graphs for Complex System Diagnostics Using Retrieval-Augmented Large Language Models",
-      "link": "http://arxiv.org/abs/2608.12304v1",
-      "summary": "Dynamic Master Logic (DML) provides a hierarchical framework for representing system behavior by linking functional objectives to underlying structural elements. However, DML construction typically…",
-      "published": "2026-08-12T17:50:39+00:00",
+      "title": "LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure",
+      "link": "http://arxiv.org/abs/2608.13545v1",
+      "summary": "Modern language models are trained on heterogeneous web-scale text corpora. Consequently, studying knowledge and skill acquisition is difficult, as prior exposure to related content is hard to…",
+      "published": "2026-08-13T17:56:12+00:00",
       "category": "paper"
     },
     {
       "source": "arXiv",
-      "title": "Class Activation Mapping in Explainable Computer Vision: A Method-Centered Review of CNN, Transformer, and Foundation-Model-Era Visual Explanations",
-      "link": "http://arxiv.org/abs/2608.12299v1",
-      "summary": "Class activation mapping (CAM) is one of the most widely used visual explanation families in explainable artificial intelligence. Its purpose is intuitive: it converts internal model evidence into a…",
-      "published": "2026-08-12T17:45:03+00:00",
+      "title": "SAEVerbalizer: Generating Explanations for Sparse Autoencoder Features via Representation Verbalization",
+      "link": "http://arxiv.org/abs/2608.13538v1",
+      "summary": "Sparse autoencoders (SAEs) are proposed to extract numerous features from large language model (LLM) representations, yet explaining these features still relies primarily on external observation.…",
+      "published": "2026-08-13T17:54:11+00:00",
       "category": "paper"
     },
     {
       "source": "arXiv",
-      "title": "Beyond Trial-and-Error: Agentic Optimization for Image-to-Video Adherence",
-      "link": "http://arxiv.org/abs/2608.12290v1",
-      "summary": "Modern black-box Image-to-Video (I2V) models offer powerful capabilities in automated content creation, yet their lack of fine-grained control and reliability presents significant challenges in…",
-      "published": "2026-08-12T17:35:16+00:00",
+      "title": "Vero: Can AI Agents Build Formally Verified Software Repositories?",
+      "link": "http://arxiv.org/abs/2608.13522v1",
+      "summary": "AI agents are increasingly used for programming, but do not provide any guarantee on the correctness of generated code. Verified code generation, in which an agent produces both an implementation and…",
+      "published": "2026-08-13T17:41:27+00:00",
       "category": "paper"
     },
     {
       "source": "arXiv",
-      "title": "Large Language Model-Driven Small-Capitalization Trading: Integrating Financial News Sentiment, Macroeconomic Indicators, and Technical Signals",
-      "link": "http://arxiv.org/abs/2608.12283v1",
-      "summary": "Large language models can extract richer signals from financial news than fixed sentiment lexicons, and recent work has explored feeding such signals into portfolio construction. We study an…",
-      "published": "2026-08-12T17:28:03+00:00",
+      "title": "The data geometry of masking diffusion: Certified-optimal schedules via unmasking growth complexity",
+      "link": "http://arxiv.org/abs/2608.13520v1",
+      "summary": "We study masking diffusion for discrete sampling and introduce a path-resolved measure of data geometry called the \\emph{unmasking growth complexity} ({\\textsf{UGC}\\xspace}). Its local increments…",
+      "published": "2026-08-13T17:40:17+00:00",
       "category": "paper"
     },
     {
       "source": "arXiv",
-      "title": "VAKRA: Evaluating Multi-Hop Reasoning Across APIs and Retrieval Under Tool-Use Policies",
-      "link": "http://arxiv.org/abs/2608.12282v1",
-      "summary": "Agents deployed in enterprise settings must reason across structured APIs and document collections, yet existing benchmarks evaluate these capabilities in isolation. We introduce VAKRA…",
-      "published": "2026-08-12T17:27:27+00:00",
+      "title": "DFM Mimir v1: An Open HRM Delivering Frontier Performance at 1B Parameters Using Only Permissible Post-Training Data",
+      "link": "http://arxiv.org/abs/2608.13517v1",
+      "summary": "Current large language model development relies on massive, often non-permissible datasets, creating a high barrier for researchers committed to open-source and ethically sourced data. We introduce…",
+      "published": "2026-08-13T17:37:53+00:00",
       "category": "paper"
     },
     {
       "source": "arXiv",
-      "title": "Structural Silence: When AI Infrastructure Fails Speakers of Underrepresented Languages",
-      "link": "http://arxiv.org/abs/2608.12278v1",
-      "summary": "Artificial intelligence tools for education and language support are increasingly framed as scalable responses to access gaps in under-resourced communities. Yet the infrastructure underlying these…",
-      "published": "2026-08-12T17:17:25+00:00",
+      "title": "Measuring Task-Agnostic Training Data Influence Across Language Model Pretraining",
+      "link": "http://arxiv.org/abs/2608.13515v1",
+      "summary": "Measuring training data influence consistently across language model pretraining is challenging. It is difficult to select downstream tasks or validation sets representative of a model's general…",
+      "published": "2026-08-13T17:36:49+00:00",
       "category": "paper"
     },
     {
       "source": "arXiv",
-      "title": "A Neighborhood Attention Transformer Network for Enhanced 3D Segmentation of the Left Anterior Descending Artery",
-      "link": "http://arxiv.org/abs/2608.12274v1",
-      "summary": "Background: Accurate segmentation of the Left Anterior Descending (LAD) artery in 3D free-breathing, non-contrast CT is critical for cardiac dose sparing in thoracic radiotherapy. The LAD is…",
-      "published": "2026-08-12T17:13:59+00:00",
+      "title": "Intern-S2-Preview: Scientific Agentic Foundation Model",
+      "link": "http://arxiv.org/abs/2608.13505v1",
+      "summary": "Scientific discovery increasingly requires AI systems that can reason over scientific evidence of heterogeneous modalities, interact with scientific tools and environments, and sustain progress…",
+      "published": "2026-08-13T17:31:28+00:00",
       "category": "paper"
     },
     {
       "source": "arXiv",
-      "title": "Convergent Detour Hijacking: Task-Preserving Resource Amplification in Skill-Based LLM Agents",
-      "link": "http://arxiv.org/abs/2608.12273v1",
-      "summary": "LLM agents increasingly rely on third-party skills, using natural-language descriptions for selection and instruction bodies for planning. This progressive-disclosure design exposes two sequential…",
-      "published": "2026-08-12T17:12:49+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "A Cascaded Unsupervised-Supervised NLP Pipeline for Detecting Accusatory Language in Public Procurement",
-      "link": "http://arxiv.org/abs/2608.12269v1",
-      "summary": "Public procurement involves the allocation of substantial financial resources; therefore, continuous oversight through audits, controls, and monitoring mechanisms is essential. However, stakeholder…",
-      "published": "2026-08-12T17:09:14+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "Diagram-MMU: A Multi-Modal Benchmark for Scientific Diagrams",
-      "link": "http://arxiv.org/abs/2608.12262v1",
-      "summary": "Multimodal Large Language Models (MLLMs) have been growing the capability for scientific writing and collaboration. For example, OpenAI Prism is a free workspace for scientific writing and…",
-      "published": "2026-08-12T17:04:13+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "One Frozen Simulator Is Not Enough: Simulator Collapse in Multi-Agent RL",
-      "link": "http://arxiv.org/abs/2608.12253v1",
-      "summary": "Multi-agent reinforcement learning for human-AI interaction typically relies on a single large language model to simulate user behavior. We show that this approach systematically fails to generalize,…",
-      "published": "2026-08-12T16:55:50+00:00",
+      "title": "AlayaWorld: Interactive Long-Horizon World Modeling - Full Technical Report (v1.1)",
+      "link": "http://arxiv.org/abs/2608.13492v1",
+      "summary": "This report presents an improved version of AlayaWorld. While the backbone architecture, chunk-wise autoregressive generation scheme, and training data remain unchanged from the previous release, we…",
+      "published": "2026-08-13T17:21:03+00:00",
       "category": "paper"
     },
     {
       "source": "Hugging Face",
-      "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-      "link": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+      "link": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
       "summary": "",
-      "published": "2026-08-12T16:14:36+00:00",
+      "published": "2026-08-13T17:16:04+00:00",
       "category": "release"
+    },
+    {
+      "source": "arXiv",
+      "title": "Toward a Gricean Retreat: Probing LLMs for Knowledge Boundaries and Referent Specificity",
+      "link": "http://arxiv.org/abs/2608.13484v1",
+      "summary": "When asked about entities outside their knowledge boundary, LLMs routinely fabricate plausible-sounding details rather than backing off to safer, more general claims. We frame this failure through a…",
+      "published": "2026-08-13T17:13:41+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "Synthetic Persona Pretraining: Alignment from Token Zero",
+      "link": "http://arxiv.org/abs/2608.13482v1",
+      "summary": "As language-model-based AI is increasingly deployed in autonomous settings, aligning its goals and values with those of humans becomes critical. Today, alignment, and the assistant identity itself,…",
+      "published": "2026-08-13T17:12:04+00:00",
+      "category": "paper"
     },
     {
       "source": "DeepMind",
-      "title": "Putting sign language AI into users’ hands",
-      "link": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-      "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
-      "published": "2026-08-12T14:01:59+00:00",
+      "title": "Introducing Gemini 3.7 Flash",
+      "link": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+      "summary": "",
+      "published": "2026-08-13T17:04:18+00:00",
       "category": "release"
     },
     {
-      "source": "Hugging Face",
-      "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-      "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-      "summary": "",
-      "published": "2026-08-12T14:00:51+00:00",
+      "source": "arXiv",
+      "title": "MARC v1: An Open-Source Multi-Agent Framework for Clinical AI Reasoning and Coordination",
+      "link": "http://arxiv.org/abs/2608.13476v1",
+      "summary": "We present Multi-Agent Reasoning and Coordination (MARC), an open-source framework that replaces monolithic LLM prompting with deterministic multi-agent orchestration for clinical reasoning. MARC…",
+      "published": "2026-08-13T17:00:08+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "Google AI",
+      "title": "Bring your spreadsheet data to life with Sheets canvas",
+      "link": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+      "summary": "Sheets canvas turns data into interactive dashboards, custom study trackers, seating charts, and more, all with a simple prompt.",
+      "published": "2026-08-13T16:45:00+00:00",
       "category": "release"
     },
     {
       "source": "OpenAI",
-      "title": "From assistance to execution: How enterprises put AI to work",
-      "link": "https://openai.com/index/how-enterprises-put-ai-to-work",
-      "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
-      "published": "2026-08-12T06:00:00+00:00",
+      "title": "The builder’s guide to GPT‑5.6",
+      "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+      "published": "2026-08-13T11:00:00+00:00",
+      "category": "release"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "link": "https://openai.com/index/previewing-ultrafast",
+      "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
+      "published": "2026-08-13T10:00:00+00:00",
+      "category": "release"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
+      "published": "2026-08-13T09:00:00+00:00",
       "category": "release"
     },
     {
       "source": "Hugging Face Hub",
       "title": "meta-models/Muse-Glimmer-30B",
       "link": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
-      "summary": "1359 curtidas no Hugging Face · image-text-to-text",
+      "summary": "1473 curtidas no Hugging Face · image-text-to-text",
       "published": "",
       "category": "model_upload"
     },
@@ -167,7 +183,7 @@
       "source": "Hugging Face Hub",
       "title": "MiniMaxAI/MiniMax-H3",
       "link": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
-      "summary": "3777 curtidas no Hugging Face · image-text-to-video",
+      "summary": "3877 curtidas no Hugging Face · image-text-to-video",
       "published": "",
       "category": "model_upload"
     },
@@ -175,7 +191,7 @@
       "source": "Hugging Face Hub",
       "title": "Qwen/Qwen3.8-2.4T-A95B",
       "link": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
-      "summary": "683 curtidas no Hugging Face · text-generation",
+      "summary": "862 curtidas no Hugging Face · text-generation",
       "published": "",
       "category": "model_upload"
     },
@@ -183,7 +199,15 @@
       "source": "Hugging Face Hub",
       "title": "Lightricks/LTX-2.5",
       "link": "https://huggingface.co/Lightricks/LTX-2.5",
-      "summary": "629 curtidas no Hugging Face · image-to-video",
+      "summary": "779 curtidas no Hugging Face · image-to-video",
+      "published": "",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "MiniMaxAI/MiniMax-Music3",
+      "link": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
+      "summary": "524 curtidas no Hugging Face · text-to-audio",
       "published": "",
       "category": "model_upload"
     },
@@ -191,15 +215,7 @@
       "source": "Hugging Face Hub",
       "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
       "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
-      "summary": "3285 curtidas no Hugging Face · text-generation",
-      "published": "",
-      "category": "model_upload"
-    },
-    {
-      "source": "Hugging Face Hub",
-      "title": "larryvrh/MiniMax-H3-Turbo-Lora",
-      "link": "https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora",
-      "summary": "712 curtidas no Hugging Face · text-to-video",
+      "summary": "3355 curtidas no Hugging Face · text-generation",
       "published": "",
       "category": "model_upload"
     },
@@ -207,15 +223,7 @@
       "source": "Hugging Face Hub",
       "title": "lightx2v/Minimax-h3-Turbo",
       "link": "https://huggingface.co/lightx2v/Minimax-h3-Turbo",
-      "summary": "432 curtidas no Hugging Face · image-to-video",
-      "published": "",
-      "category": "model_upload"
-    },
-    {
-      "source": "Hugging Face Hub",
-      "title": "Comfy-Org/MiniMax-H3",
-      "link": "https://huggingface.co/Comfy-Org/MiniMax-H3",
-      "summary": "1273 curtidas no Hugging Face",
+      "summary": "476 curtidas no Hugging Face · image-to-video",
       "published": "",
       "category": "model_upload"
     },
@@ -223,15 +231,23 @@
       "source": "Hugging Face Hub",
       "title": "unsloth/Muse-Glimmer-30B-GGUF",
       "link": "https://huggingface.co/unsloth/Muse-Glimmer-30B-GGUF",
-      "summary": "377 curtidas no Hugging Face · image-text-to-text",
+      "summary": "399 curtidas no Hugging Face · image-text-to-text",
       "published": "",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "moonshotai/Kimi-K3",
-      "link": "https://huggingface.co/moonshotai/Kimi-K3",
-      "summary": "10599 curtidas no Hugging Face · image-text-to-text",
+      "title": "deepseek-ai/DeepSeek-V4-Pro-0813",
+      "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813",
+      "summary": "386 curtidas no Hugging Face · text-generation",
+      "published": "",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "Comfy-Org/MiniMax-H3",
+      "link": "https://huggingface.co/Comfy-Org/MiniMax-H3",
+      "summary": "1304 curtidas no Hugging Face",
       "published": "",
       "category": "model_upload"
     }
