@@ -1232,5 +1232,92 @@
         "category": "model_upload"
       }
     ]
+  },
+  {
+    "date": "2026-08-16",
+    "generated_at": "2026-08-16T11:18:19.458109+00:00",
+    "count": 10,
+    "items": [
+      {
+        "source": "Hugging Face Hub",
+        "title": "Qwen/Qwen3.8-27B",
+        "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "summary": "10003 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "meta-models/Muse-Glimmer-30B",
+        "link": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
+        "summary": "1599 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "unsloth/Qwen3.8-27B-GGUF",
+        "link": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+        "summary": "1330 curtidas no Hugging Face",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Qwen/Qwen3.8-2.4T-A95B",
+        "link": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+        "summary": "993 curtidas no Hugging Face · text-generation",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Lightricks/LTX-2.5",
+        "link": "https://huggingface.co/Lightricks/LTX-2.5",
+        "summary": "974 curtidas no Hugging Face · image-to-video",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "MiniMaxAI/MiniMax-Music3",
+        "link": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
+        "summary": "794 curtidas no Hugging Face · text-to-audio",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "MiniMaxAI/MiniMax-H3",
+        "link": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+        "summary": "4000 curtidas no Hugging Face · image-text-to-video",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "deepseek-ai/DeepSeek-V4-Pro-0813",
+        "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813",
+        "summary": "512 curtidas no Hugging Face · text-generation",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+        "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+        "summary": "3437 curtidas no Hugging Face · text-generation",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Qwen/Qwen3.8-27B-FP8",
+        "link": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+        "summary": "449 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      }
+    ]
   }
 ]

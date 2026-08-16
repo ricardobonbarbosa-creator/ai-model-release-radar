@@ -1,13 +1,13 @@
 {
-  "date": "2026-08-15",
-  "generated_at": "2026-08-15T11:18:25.309630+00:00",
+  "date": "2026-08-16",
+  "generated_at": "2026-08-16T11:18:19.458109+00:00",
   "count": 10,
   "items": [
     {
       "source": "Hugging Face Hub",
       "title": "Qwen/Qwen3.8-27B",
       "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
-      "summary": "9444 curtidas no Hugging Face · image-text-to-text",
+      "summary": "10003 curtidas no Hugging Face · image-text-to-text",
       "published": "",
       "category": "model_upload"
     },
@@ -15,7 +15,7 @@
       "source": "Hugging Face Hub",
       "title": "meta-models/Muse-Glimmer-30B",
       "link": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
-      "summary": "1540 curtidas no Hugging Face · image-text-to-text",
+      "summary": "1599 curtidas no Hugging Face · image-text-to-text",
       "published": "",
       "category": "model_upload"
     },
@@ -23,7 +23,7 @@
       "source": "Hugging Face Hub",
       "title": "unsloth/Qwen3.8-27B-GGUF",
       "link": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
-      "summary": "988 curtidas no Hugging Face",
+      "summary": "1330 curtidas no Hugging Face",
       "published": "",
       "category": "model_upload"
     },
@@ -31,15 +31,7 @@
       "source": "Hugging Face Hub",
       "title": "Qwen/Qwen3.8-2.4T-A95B",
       "link": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
-      "summary": "946 curtidas no Hugging Face · text-generation",
-      "published": "",
-      "category": "model_upload"
-    },
-    {
-      "source": "Hugging Face Hub",
-      "title": "MiniMaxAI/MiniMax-H3",
-      "link": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
-      "summary": "3946 curtidas no Hugging Face · image-text-to-video",
+      "summary": "993 curtidas no Hugging Face · text-generation",
       "published": "",
       "category": "model_upload"
     },
@@ -47,7 +39,7 @@
       "source": "Hugging Face Hub",
       "title": "Lightricks/LTX-2.5",
       "link": "https://huggingface.co/Lightricks/LTX-2.5",
-      "summary": "894 curtidas no Hugging Face · image-to-video",
+      "summary": "974 curtidas no Hugging Face · image-to-video",
       "published": "",
       "category": "model_upload"
     },
@@ -55,15 +47,15 @@
       "source": "Hugging Face Hub",
       "title": "MiniMaxAI/MiniMax-Music3",
       "link": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
-      "summary": "724 curtidas no Hugging Face · text-to-audio",
+      "summary": "794 curtidas no Hugging Face · text-to-audio",
       "published": "",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
-      "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
-      "summary": "3400 curtidas no Hugging Face · text-generation",
+      "title": "MiniMaxAI/MiniMax-H3",
+      "link": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+      "summary": "4000 curtidas no Hugging Face · image-text-to-video",
       "published": "",
       "category": "model_upload"
     },
@@ -71,15 +63,23 @@
       "source": "Hugging Face Hub",
       "title": "deepseek-ai/DeepSeek-V4-Pro-0813",
       "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813",
-      "summary": "458 curtidas no Hugging Face · text-generation",
+      "summary": "512 curtidas no Hugging Face · text-generation",
       "published": "",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "unsloth/Muse-Glimmer-30B-GGUF",
-      "link": "https://huggingface.co/unsloth/Muse-Glimmer-30B-GGUF",
-      "summary": "425 curtidas no Hugging Face · image-text-to-text",
+      "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+      "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+      "summary": "3437 curtidas no Hugging Face · text-generation",
+      "published": "",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "Qwen/Qwen3.8-27B-FP8",
+      "link": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+      "summary": "449 curtidas no Hugging Face · image-text-to-text",
       "published": "",
       "category": "model_upload"
     }
