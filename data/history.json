@@ -1319,5 +1319,108 @@
         "category": "model_upload"
       }
     ]
+  },
+  {
+    "date": "2026-08-17",
+    "generated_at": "2026-08-17T11:23:44.769445+00:00",
+    "count": 12,
+    "items": [
+      {
+        "source": "Google AI",
+        "title": "Get closer to the game with Gemini and Pixel",
+        "link": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+        "summary": "Google Gemini and Pixel partner with five global football clubs to elevate the fan matchday experience through AI and Smartphone Technology.",
+        "published": "2026-08-17T08:00:00+00:00",
+        "category": "release"
+      },
+      {
+        "source": "OpenAI",
+        "title": "New policy ideas for the Intelligence Age",
+        "link": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+        "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
+        "published": "2026-08-17T03:15:00+00:00",
+        "category": "release"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Qwen/Qwen3.8-27B",
+        "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "summary": "10502 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "unsloth/Qwen3.8-27B-GGUF",
+        "link": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+        "summary": "1540 curtidas no Hugging Face",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "meta-models/Muse-Glimmer-30B",
+        "link": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
+        "summary": "1645 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Qwen/Qwen3.8-2.4T-A95B",
+        "link": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+        "summary": "1023 curtidas no Hugging Face · text-generation",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Lightricks/LTX-2.5",
+        "link": "https://huggingface.co/Lightricks/LTX-2.5",
+        "summary": "1060 curtidas no Hugging Face · image-to-video",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "MiniMaxAI/MiniMax-Music3",
+        "link": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
+        "summary": "878 curtidas no Hugging Face · text-to-audio",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "MiniMaxAI/MiniMax-H3",
+        "link": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+        "summary": "4058 curtidas no Hugging Face · image-text-to-video",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "deepseek-ai/DeepSeek-V4-Pro-0813",
+        "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813",
+        "summary": "556 curtidas no Hugging Face · text-generation",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Qwen/Qwen3.8-27B-FP8",
+        "link": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+        "summary": "502 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "unsloth/Muse-Glimmer-30B-GGUF",
+        "link": "https://huggingface.co/unsloth/Muse-Glimmer-30B-GGUF",
+        "summary": "464 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      }
+    ]
   }
 ]
