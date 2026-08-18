@@ -1,8 +1,152 @@
 {
-  "date": "2026-08-17",
-  "generated_at": "2026-08-17T11:23:44.769445+00:00",
-  "count": 12,
+  "date": "2026-08-18",
+  "generated_at": "2026-08-18T11:23:36.189179+00:00",
+  "count": 30,
   "items": [
+    {
+      "source": "OpenAI",
+      "title": "Partnering with CodeAI to prepare the first AI generation",
+      "link": "https://openai.com/index/partnering-with-codeai",
+      "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
+      "published": "2026-08-18T11:00:00+00:00",
+      "category": "release"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+      "link": "https://openai.com/index/chatgpt-for-teens",
+      "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
+      "published": "2026-08-18T11:00:00+00:00",
+      "category": "release"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+      "link": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+      "summary": "",
+      "published": "2026-08-17T19:46:21+00:00",
+      "category": "release"
+    },
+    {
+      "source": "arXiv",
+      "title": "Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory",
+      "link": "http://arxiv.org/abs/2608.16889v1",
+      "summary": "Long-horizon robot manipulation chains many contact-rich skills into one multi-stage task. Vision-language-action (VLA) models increasingly master the individual skills, yet the chain still fails:…",
+      "published": "2026-08-17T17:59:57+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "Improving the matrix multiplication exponent with modern optimization and AlphaEvolve",
+      "link": "http://arxiv.org/abs/2608.16884v1",
+      "summary": "The current best bounds on the matrix multiplication exponent $ω$ are obtained through a refinement of the laser method called combination loss analysis (Duan et al., 2022; Williams et al., 2024;…",
+      "published": "2026-08-17T17:59:05+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "AutoSR: Automatic Symbolic Regression by Searching Research States",
+      "link": "http://arxiv.org/abs/2608.16876v1",
+      "summary": "We introduce Automatic Symbolic Regression (AutoSR), a fully automated system that instantiates Research-Space Symbolic Regression by searching persistent scientific investigations rather than…",
+      "published": "2026-08-17T17:55:26+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "Towards Computational Provenance: Carrying Causal-State Evidence in Generated Text",
+      "link": "http://arxiv.org/abs/2608.16868v1",
+      "summary": "A language model's output does not by itself provide verifiable evidence about the internal computation that produced it. We study computational provenance: whether generated text can carry…",
+      "published": "2026-08-17T17:50:04+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "What Do Compliance Detectors Read? An Audit of Activation Probes and Guard Models",
+      "link": "http://arxiv.org/abs/2608.16852v1",
+      "summary": "Regulatory compliance monitoring in deployed language models is increasingly implemented as a legal and audit control, checking model outputs against written rules spanning data protection,…",
+      "published": "2026-08-17T17:37:07+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "Proteus: Incremental Memory Activation for Long-Context Sequence Modeling",
+      "link": "http://arxiv.org/abs/2608.16844v1",
+      "summary": "The quadratic cost of attention-based sequence models for long contexts has motivated a growing line of research on memory-based models that can compress context into a compact state. However, most…",
+      "published": "2026-08-17T17:30:43+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "HAF: Adapting Generalist VLAs to Humanoid Whole-Body Loco-manipulation via Hierarchical Action Flow and Spectral Latent RL",
+      "link": "http://arxiv.org/abs/2608.16837v1",
+      "summary": "Humanoid robots hold great promise as general-purpose agents in human-centered environments, yet generalist vision-language-action (VLA) foundation models are not readily applicable to humanoid…",
+      "published": "2026-08-17T17:22:33+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "Model Hypnosis: Strong control of AI via additive subliminal effects",
+      "link": "http://arxiv.org/abs/2608.16834v1",
+      "summary": "We demonstrate that AI models are broadly susceptible to a phenomenon we call model hypnosis, in which individually weak and seemingly irrelevant cues in the prompt can be systematically combined to…",
+      "published": "2026-08-17T17:20:10+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "Policy Iteration with Human Feedback: Bringing Post-Training RL to In-context Learning",
+      "link": "http://arxiv.org/abs/2608.16831v1",
+      "summary": "Generative pretraining established reusable task representations; later work on language-based task conditioning and in-context learning showed that a fixed model could adapt its behavior from…",
+      "published": "2026-08-17T17:16:43+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "CaliBench: Are the Stochastic Dynamics of Video World Models Physically Calibrated?",
+      "link": "http://arxiv.org/abs/2608.16829v1",
+      "summary": "Video world models approximate the stochastic distribution of physical outcomes through generative sampling, but existing benchmarks score individual generations or compare distributions coarsely…",
+      "published": "2026-08-17T17:14:50+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "Quipu: A Governed Bitemporal Knowledge Graph Store",
+      "link": "http://arxiv.org/abs/2608.16813v1",
+      "summary": "Agents now write knowledge graphs, but knowledge-graph stores still carry defaults set when humans curated them: accept writes now and clean later, keep one time axis or none, treat every writer's…",
+      "published": "2026-08-17T17:04:29+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "When State Becomes an Attack Surface: State-Semantic Injection in LLM-Driven Embodied Agents",
+      "link": "http://arxiv.org/abs/2608.16806v1",
+      "summary": "Large Language Models (LLMs) have demonstrated capabilities in in-context learning, task decomposition, step-by-step reasoning, and code generation, driving their gradual evolution from text…",
+      "published": "2026-08-17T17:02:07+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "Diagnosing Dense Same-Class Attribute Misbinding in Large Vision-Language Models",
+      "link": "http://arxiv.org/abs/2608.16805v1",
+      "summary": "Large vision-language models can recognize the objects and attributes in a crowded scene yet assign an attribute to the wrong same-class instance. Generic visual-question-answering accuracy marks the…",
+      "published": "2026-08-17T17:01:21+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "Cross-Sign Language Transfer Learning Using Domain Adaptation with Multi-scale Temporal Alignment",
+      "link": "http://arxiv.org/abs/2608.16804v1",
+      "summary": "Sign language serves as a vital means of communication for individuals with hearing impairments, yet recognition resources for the over 100 distinct sign languages are severely lacking. In response,…",
+      "published": "2026-08-17T17:00:36+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "When Agents Coordinate: Measuring Coordination in Multi-Agent AI Coding",
+      "link": "http://arxiv.org/abs/2608.16801v1",
+      "summary": "We study how teams of AI coding agents coordinate while solving programming tasks. Current evaluations usually report whether the agents complete the task and how much the run costs, leaving the…",
+      "published": "2026-08-17T16:57:38+00:00",
+      "category": "paper"
+    },
     {
       "source": "Google AI",
       "title": "Get closer to the game with Gemini and Pixel",
@@ -13,17 +157,17 @@
     },
     {
       "source": "OpenAI",
-      "title": "New policy ideas for the Intelligence Age",
-      "link": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-      "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
-      "published": "2026-08-17T03:15:00+00:00",
+      "title": "The Defender’s Window",
+      "link": "https://openai.com/index/the-defenders-window",
+      "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
+      "published": "2026-08-17T05:30:00+00:00",
       "category": "release"
     },
     {
       "source": "Hugging Face Hub",
       "title": "Qwen/Qwen3.8-27B",
       "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
-      "summary": "10502 curtidas no Hugging Face · image-text-to-text",
+      "summary": "10932 curtidas no Hugging Face · image-text-to-text",
       "published": "",
       "category": "model_upload"
     },
@@ -31,15 +175,7 @@
       "source": "Hugging Face Hub",
       "title": "unsloth/Qwen3.8-27B-GGUF",
       "link": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
-      "summary": "1540 curtidas no Hugging Face",
-      "published": "",
-      "category": "model_upload"
-    },
-    {
-      "source": "Hugging Face Hub",
-      "title": "meta-models/Muse-Glimmer-30B",
-      "link": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
-      "summary": "1645 curtidas no Hugging Face · image-text-to-text",
+      "summary": "1728 curtidas no Hugging Face",
       "published": "",
       "category": "model_upload"
     },
@@ -47,7 +183,7 @@
       "source": "Hugging Face Hub",
       "title": "Qwen/Qwen3.8-2.4T-A95B",
       "link": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
-      "summary": "1023 curtidas no Hugging Face · text-generation",
+      "summary": "1049 curtidas no Hugging Face · text-generation",
       "published": "",
       "category": "model_upload"
     },
@@ -55,7 +191,7 @@
       "source": "Hugging Face Hub",
       "title": "Lightricks/LTX-2.5",
       "link": "https://huggingface.co/Lightricks/LTX-2.5",
-      "summary": "1060 curtidas no Hugging Face · image-to-video",
+      "summary": "1164 curtidas no Hugging Face · image-to-video",
       "published": "",
       "category": "model_upload"
     },
@@ -63,15 +199,15 @@
       "source": "Hugging Face Hub",
       "title": "MiniMaxAI/MiniMax-Music3",
       "link": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
-      "summary": "878 curtidas no Hugging Face · text-to-audio",
+      "summary": "925 curtidas no Hugging Face · text-to-audio",
       "published": "",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "MiniMaxAI/MiniMax-H3",
-      "link": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
-      "summary": "4058 curtidas no Hugging Face · image-text-to-video",
+      "title": "meta-models/Muse-Glimmer-30B",
+      "link": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
+      "summary": "1670 curtidas no Hugging Face · image-text-to-text",
       "published": "",
       "category": "model_upload"
     },
@@ -79,7 +215,15 @@
       "source": "Hugging Face Hub",
       "title": "deepseek-ai/DeepSeek-V4-Pro-0813",
       "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813",
-      "summary": "556 curtidas no Hugging Face · text-generation",
+      "summary": "585 curtidas no Hugging Face · text-generation",
+      "published": "",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "MiniMaxAI/MiniMax-H3",
+      "link": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+      "summary": "4107 curtidas no Hugging Face · image-text-to-video",
       "published": "",
       "category": "model_upload"
     },
@@ -87,15 +231,15 @@
       "source": "Hugging Face Hub",
       "title": "Qwen/Qwen3.8-27B-FP8",
       "link": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-      "summary": "502 curtidas no Hugging Face · image-text-to-text",
+      "summary": "547 curtidas no Hugging Face · image-text-to-text",
       "published": "",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "unsloth/Muse-Glimmer-30B-GGUF",
-      "link": "https://huggingface.co/unsloth/Muse-Glimmer-30B-GGUF",
-      "summary": "464 curtidas no Hugging Face · image-text-to-text",
+      "title": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
+      "link": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8",
+      "summary": "481 curtidas no Hugging Face · image-text-to-text",
       "published": "",
       "category": "model_upload"
     }
