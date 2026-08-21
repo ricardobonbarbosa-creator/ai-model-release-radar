@@ -1,165 +1,149 @@
 {
-  "date": "2026-08-20",
-  "generated_at": "2026-08-20T11:25:05.559250+00:00",
-  "count": 29,
+  "date": "2026-08-21",
+  "generated_at": "2026-08-21T11:24:09.631671+00:00",
+  "count": 27,
   "items": [
     {
-      "source": "OpenAI",
-      "title": "Offering Zero Data Retention for frontier models",
-      "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-      "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
-      "published": "2026-08-19T19:00:00+00:00",
-      "category": "release"
-    },
-    {
-      "source": "Google AI",
-      "title": "5 new ways to level up your learning with Search",
-      "link": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
-      "summary": "Here’s how you can use Google Search tools to study for classes and standardized tests.",
-      "published": "2026-08-19T19:00:00+00:00",
-      "category": "release"
-    },
-    {
       "source": "arXiv",
-      "title": "SPADE: Self-Play in Adaptive Synthetic Executable Environments",
-      "link": "http://arxiv.org/abs/2608.19197v1",
-      "summary": "Continuous self-improvement requires an ever-expanding pool of self-generated, diverse, adaptive goals. For language agents, existing training environment pools (hand-curated, statically synthesized,…",
-      "published": "2026-08-19T17:58:56+00:00",
+      "title": "ConceptGuard: Benchmarking Context-Sensitive Unlearning in Large Language Models",
+      "link": "http://arxiv.org/abs/2608.20338v1",
+      "summary": "Large Language Models (LLMs) increasingly require selective removal of harmful or sensitive knowledge, called unlearning, yet existing methods and benchmarks fail to evaluate this capability…",
+      "published": "2026-08-20T17:59:57+00:00",
       "category": "paper"
     },
     {
       "source": "arXiv",
-      "title": "ADEPT: Accelerating Dexterity via Pre-Training and Post-Training using Reinforcement Learning",
-      "link": "http://arxiv.org/abs/2608.19182v1",
-      "summary": "We introduce Accelerating Dexterity via Pre-Training (ADEPT), a large-scale reinforcement learning (RL) framework for learning sim-to-real transferable dexterity across high degree-of-freedom (DoF)…",
-      "published": "2026-08-19T17:55:06+00:00",
+      "title": "G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation",
+      "link": "http://arxiv.org/abs/2608.20331v1",
+      "summary": "Personalized interpretation of medical reports has emerged as an increasingly important need among patients. Addressing this need requires both evidence-grounded medical factuality and…",
+      "published": "2026-08-20T17:59:46+00:00",
       "category": "paper"
     },
     {
       "source": "arXiv",
-      "title": "Beyond Teacher Likelihood: Group-Calibrated On-Policy Distillation for Long-Context Reasoning",
-      "link": "http://arxiv.org/abs/2608.19181v1",
-      "summary": "On-policy distillation (OPD) trains a student on its own responses using dense token-level guidance from a stronger teacher. In long-context tasks, however, token-level teacher support can favor…",
-      "published": "2026-08-19T17:54:58+00:00",
+      "title": "An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction",
+      "link": "http://arxiv.org/abs/2608.20320v1",
+      "summary": "Travel behavior research increasingly combines digital data collection with predictive modeling, yet these stages are often developed and evaluated separately. This study proposes a three-agent…",
+      "published": "2026-08-20T17:57:42+00:00",
       "category": "paper"
     },
     {
       "source": "arXiv",
-      "title": "Finetuning Strategies for Querying Sounds by Vocal Imitation",
-      "link": "http://arxiv.org/abs/2608.19174v1",
-      "summary": "This technical report describes our winning submission to the AES AIMLA 2025 Challenge on querying sound effects by vocal imitation. We investigate two complementary fine-tuning strategies:…",
-      "published": "2026-08-19T17:51:50+00:00",
+      "title": "Inducing Task Models from Computer-Use Traces",
+      "link": "http://arxiv.org/abs/2608.20319v1",
+      "summary": "Naturalistic computer-use traces, passively recorded screenshots and mouse or keyboard actions, are a valuable resource for deriving symbolic, auditable, and reusable models of how everyday work is…",
+      "published": "2026-08-20T17:57:00+00:00",
       "category": "paper"
     },
     {
       "source": "arXiv",
-      "title": "ChildSafeAds Shared Task 2026: Commercial Content in Child-Facing YouTube Videos",
-      "link": "http://arxiv.org/abs/2608.19165v1",
-      "summary": "ChildSafeAds is a shared task on commercial content in YouTube videos likely to reach children and teenagers. It contains 3,360 videos from 939 channels. Each instance begins with a segment submitted…",
-      "published": "2026-08-19T17:44:58+00:00",
+      "title": "AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement",
+      "link": "http://arxiv.org/abs/2608.20318v1",
+      "summary": "Recursive self-improvement (RSI) asks whether an AI system can improve the process that produces AI systems, so that the next system inherits the improvement. That process is the training algorithm:…",
+      "published": "2026-08-20T17:56:59+00:00",
       "category": "paper"
     },
     {
       "source": "arXiv",
-      "title": "Interpretable AI predicts a 2026 summer dry anomaly in central China",
-      "link": "http://arxiv.org/abs/2608.19163v1",
-      "summary": "Seasonal precipitation anomalies are largely regulated by atmospheric circulation, which dynamical models predict with greater reliability than precipitation itself. Here, we employ a deep learning…",
-      "published": "2026-08-19T17:43:49+00:00",
+      "title": "Pandora's AI Model Routing Box: Efficient Allocation with Costly Value Estimation",
+      "link": "http://arxiv.org/abs/2608.20316v1",
+      "summary": "Heterogeneous AI systems composed of multiple models, architectures, harnesses, or inference-time settings can improve quality and efficiency by routing queries to the specialist who can answer most…",
+      "published": "2026-08-20T17:54:37+00:00",
       "category": "paper"
     },
     {
       "source": "arXiv",
-      "title": "Beyond the Transcript: Detecting Covert Co ordination in Latent Multi-Agent Communication",
-      "link": "http://arxiv.org/abs/2608.19161v1",
-      "summary": "Language-model agents can communicate through continuous hidden states that are invisible in public transcripts, creating opportunities for covert harmful coordination. We introduce Verifiable Latent…",
-      "published": "2026-08-19T17:43:22+00:00",
+      "title": "MidTool: Mid-training Data Synthesis for Agentic Tool Use",
+      "link": "http://arxiv.org/abs/2608.20314v1",
+      "summary": "Mid-training is increasingly recognized as a critical stage for shaping the capabilities of large language models. Recent work has shown that targeted mid-training can strengthen reasoning-intensive…",
+      "published": "2026-08-20T17:53:59+00:00",
       "category": "paper"
     },
     {
       "source": "arXiv",
-      "title": "Pre-Compiled Pipeline Shards for Distributed LLM Inference on Intel AI PC Fleets",
-      "link": "http://arxiv.org/abs/2608.19147v1",
-      "summary": "Modern Intel AI PCs ship capable integrated GPUs and NPUs with 16+ GB of unified memory, and they spend considerable time idle. That is not enough memory to fit a large model such as a 70B-parameter…",
-      "published": "2026-08-19T17:33:28+00:00",
+      "title": "Phantom Gains: Auditing Self-Improvement Against a Measured Null",
+      "link": "http://arxiv.org/abs/2608.20290v1",
+      "summary": "Whether a language model has improved itself is increasingly judged not by mean accuracy but by which individual problems it gains and loses. Tracking these transitions means differencing two noisy…",
+      "published": "2026-08-20T17:30:14+00:00",
       "category": "paper"
     },
     {
       "source": "arXiv",
-      "title": "Grouping the Stochastic Machine: Precision, Not Capability, as the Frontier Metric for AI Systems",
-      "link": "http://arxiv.org/abs/2608.19140v1",
-      "summary": "Frontier language models are compared, marketed, and benchmarked on capability -- what their best or average output can achieve. I argue this measures the wrong axis. The models have saturated…",
-      "published": "2026-08-19T17:29:47+00:00",
+      "title": "Inject, Align, Recover: Staged Post-Training for Retrieval-Free Document Knowledge Internalization",
+      "link": "http://arxiv.org/abs/2608.20281v1",
+      "summary": "Large language models often fail to answer questions about a bounded document collection when the source documents are not retrieved at inference time. We study this setting as document knowledge…",
+      "published": "2026-08-20T17:14:24+00:00",
       "category": "paper"
     },
     {
       "source": "arXiv",
-      "title": "Comment-level Topic Drift Analysis in the Reddit Corpus",
-      "link": "http://arxiv.org/abs/2608.19133v1",
-      "summary": "We present a novel application of embedding-based dynamic topic modeling techniques to detect and quantify topic drift at the comment level in a massive corpus. By leveraging pretrained language…",
-      "published": "2026-08-19T17:27:25+00:00",
+      "title": "Break It Down, Pass It On: Cross-Task Skill Transfer in LLM Agents",
+      "link": "http://arxiv.org/abs/2608.20274v1",
+      "summary": "Large language model (LLM) agents can induce skills from completed tasks and reuse them later to grow more capable with experience. In practice, induced skills may transfer unreliably and can even…",
+      "published": "2026-08-20T17:12:08+00:00",
       "category": "paper"
     },
     {
       "source": "arXiv",
-      "title": "Leaf Values as Coordinates: Exact Contrastive Explanation for Gradient-Boosted Ensembles",
-      "link": "http://arxiv.org/abs/2608.19127v1",
-      "summary": "A gradient-boosted ensemble predicts by summing one leaf value per tree. Read those values as coordinates rather than as intermediate results, and every instance becomes a point in R^M on which the…",
-      "published": "2026-08-19T17:20:33+00:00",
+      "title": "Catching the Rug: Early Prediction of Fraudulent Memecoins on Solana via Machine Learning",
+      "link": "http://arxiv.org/abs/2608.20271v1",
+      "summary": "The rapid proliferation of memecoins on blockchain platforms has increased the risk of fraudulent activities, particularly rug pulls. While previous studies have focused on Ethereum-based tokens,…",
+      "published": "2026-08-20T17:09:41+00:00",
       "category": "paper"
     },
     {
       "source": "arXiv",
-      "title": "Tuning the Stochastic Machine: A Systems Engineer's Operating Model for Human-AI Engineering",
-      "link": "http://arxiv.org/abs/2608.19125v1",
-      "summary": "When an expert corrects an LLM assistant's error, the correction usually dies with the session, and the error class returns. I argue this is an operations problem, not a tooling problem: mechanisms…",
-      "published": "2026-08-19T17:18:53+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "PGFS++: Molecular Property Improvement under Synthesis and Diversity Constraints",
-      "link": "http://arxiv.org/abs/2608.19121v1",
-      "summary": "Improving molecular properties, such as drug-likeness or binding affinity, is a recurring task in early-stage drug discovery. However, molecules optimized in an unconstrained chemical space have…",
-      "published": "2026-08-19T17:17:31+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "Discretizing Continuous Time Series for Imputation with Masked Diffusion Training",
-      "link": "http://arxiv.org/abs/2608.19119v1",
-      "summary": "Time series imputation is a crucial area for reliable time series analysis, yet it remains challenging due to the complex temporal dynamics and noise of real-world data. Existing approaches, however,…",
-      "published": "2026-08-19T17:16:27+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "Open-MOPD: Diagnosing and Fixing Capability Imbalance in Multi-Teacher On-Policy Distillation",
-      "link": "http://arxiv.org/abs/2608.19098v1",
-      "summary": "Multi-teacher on-policy distillation (M-OPD) has emerged as a promising paradigm for consolidating domain-specialized reinforcement learning (RL) experts into a single generalist student via dense,…",
-      "published": "2026-08-19T16:50:39+00:00",
+      "title": "Learning When to Think: Adaptive Reasoning for Test-Time Compute Allocation",
+      "link": "http://arxiv.org/abs/2608.20256v1",
+      "summary": "Reasoning language models trained with reinforcement learning typically operate under a fixed token budget rather than an explicitly adaptive one, which can lead to over-computation on easy problems…",
+      "published": "2026-08-20T16:54:08+00:00",
       "category": "paper"
     },
     {
       "source": "Hugging Face",
-      "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
-      "link": "https://huggingface.co/blog/LiquidAI/qad",
+      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+      "link": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
       "summary": "",
-      "published": "2026-08-19T13:48:49+00:00",
+      "published": "2026-08-20T16:52:57+00:00",
       "category": "release"
     },
     {
+      "source": "arXiv",
+      "title": "QUASAR: A Quantum-Classical Neural Network for SAR Satellite Physical-Layer Authentication",
+      "link": "http://arxiv.org/abs/2608.20240v1",
+      "summary": "X-band SAR satellites (8-12 GHz) play a critical role in disaster response, environmental monitoring, and military intelligence. Yet, they lack robust physical-layer authentication (PLA), a security…",
+      "published": "2026-08-20T16:31:01+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "Rule-Compliant Visual Spatial Planning for Multimodal Large Language Models",
+      "link": "http://arxiv.org/abs/2608.20237v1",
+      "summary": "Multimodal large language models (MLLMs) combine linguistic reasoning with visual perception, yet their ability to perform visual spatial planning under explicit or previously unseen rule constraints…",
+      "published": "2026-08-20T16:28:28+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "Growth Without Us: Machine Consumers, Corporate Circularity, and the Decoupling of GDP from Humanity after AGI",
+      "link": "http://arxiv.org/abs/2608.20231v1",
+      "summary": "The standard objection to full automation is demand-side: if humans earn nothing, who buys the output? This confuses an accounting role with a biological species. We model a post-AGI economy in which…",
+      "published": "2026-08-20T16:26:24+00:00",
+      "category": "paper"
+    },
+    {
       "source": "OpenAI",
-      "title": "Replit expands access to software creation with GPT-5.6 Luna",
-      "link": "https://openai.com/index/replit",
-      "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
-      "published": "2026-08-19T07:00:00+00:00",
+      "title": "Introducing AI Futures",
+      "link": "https://openai.com/index/introducing-ai-futures",
+      "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+      "published": "2026-08-20T07:00:00+00:00",
       "category": "release"
     },
     {
       "source": "Hugging Face Hub",
       "title": "Qwen/Qwen3.8-27B",
       "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
-      "summary": "11617 curtidas no Hugging Face · image-text-to-text",
+      "summary": "11844 curtidas no Hugging Face · image-text-to-text",
       "published": "",
       "category": "model_upload"
     },
@@ -167,39 +151,7 @@
       "source": "Hugging Face Hub",
       "title": "unsloth/Qwen3.8-27B-GGUF",
       "link": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
-      "summary": "2235 curtidas no Hugging Face",
-      "published": "",
-      "category": "model_upload"
-    },
-    {
-      "source": "Hugging Face Hub",
-      "title": "MiniMaxAI/MiniMax-Music3",
-      "link": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
-      "summary": "1073 curtidas no Hugging Face · text-to-audio",
-      "published": "",
-      "category": "model_upload"
-    },
-    {
-      "source": "Hugging Face Hub",
-      "title": "deepseek-ai/DeepSeek-V4-Pro-0813",
-      "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813",
-      "summary": "663 curtidas no Hugging Face · text-generation",
-      "published": "",
-      "category": "model_upload"
-    },
-    {
-      "source": "Hugging Face Hub",
-      "title": "Qwen/Qwen3.8-27B-FP8",
-      "link": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-      "summary": "616 curtidas no Hugging Face · image-text-to-text",
-      "published": "",
-      "category": "model_upload"
-    },
-    {
-      "source": "Hugging Face Hub",
-      "title": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
-      "link": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8",
-      "summary": "645 curtidas no Hugging Face · image-text-to-text",
+      "summary": "2432 curtidas no Hugging Face",
       "published": "",
       "category": "model_upload"
     },
@@ -207,15 +159,31 @@
       "source": "Hugging Face Hub",
       "title": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
       "link": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
-      "summary": "661 curtidas no Hugging Face · image-text-to-text",
+      "summary": "768 curtidas no Hugging Face · image-text-to-text",
       "published": "",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "Lightricks/LTX-2.5",
-      "link": "https://huggingface.co/Lightricks/LTX-2.5",
-      "summary": "1362 curtidas no Hugging Face · image-to-video",
+      "title": "Qwen/Qwen3.8-27B-FP8",
+      "link": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+      "summary": "644 curtidas no Hugging Face · image-text-to-text",
+      "published": "",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
+      "link": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8",
+      "summary": "700 curtidas no Hugging Face · image-text-to-text",
+      "published": "",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "MiniMaxAI/MiniMax-Music3",
+      "link": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
+      "summary": "1144 curtidas no Hugging Face · text-to-audio",
       "published": "",
       "category": "model_upload"
     },
@@ -223,15 +191,31 @@
       "source": "Hugging Face Hub",
       "title": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
       "link": "https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
-      "summary": "490 curtidas no Hugging Face · text-generation",
+      "summary": "537 curtidas no Hugging Face · text-generation",
       "published": "",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "Qwen/Qwen3.8-2.4T-A95B",
-      "link": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
-      "summary": "1113 curtidas no Hugging Face · text-generation",
+      "title": "Lightricks/LTX-2.5",
+      "link": "https://huggingface.co/Lightricks/LTX-2.5",
+      "summary": "1444 curtidas no Hugging Face · image-to-video",
+      "published": "",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+      "link": "https://huggingface.co/HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+      "summary": "389 curtidas no Hugging Face · image-text-to-text",
+      "published": "",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+      "link": "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+      "summary": "362 curtidas no Hugging Face · text-generation",
       "published": "",
       "category": "model_upload"
     }
