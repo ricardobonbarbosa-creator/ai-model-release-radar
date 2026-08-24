@@ -2456,5 +2456,92 @@
         "category": "model_upload"
       }
     ]
+  },
+  {
+    "date": "2026-08-24",
+    "generated_at": "2026-08-24T11:26:29.715295+00:00",
+    "count": 10,
+    "items": [
+      {
+        "source": "Hugging Face Hub",
+        "title": "Qwen/Qwen3.8-27B",
+        "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "summary": "12414 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "unsloth/Qwen3.8-27B-GGUF",
+        "link": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+        "summary": "2771 curtidas no Hugging Face",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
+        "link": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
+        "summary": "993 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+        "link": "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+        "summary": "664 curtidas no Hugging Face · text-generation",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
+        "link": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8",
+        "summary": "1068 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+        "link": "https://huggingface.co/HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+        "summary": "556 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Lightricks/LTX-2.5",
+        "link": "https://huggingface.co/Lightricks/LTX-2.5",
+        "summary": "1678 curtidas no Hugging Face · image-to-video",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "ornith-ai/Ornith-1.5-35B-A3B",
+        "link": "https://huggingface.co/ornith-ai/Ornith-1.5-35B-A3B",
+        "summary": "376 curtidas no Hugging Face · text-generation",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
+        "link": "https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
+        "summary": "662 curtidas no Hugging Face · text-generation",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "MiniMaxAI/MiniMax-Music3",
+        "link": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
+        "summary": "1217 curtidas no Hugging Face · text-to-audio",
+        "published": "",
+        "category": "model_upload"
+      }
+    ]
   }
 ]
