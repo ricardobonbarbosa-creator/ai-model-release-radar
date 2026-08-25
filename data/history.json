@@ -2543,5 +2543,236 @@
         "category": "model_upload"
       }
     ]
+  },
+  {
+    "date": "2026-08-25",
+    "generated_at": "2026-08-25T11:25:31.347810+00:00",
+    "count": 28,
+    "items": [
+      {
+        "source": "OpenAI",
+        "title": "Disrupting a new covert influence campaign from Russia",
+        "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+        "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
+        "published": "2026-08-25T00:00:00+00:00",
+        "category": "release"
+      },
+      {
+        "source": "Hugging Face",
+        "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+        "link": "https://huggingface.co/blog/gradio-workflow-guide",
+        "summary": "",
+        "published": "2026-08-25T00:00:00+00:00",
+        "category": "release"
+      },
+      {
+        "source": "arXiv",
+        "title": "How to Train a Critic Stably and Efficiently",
+        "link": "http://arxiv.org/abs/2608.23566v1",
+        "summary": "Group-based reinforcement learning methods such as GRPO for large language models avoid training a critic by sampling multiple responses for each prompt. A reliable critic could instead estimate…",
+        "published": "2026-08-24T17:59:39+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "ReWorld: An Interactive World Model with Long-Horizon Memory",
+        "link": "http://arxiv.org/abs/2608.23565v1",
+        "summary": "An interactive world model must follow the user's actions, remember the places it has shown, and stream in real time. The tension is structural: control wants a short horizon, memory wants an…",
+        "published": "2026-08-24T17:59:05+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?",
+        "link": "http://arxiv.org/abs/2608.23564v1",
+        "summary": "Modern software systems accumulate technical debt over decades of development, which makes migration expensive and largely manual. As coding agents become increasingly capable at bug fixing, can they…",
+        "published": "2026-08-24T17:59:04+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "EG-ARSA: An Expert-Grounded Open Model for Visual Road Safety Auditing in Low-Resource Settings",
+        "link": "http://arxiv.org/abs/2608.23563v1",
+        "summary": "Road traffic injuries remain a major challenge in low- and middle-income countries, where proactive road safety auditing is limited by incomplete crash records, shortages of qualified auditors, and…",
+        "published": "2026-08-24T17:58:41+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "Physics-Constrained Deep Learning Model for Contactless Blood Pressure Monitoring from Triaxial Bodyseismography",
+        "link": "http://arxiv.org/abs/2608.23562v1",
+        "summary": "Ballistocardiography (BCG) is promising for unobtrusive long-term blood pressure (BP) monitoring in laboratory settings, but traditional BCG signals are vulnerable to the variations in body-bed…",
+        "published": "2026-08-24T17:58:35+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "Prime Agent: A Self-Improving RLM Harness",
+        "link": "http://arxiv.org/abs/2608.23552v1",
+        "summary": "Language models are sequential processors, but long-horizon agency requires external information and computation beyond model weights and active context. Prime Agent is an open-source harness for…",
+        "published": "2026-08-24T17:54:19+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "ConvergeFlow: Language Flow with Provable Convergence to Token Embeddings",
+        "link": "http://arxiv.org/abs/2608.23551v1",
+        "summary": "Recent advances in continuous diffusion and flow-based language models (LMs) have achieved performance competitive with discrete LMs. However, existing continuous frameworks still rely on decoders…",
+        "published": "2026-08-24T17:54:14+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "How AI Assistance Affects Human Skill Development: A Study of Learning with Logic Puzzles",
+        "link": "http://arxiv.org/abs/2608.23543v1",
+        "summary": "While AI assistance can improve human task performance in the short term, it may also undermine the development of skills in the longer term. We examine this tension in a controlled logic-puzzle…",
+        "published": "2026-08-24T17:46:11+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "The Interaction Tax: When Communication Erases Diversity in Multi-Agent Teams",
+        "link": "http://arxiv.org/abs/2608.23541v1",
+        "summary": "Does multi-agent LLM interaction help or hurt? Some work reports gains from debate (Du et al., 2024), critique loops (Chen et al., 2025), and mixture-of-agents synthesis (Wang et al., 2025), while…",
+        "published": "2026-08-24T17:45:15+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "Adapter-Based Few-Shot Continual Learning for Malicious Packet Recognition",
+        "link": "http://arxiv.org/abs/2608.23536v1",
+        "summary": "The continual evolution of malware variants necessitates detection systems that can adapt to new threats without retraining from scratch. However, continually updating models on new data often leads…",
+        "published": "2026-08-24T17:41:15+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "Correcting a learned physical invariant improves world-model rollouts",
+        "link": "http://arxiv.org/abs/2608.23526v1",
+        "summary": "World models can predict video without learning dynamics that they reliably preserve. We test whether a frozen DreamerV3 trained only on pendulum video learns a scalar that its own latent transition…",
+        "published": "2026-08-24T17:29:40+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "EarthVerse: Benchmarking Scientific Agents Across Dynamic Earth Systems and Natural Hazards",
+        "link": "http://arxiv.org/abs/2608.23525v1",
+        "summary": "Earth-system analysis reconstructs changing physical processes from observations that differ in source, scale, timing, and modality. Natural hazards make this work consequential because incomplete…",
+        "published": "2026-08-24T17:29:16+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "The Measurement Revolution? Credible Measurement and Inference in the Age of AI",
+        "link": "http://arxiv.org/abs/2608.23524v1",
+        "summary": "Artificial intelligence (AI) is transforming measurement in economics. AI models convert unstructured data, such as text and images, into structured variables at low cost, making previously…",
+        "published": "2026-08-24T17:28:34+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "When Names Cross Scripts: A Source-Grounded Benchmark for Historical Entity Reconciliation in the Mongol World",
+        "link": "http://arxiv.org/abs/2608.23507v1",
+        "summary": "Historical people may appear under different languages, scripts, and transcription traditions, while distinct individuals may share highly similar or even identical names. This makes historical…",
+        "published": "2026-08-24T17:10:36+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "Mitigating Reasoning-Induced Misalignment via Safety-Direction Penalty",
+        "link": "http://arxiv.org/abs/2608.23497v1",
+        "summary": "Reasoning-Induced Misalignment, where fine-tuning on reasoning data containing no harmful content, including mathematics, code, and problem-solving with chain-of-thought traces can induce harmful…",
+        "published": "2026-08-24T16:57:28+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "OpenAI",
+        "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+        "link": "https://openai.com/index/gpt-5-6-in-kiro",
+        "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+        "published": "2026-08-24T12:00:00+00:00",
+        "category": "release"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Qwen/Qwen3.8-27B",
+        "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "summary": "12604 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "unsloth/Qwen3.8-27B-GGUF",
+        "link": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+        "summary": "2875 curtidas no Hugging Face",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
+        "link": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
+        "summary": "1060 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+        "link": "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+        "summary": "714 curtidas no Hugging Face · text-generation",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
+        "link": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8",
+        "summary": "1115 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+        "link": "https://huggingface.co/HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+        "summary": "602 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "ornith-ai/Ornith-1.5-35B-A3B",
+        "link": "https://huggingface.co/ornith-ai/Ornith-1.5-35B-A3B",
+        "summary": "409 curtidas no Hugging Face · text-generation",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Lightricks/LTX-2.5",
+        "link": "https://huggingface.co/Lightricks/LTX-2.5",
+        "summary": "1750 curtidas no Hugging Face · image-to-video",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "MiniMaxAI/MiniMax-Music3",
+        "link": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
+        "summary": "1235 curtidas no Hugging Face · text-to-audio",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
+        "link": "https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
+        "summary": "707 curtidas no Hugging Face · text-generation",
+        "published": "",
+        "category": "model_upload"
+      }
+    ]
   }
 ]
