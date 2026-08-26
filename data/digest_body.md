@@ -1,53 +1,61 @@
-# 🛰️ Resumo Diário de IA — 2026-08-25
+# 🛰️ Resumo Diário de IA — 2026-08-26
 
-## 🚀 Lançamentos e novidades (13)
-**🚀 [Disrupting a new covert influence campaign from Russia](https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia)** — OpenAI
-> OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.
+## 🚀 Lançamentos e novidades (16)
+**🚀 [How loveholidays is making everyone a builder with Codex](https://openai.com/index/loveholidays)** — OpenAI
+> Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.
 
-**🚀 [Wire It, Run It, Deploy It: AI Workflows in Gradio](https://huggingface.co/blog/gradio-workflow-guide)** — Hugging Face
+**🚀 [5 ways to upgrade your home decor with Google Search](https://blog.google/products-and-platforms/products/search/home-decor-tips/)** — Google AI
+> Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects.
 
-**🚀 [Advancing price-performance for developers with GPT‑5.6 in Kiro](https://openai.com/index/gpt-5-6-in-kiro)** — OpenAI
-> GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.
+**🚀 [Granite 4.2 LLMs: How They're Built](https://huggingface.co/blog/ibm-granite/granite-4-2)** — Hugging Face
+
+**🚀 [Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original](https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing)** — Hugging Face
+
+**🚀 [The full stack behind abundant intelligence](https://openai.com/index/the-full-stack-behind-abundant-intelligence)** — OpenAI
+> OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.
+
+**🚀 [Jalapeño’s first results show industry-leading speed and efficiency in AI inference](https://openai.com/index/jalapeno-first-results)** — OpenAI
+> Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.
 
 **🤗 [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** — Hugging Face Hub
-> 12604 curtidas no Hugging Face · image-text-to-text
+> 12809 curtidas no Hugging Face · image-text-to-text
 
 **🤗 [unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF)** — Hugging Face Hub
-> 2875 curtidas no Hugging Face
-
-**🤗 [orcarouter/Qwen3.8-27B-Uncensored-MLX](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX)** — Hugging Face Hub
-> 1060 curtidas no Hugging Face · image-text-to-text
+> 2945 curtidas no Hugging Face
 
 **🤗 [OBLITERATUS/Qwen3.8-27B-OBLITERATED](https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED)** — Hugging Face Hub
-> 714 curtidas no Hugging Face · text-generation
+> 776 curtidas no Hugging Face · text-generation
+
+**🤗 [orcarouter/Qwen3.8-27B-Uncensored-MLX](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX)** — Hugging Face Hub
+> 1123 curtidas no Hugging Face · image-text-to-text
 
 **🤗 [orcarouter/Qwen3.8-27B-Uncensored-FP8](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8)** — Hugging Face Hub
-> 1115 curtidas no Hugging Face · image-text-to-text
-
-**🤗 [HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF](https://huggingface.co/HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF)** — Hugging Face Hub
-> 602 curtidas no Hugging Face · image-text-to-text
+> 1159 curtidas no Hugging Face · image-text-to-text
 
 **🤗 [ornith-ai/Ornith-1.5-35B-A3B](https://huggingface.co/ornith-ai/Ornith-1.5-35B-A3B)** — Hugging Face Hub
-> 409 curtidas no Hugging Face · text-generation
+> 434 curtidas no Hugging Face · text-generation
+
+**🤗 [HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF](https://huggingface.co/HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF)** — Hugging Face Hub
+> 632 curtidas no Hugging Face · image-text-to-text
 
 **🤗 [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)** — Hugging Face Hub
-> 1750 curtidas no Hugging Face · image-to-video
+> 1818 curtidas no Hugging Face · image-to-video
 
-**🤗 [MiniMaxAI/MiniMax-Music3](https://huggingface.co/MiniMaxAI/MiniMax-Music3)** — Hugging Face Hub
-> 1235 curtidas no Hugging Face · text-to-audio
+**🤗 [ornith-ai/Ornith-1.5-35B-A3B-GGUF](https://huggingface.co/ornith-ai/Ornith-1.5-35B-A3B-GGUF)** — Hugging Face Hub
+> 302 curtidas no Hugging Face · text-generation
 
-**🤗 [JonathanColetti/Qwen3.8-27B-Uncensored-GGUF](https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF)** — Hugging Face Hub
-> 707 curtidas no Hugging Face · text-generation
+**🤗 [MiniMaxAI/MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3)** — Hugging Face Hub
+> 4474 curtidas no Hugging Face · image-text-to-video
 
 ## 📄 Pesquisas recentes (15)
-- [How to Train a Critic Stably and Efficiently](http://arxiv.org/abs/2608.23566v1)
-- [ReWorld: An Interactive World Model with Long-Horizon Memory](http://arxiv.org/abs/2608.23565v1)
-- [SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?](http://arxiv.org/abs/2608.23564v1)
-- [EG-ARSA: An Expert-Grounded Open Model for Visual Road Safety Auditing in Low-Resource Settings](http://arxiv.org/abs/2608.23563v1)
-- [Physics-Constrained Deep Learning Model for Contactless Blood Pressure Monitoring from Triaxial Bodyseismography](http://arxiv.org/abs/2608.23562v1)
-- [Prime Agent: A Self-Improving RLM Harness](http://arxiv.org/abs/2608.23552v1)
-- [ConvergeFlow: Language Flow with Provable Convergence to Token Embeddings](http://arxiv.org/abs/2608.23551v1)
-- [How AI Assistance Affects Human Skill Development: A Study of Learning with Logic Puzzles](http://arxiv.org/abs/2608.23543v1)
+- [Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses](http://arxiv.org/abs/2608.24876v1)
+- [SPO++: Stream-Aligned Policy Optimization for Asynchronous Agentic RL](http://arxiv.org/abs/2608.24870v1)
+- [BrowserForge: Scaling Web Episode via Parallel Browser Sandboxes](http://arxiv.org/abs/2608.24848v1)
+- [FedV-KGQA: Multi-Hop Question Answering over Vertically Partitioned Knowledge Graphs](http://arxiv.org/abs/2608.24846v1)
+- [LAION-BVD: A 10-Million-Hour Open Video Dataset for Multimodal Pre-training](http://arxiv.org/abs/2608.24845v1)
+- [Reading Is Not Using: Retrieval, Judgment, and the Design of AI Financial Research Workflows](http://arxiv.org/abs/2608.24842v1)
+- [A Dual-Dimensional LLM Framework for Automated Item Incidental Content Similarity Analysis in Large-Scale Assessments](http://arxiv.org/abs/2608.24825v1)
+- [Constrained Entity Selection under Partial Knowledge for LLM-Based Knowledge Graph QA](http://arxiv.org/abs/2608.24824v1)
 - …e mais 7 artigos no dashboard
 
 ---

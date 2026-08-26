@@ -2774,5 +2774,260 @@
         "category": "model_upload"
       }
     ]
+  },
+  {
+    "date": "2026-08-26",
+    "generated_at": "2026-08-26T11:27:50.014202+00:00",
+    "count": 31,
+    "items": [
+      {
+        "source": "OpenAI",
+        "title": "How loveholidays is making everyone a builder with Codex",
+        "link": "https://openai.com/index/loveholidays",
+        "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
+        "published": "2026-08-26T00:00:00+00:00",
+        "category": "release"
+      },
+      {
+        "source": "arXiv",
+        "title": "Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses",
+        "link": "http://arxiv.org/abs/2608.24876v1",
+        "summary": "Recursive self-improvement (RSI) remains hard in long-horizon tasks, where growing histories obscure the task state and misalign skill invocation. We introduce Recuris, a recursive…",
+        "published": "2026-08-25T17:56:35+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "SPO++: Stream-Aligned Policy Optimization for Asynchronous Agentic RL",
+        "link": "http://arxiv.org/abs/2608.24870v1",
+        "summary": "Group-relative reinforcement learning waits for sibling rollouts of the same prompt, which is costly for long and variable tool-use trajectories. Single-stream Policy Optimization (SPO) removes this…",
+        "published": "2026-08-25T17:52:19+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "BrowserForge: Scaling Web Episode via Parallel Browser Sandboxes",
+        "link": "http://arxiv.org/abs/2608.24848v1",
+        "summary": "Web agents that act from rendered pixels avoid the fragility and heavy token cost of reading a page's HTML or accessibility tree, but training them depends on large amounts of high-quality…",
+        "published": "2026-08-25T17:35:42+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "FedV-KGQA: Multi-Hop Question Answering over Vertically Partitioned Knowledge Graphs",
+        "link": "http://arxiv.org/abs/2608.24846v1",
+        "summary": "Real-world data for knowledge graph question answering is often distributed across different organizations due to governance and data sovereignty constraints. While centralized systems exist, they…",
+        "published": "2026-08-25T17:34:27+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "LAION-BVD: A 10-Million-Hour Open Video Dataset for Multimodal Pre-training",
+        "link": "http://arxiv.org/abs/2608.24845v1",
+        "summary": "We present LAION-BVD, a large-scale open video dataset for multimodal learning, which contains 1.3B platform-specific video URLs collected from CommonCrawl. From these, we download 80M videos with a…",
+        "published": "2026-08-25T17:34:19+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "Reading Is Not Using: Retrieval, Judgment, and the Design of AI Financial Research Workflows",
+        "link": "http://arxiv.org/abs/2608.24842v1",
+        "summary": "Large language models (LLMs) are increasingly deployed as AI analysts to process financial disclosures and support AI-assisted investment decisions. Yet such systems are usually evaluated by what…",
+        "published": "2026-08-25T17:31:25+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "A Dual-Dimensional LLM Framework for Automated Item Incidental Content Similarity Analysis in Large-Scale Assessments",
+        "link": "http://arxiv.org/abs/2608.24825v1",
+        "summary": "The rapid expansion of large-scale assessments and the growing adoption of automatic item generation have intensified concerns about incidental content redundancy, where construct-irrelevant elements…",
+        "published": "2026-08-25T17:07:16+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "Constrained Entity Selection under Partial Knowledge for LLM-Based Knowledge Graph QA",
+        "link": "http://arxiv.org/abs/2608.24824v1",
+        "summary": "Large language models are increasingly used for knowledge graph question answering (KGQA), but can fail to correctly ground answers in the underlying graph. Current approaches to LLM-based KGQA…",
+        "published": "2026-08-25T17:04:32+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "Strictly Causal Streaming Video Anomaly Detection with a Theoretically-Grounded State-Space Core",
+        "link": "http://arxiv.org/abs/2608.24810v1",
+        "summary": "Recent work has applied Mamba style state space models (SSMs) to video anomaly detection, yet existing approaches still rely on buffering clips or windows internally, lack a theoretical account of…",
+        "published": "2026-08-25T16:52:32+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "Structurally-bounded Agentic Graph Exploration for Evidence-Grounded Scholarly DeepSearch",
+        "link": "http://arxiv.org/abs/2608.24809v1",
+        "summary": "We present Crase, a bounded and inspectable alternative to deep research agents for scholarly search. Instead of an open-ended search loop, Crase queries a search engine once for seed papers, expands…",
+        "published": "2026-08-25T16:51:26+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "Automatic Model Card Generation Using an LLM",
+        "link": "http://arxiv.org/abs/2608.24807v1",
+        "summary": "Model cards are structured documents that summarize key information about machine learning models to improve transparency, usability, and accountability. However, they often lack a consistent…",
+        "published": "2026-08-25T16:49:37+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "StarHarness: Evolving Harnesses with Stratified Search for Enterprise Environments",
+        "link": "http://arxiv.org/abs/2608.24804v1",
+        "summary": "We present StarHarness, a framework for evolving environment-specific agent harnesses while keeping model weights fixed. The evolved harness can include prompt and task framing, tool interfaces,…",
+        "published": "2026-08-25T16:48:05+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "CAFE: Self-Improving Search Agents Need Co-Evolving Feedback",
+        "link": "http://arxiv.org/abs/2608.24794v1",
+        "summary": "Outcome-supervised search agents learn when and how to retrieve evidence, but terminal rewards neither localize intermediate errors nor redirect an ongoing trajectory before those errors compound.…",
+        "published": "2026-08-25T16:39:00+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "Right Diagnoses, Decorative Reasoning:A Perturbation Audit of Medical Chain-of-Thought",
+        "link": "http://arxiv.org/abs/2608.24790v1",
+        "summary": "Clinicians read chain-of-thought (CoT) rationales as evidence of medical reasoning, but whether the visible chain plays that role is rarely tested. General-domain CoT-faithfulness probes ignore…",
+        "published": "2026-08-25T16:37:39+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "Linear Probing Provides Robust and Efficient Detection of Machine-Generated Text",
+        "link": "http://arxiv.org/abs/2608.24780v1",
+        "summary": "Distinguishing machine-generated text (MGT) from human-written text (HWT) becomes increasingly important due to potential misuse. However, most supervised detectors often degrade out-of-domain (OOD)…",
+        "published": "2026-08-25T16:21:24+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "Google AI",
+        "title": "5 ways to upgrade your home decor with Google Search",
+        "link": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
+        "summary": "Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects.",
+        "published": "2026-08-25T16:00:00+00:00",
+        "category": "release"
+      },
+      {
+        "source": "Hugging Face",
+        "title": "Granite 4.2 LLMs: How They're Built",
+        "link": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+        "summary": "",
+        "published": "2026-08-25T15:14:14+00:00",
+        "category": "release"
+      },
+      {
+        "source": "Hugging Face",
+        "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+        "link": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+        "summary": "",
+        "published": "2026-08-25T11:39:24+00:00",
+        "category": "release"
+      },
+      {
+        "source": "OpenAI",
+        "title": "The full stack behind abundant intelligence",
+        "link": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+        "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
+        "published": "2026-08-25T07:05:00+00:00",
+        "category": "release"
+      },
+      {
+        "source": "OpenAI",
+        "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+        "link": "https://openai.com/index/jalapeno-first-results",
+        "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
+        "published": "2026-08-25T07:00:00+00:00",
+        "category": "release"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Qwen/Qwen3.8-27B",
+        "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "summary": "12809 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "unsloth/Qwen3.8-27B-GGUF",
+        "link": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+        "summary": "2945 curtidas no Hugging Face",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+        "link": "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+        "summary": "776 curtidas no Hugging Face · text-generation",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
+        "link": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
+        "summary": "1123 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
+        "link": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8",
+        "summary": "1159 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "ornith-ai/Ornith-1.5-35B-A3B",
+        "link": "https://huggingface.co/ornith-ai/Ornith-1.5-35B-A3B",
+        "summary": "434 curtidas no Hugging Face · text-generation",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+        "link": "https://huggingface.co/HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+        "summary": "632 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Lightricks/LTX-2.5",
+        "link": "https://huggingface.co/Lightricks/LTX-2.5",
+        "summary": "1818 curtidas no Hugging Face · image-to-video",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "ornith-ai/Ornith-1.5-35B-A3B-GGUF",
+        "link": "https://huggingface.co/ornith-ai/Ornith-1.5-35B-A3B-GGUF",
+        "summary": "302 curtidas no Hugging Face · text-generation",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "MiniMaxAI/MiniMax-H3",
+        "link": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+        "summary": "4474 curtidas no Hugging Face · image-text-to-video",
+        "published": "",
+        "category": "model_upload"
+      }
+    ]
   }
 ]
