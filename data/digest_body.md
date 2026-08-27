@@ -1,61 +1,62 @@
-# 🛰️ Resumo Diário de IA — 2026-08-26
+# 🛰️ Resumo Diário de IA — 2026-08-27
 
 ## 🚀 Lançamentos e novidades (16)
-**🚀 [How loveholidays is making everyone a builder with Codex](https://openai.com/index/loveholidays)** — OpenAI
-> Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.
+**🚀 [Gemini Omni 1.1 Flash lets you build with more control](https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/)** — DeepMind
 
-**🚀 [5 ways to upgrade your home decor with Google Search](https://blog.google/products-and-platforms/products/search/home-decor-tips/)** — Google AI
-> Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects.
+**🚀 [3 new ways to plan and book travel in Search](https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/)** — Google AI
+> Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search.
 
-**🚀 [Granite 4.2 LLMs: How They're Built](https://huggingface.co/blog/ibm-granite/granite-4-2)** — Hugging Face
+**🚀 [Piloting the world's first double-blind AI evaluations](https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/)** — DeepMind
+> Piloting the world's first double-blind AI evaluations
 
-**🚀 [Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original](https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing)** — Hugging Face
+**🚀 [Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training](https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training)** — OpenAI
+> A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.
 
-**🚀 [The full stack behind abundant intelligence](https://openai.com/index/the-full-stack-behind-abundant-intelligence)** — OpenAI
-> OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.
+**🚀 [Expanding OpenAI’s presence in Brazil](https://openai.com/index/expanding-our-presence-in-brazil)** — OpenAI
+> OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.
 
-**🚀 [Jalapeño’s first results show industry-leading speed and efficiency in AI inference](https://openai.com/index/jalapeno-first-results)** — OpenAI
-> Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.
+**🚀 [Intelligent transcription with Gemini 3.5 Transcribe](https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/)** — DeepMind
+> Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.
+
+**🤗 [Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next)** — Hugging Face Hub
+> 3925 curtidas no Hugging Face · image-text-to-text
+
+**🤗 [zai-org/GLM-5.3-Flash](https://huggingface.co/zai-org/GLM-5.3-Flash)** — Hugging Face Hub
+> 1301 curtidas no Hugging Face · text-generation
 
 **🤗 [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** — Hugging Face Hub
-> 12809 curtidas no Hugging Face · image-text-to-text
+> 13023 curtidas no Hugging Face · image-text-to-text
 
 **🤗 [unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF)** — Hugging Face Hub
-> 2945 curtidas no Hugging Face
+> 3066 curtidas no Hugging Face
 
 **🤗 [OBLITERATUS/Qwen3.8-27B-OBLITERATED](https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED)** — Hugging Face Hub
-> 776 curtidas no Hugging Face · text-generation
+> 843 curtidas no Hugging Face · text-generation
 
-**🤗 [orcarouter/Qwen3.8-27B-Uncensored-MLX](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX)** — Hugging Face Hub
-> 1123 curtidas no Hugging Face · image-text-to-text
+**🤗 [unsloth/Qwen3.8-Flash-Next-GGUF](https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF)** — Hugging Face Hub
+> 443 curtidas no Hugging Face · image-text-to-text
 
 **🤗 [orcarouter/Qwen3.8-27B-Uncensored-FP8](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8)** — Hugging Face Hub
-> 1159 curtidas no Hugging Face · image-text-to-text
+> 1206 curtidas no Hugging Face · image-text-to-text
 
-**🤗 [ornith-ai/Ornith-1.5-35B-A3B](https://huggingface.co/ornith-ai/Ornith-1.5-35B-A3B)** — Hugging Face Hub
-> 434 curtidas no Hugging Face · text-generation
-
-**🤗 [HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF](https://huggingface.co/HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF)** — Hugging Face Hub
-> 632 curtidas no Hugging Face · image-text-to-text
+**🤗 [orcarouter/Qwen3.8-27B-Uncensored-MLX](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX)** — Hugging Face Hub
+> 1164 curtidas no Hugging Face · image-text-to-text
 
 **🤗 [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)** — Hugging Face Hub
-> 1818 curtidas no Hugging Face · image-to-video
+> 1930 curtidas no Hugging Face · image-to-video
 
-**🤗 [ornith-ai/Ornith-1.5-35B-A3B-GGUF](https://huggingface.co/ornith-ai/Ornith-1.5-35B-A3B-GGUF)** — Hugging Face Hub
-> 302 curtidas no Hugging Face · text-generation
-
-**🤗 [MiniMaxAI/MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3)** — Hugging Face Hub
-> 4474 curtidas no Hugging Face · image-text-to-video
+**🤗 [HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF](https://huggingface.co/HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF)** — Hugging Face Hub
+> 684 curtidas no Hugging Face · image-text-to-text
 
 ## 📄 Pesquisas recentes (15)
-- [Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses](http://arxiv.org/abs/2608.24876v1)
-- [SPO++: Stream-Aligned Policy Optimization for Asynchronous Agentic RL](http://arxiv.org/abs/2608.24870v1)
-- [BrowserForge: Scaling Web Episode via Parallel Browser Sandboxes](http://arxiv.org/abs/2608.24848v1)
-- [FedV-KGQA: Multi-Hop Question Answering over Vertically Partitioned Knowledge Graphs](http://arxiv.org/abs/2608.24846v1)
-- [LAION-BVD: A 10-Million-Hour Open Video Dataset for Multimodal Pre-training](http://arxiv.org/abs/2608.24845v1)
-- [Reading Is Not Using: Retrieval, Judgment, and the Design of AI Financial Research Workflows](http://arxiv.org/abs/2608.24842v1)
-- [A Dual-Dimensional LLM Framework for Automated Item Incidental Content Similarity Analysis in Large-Scale Assessments](http://arxiv.org/abs/2608.24825v1)
-- [Constrained Entity Selection under Partial Knowledge for LLM-Based Knowledge Graph QA](http://arxiv.org/abs/2608.24824v1)
+- [VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning](http://arxiv.org/abs/2608.26105v1)
+- [A Visual Dependence-Aware Framework for Multimodal Unsupervised Continual Post-Training](http://arxiv.org/abs/2608.26095v1)
+- [MyoMechanix: Biomechanically-Grounded Compositional Skilled Activity Understanding and Coaching](http://arxiv.org/abs/2608.26094v1)
+- [PlanSightRAG: A Visual-First Multimodal RAG for Automating Question Answering and Compliance Checking for Civil Standard Plans](http://arxiv.org/abs/2608.26091v1)
+- [Finding and using interpretable latents in a neutrino foundation model with sparse autoencoders](http://arxiv.org/abs/2608.26090v1)
+- [Planetary Prediction Engine: Autonomous Geospatial Prediction via Intelligent Data Selection and Foundation Model Embeddings](http://arxiv.org/abs/2608.26088v1)
+- [TraceML: An Empirical Analysis of Human-Agent Planning in Machine Learning Development](http://arxiv.org/abs/2608.26086v1)
+- [ICON Decomposition: Multivariate Concept-Level Explanations of Deep Representations for Model Auditing](http://arxiv.org/abs/2608.26083v1)
 - …e mais 7 artigos no dashboard
 
 ---

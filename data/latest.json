@@ -1,181 +1,197 @@
 {
-  "date": "2026-08-26",
-  "generated_at": "2026-08-26T11:27:50.014202+00:00",
+  "date": "2026-08-27",
+  "generated_at": "2026-08-27T20:54:10.606583+00:00",
   "count": 31,
   "items": [
     {
-      "source": "OpenAI",
-      "title": "How loveholidays is making everyone a builder with Codex",
-      "link": "https://openai.com/index/loveholidays",
-      "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
-      "published": "2026-08-26T00:00:00+00:00",
+      "source": "DeepMind",
+      "title": "Gemini Omni 1.1 Flash lets you build with more control",
+      "link": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+      "summary": "",
+      "published": "2026-08-27T16:11:32+00:00",
       "category": "release"
-    },
-    {
-      "source": "arXiv",
-      "title": "Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses",
-      "link": "http://arxiv.org/abs/2608.24876v1",
-      "summary": "Recursive self-improvement (RSI) remains hard in long-horizon tasks, where growing histories obscure the task state and misalign skill invocation. We introduce Recuris, a recursive…",
-      "published": "2026-08-25T17:56:35+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "SPO++: Stream-Aligned Policy Optimization for Asynchronous Agentic RL",
-      "link": "http://arxiv.org/abs/2608.24870v1",
-      "summary": "Group-relative reinforcement learning waits for sibling rollouts of the same prompt, which is costly for long and variable tool-use trajectories. Single-stream Policy Optimization (SPO) removes this…",
-      "published": "2026-08-25T17:52:19+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "BrowserForge: Scaling Web Episode via Parallel Browser Sandboxes",
-      "link": "http://arxiv.org/abs/2608.24848v1",
-      "summary": "Web agents that act from rendered pixels avoid the fragility and heavy token cost of reading a page's HTML or accessibility tree, but training them depends on large amounts of high-quality…",
-      "published": "2026-08-25T17:35:42+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "FedV-KGQA: Multi-Hop Question Answering over Vertically Partitioned Knowledge Graphs",
-      "link": "http://arxiv.org/abs/2608.24846v1",
-      "summary": "Real-world data for knowledge graph question answering is often distributed across different organizations due to governance and data sovereignty constraints. While centralized systems exist, they…",
-      "published": "2026-08-25T17:34:27+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "LAION-BVD: A 10-Million-Hour Open Video Dataset for Multimodal Pre-training",
-      "link": "http://arxiv.org/abs/2608.24845v1",
-      "summary": "We present LAION-BVD, a large-scale open video dataset for multimodal learning, which contains 1.3B platform-specific video URLs collected from CommonCrawl. From these, we download 80M videos with a…",
-      "published": "2026-08-25T17:34:19+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "Reading Is Not Using: Retrieval, Judgment, and the Design of AI Financial Research Workflows",
-      "link": "http://arxiv.org/abs/2608.24842v1",
-      "summary": "Large language models (LLMs) are increasingly deployed as AI analysts to process financial disclosures and support AI-assisted investment decisions. Yet such systems are usually evaluated by what…",
-      "published": "2026-08-25T17:31:25+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "A Dual-Dimensional LLM Framework for Automated Item Incidental Content Similarity Analysis in Large-Scale Assessments",
-      "link": "http://arxiv.org/abs/2608.24825v1",
-      "summary": "The rapid expansion of large-scale assessments and the growing adoption of automatic item generation have intensified concerns about incidental content redundancy, where construct-irrelevant elements…",
-      "published": "2026-08-25T17:07:16+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "Constrained Entity Selection under Partial Knowledge for LLM-Based Knowledge Graph QA",
-      "link": "http://arxiv.org/abs/2608.24824v1",
-      "summary": "Large language models are increasingly used for knowledge graph question answering (KGQA), but can fail to correctly ground answers in the underlying graph. Current approaches to LLM-based KGQA…",
-      "published": "2026-08-25T17:04:32+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "Strictly Causal Streaming Video Anomaly Detection with a Theoretically-Grounded State-Space Core",
-      "link": "http://arxiv.org/abs/2608.24810v1",
-      "summary": "Recent work has applied Mamba style state space models (SSMs) to video anomaly detection, yet existing approaches still rely on buffering clips or windows internally, lack a theoretical account of…",
-      "published": "2026-08-25T16:52:32+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "Structurally-bounded Agentic Graph Exploration for Evidence-Grounded Scholarly DeepSearch",
-      "link": "http://arxiv.org/abs/2608.24809v1",
-      "summary": "We present Crase, a bounded and inspectable alternative to deep research agents for scholarly search. Instead of an open-ended search loop, Crase queries a search engine once for seed papers, expands…",
-      "published": "2026-08-25T16:51:26+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "Automatic Model Card Generation Using an LLM",
-      "link": "http://arxiv.org/abs/2608.24807v1",
-      "summary": "Model cards are structured documents that summarize key information about machine learning models to improve transparency, usability, and accountability. However, they often lack a consistent…",
-      "published": "2026-08-25T16:49:37+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "StarHarness: Evolving Harnesses with Stratified Search for Enterprise Environments",
-      "link": "http://arxiv.org/abs/2608.24804v1",
-      "summary": "We present StarHarness, a framework for evolving environment-specific agent harnesses while keeping model weights fixed. The evolved harness can include prompt and task framing, tool interfaces,…",
-      "published": "2026-08-25T16:48:05+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "CAFE: Self-Improving Search Agents Need Co-Evolving Feedback",
-      "link": "http://arxiv.org/abs/2608.24794v1",
-      "summary": "Outcome-supervised search agents learn when and how to retrieve evidence, but terminal rewards neither localize intermediate errors nor redirect an ongoing trajectory before those errors compound.…",
-      "published": "2026-08-25T16:39:00+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "Right Diagnoses, Decorative Reasoning:A Perturbation Audit of Medical Chain-of-Thought",
-      "link": "http://arxiv.org/abs/2608.24790v1",
-      "summary": "Clinicians read chain-of-thought (CoT) rationales as evidence of medical reasoning, but whether the visible chain plays that role is rarely tested. General-domain CoT-faithfulness probes ignore…",
-      "published": "2026-08-25T16:37:39+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "Linear Probing Provides Robust and Efficient Detection of Machine-Generated Text",
-      "link": "http://arxiv.org/abs/2608.24780v1",
-      "summary": "Distinguishing machine-generated text (MGT) from human-written text (HWT) becomes increasingly important due to potential misuse. However, most supervised detectors often degrade out-of-domain (OOD)…",
-      "published": "2026-08-25T16:21:24+00:00",
-      "category": "paper"
     },
     {
       "source": "Google AI",
-      "title": "5 ways to upgrade your home decor with Google Search",
-      "link": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
-      "summary": "Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects.",
-      "published": "2026-08-25T16:00:00+00:00",
+      "title": "3 new ways to plan and book travel in Search",
+      "link": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+      "summary": "Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search.",
+      "published": "2026-08-27T16:00:00+00:00",
       "category": "release"
     },
     {
-      "source": "Hugging Face",
-      "title": "Granite 4.2 LLMs: How They're Built",
-      "link": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-      "summary": "",
-      "published": "2026-08-25T15:14:14+00:00",
-      "category": "release"
-    },
-    {
-      "source": "Hugging Face",
-      "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-      "link": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-      "summary": "",
-      "published": "2026-08-25T11:39:24+00:00",
+      "source": "DeepMind",
+      "title": "Piloting the world's first double-blind AI evaluations",
+      "link": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+      "summary": "Piloting the world's first double-blind AI evaluations",
+      "published": "2026-08-27T12:59:16+00:00",
       "category": "release"
     },
     {
       "source": "OpenAI",
-      "title": "The full stack behind abundant intelligence",
-      "link": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-      "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
-      "published": "2026-08-25T07:05:00+00:00",
+      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+      "link": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+      "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
+      "published": "2026-08-27T09:00:00+00:00",
       "category": "release"
     },
     {
       "source": "OpenAI",
-      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-      "link": "https://openai.com/index/jalapeno-first-results",
-      "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
-      "published": "2026-08-25T07:00:00+00:00",
+      "title": "Expanding OpenAI’s presence in Brazil",
+      "link": "https://openai.com/index/expanding-our-presence-in-brazil",
+      "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
+      "published": "2026-08-27T03:00:00+00:00",
       "category": "release"
+    },
+    {
+      "source": "arXiv",
+      "title": "VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning",
+      "link": "http://arxiv.org/abs/2608.26105v1",
+      "summary": "Native visual reasoning treats visual generation as the medium of reasoning itself: visual states (i.e. images and videos) are not merely inputs to be understood or outputs to be rendered, but…",
+      "published": "2026-08-26T17:59:51+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "A Visual Dependence-Aware Framework for Multimodal Unsupervised Continual Post-Training",
+      "link": "http://arxiv.org/abs/2608.26095v1",
+      "summary": "In this paper, we explore a novel task of Multimodal Unsupervised Continual Post-Training (MU-CPT), enabling deployed MLLMs to continually evolve from streaming unlabeled data. Existing unsupervised…",
+      "published": "2026-08-26T17:57:04+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "MyoMechanix: Biomechanically-Grounded Compositional Skilled Activity Understanding and Coaching",
+      "link": "http://arxiv.org/abs/2608.26094v1",
+      "summary": "Existing action quality assessment (AQA) datasets and methods rely primarily on visual inputs such as RGB and pose, overlooking physiological dynamics such as muscle mechanics and often modeling…",
+      "published": "2026-08-26T17:56:33+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "PlanSightRAG: A Visual-First Multimodal RAG for Automating Question Answering and Compliance Checking for Civil Standard Plans",
+      "link": "http://arxiv.org/abs/2608.26091v1",
+      "summary": "Civil infrastructure compliance checking has long relied on engineers manually reading legacy 2D plans; however, OCR-based automation strips away the geometry and layout essential for interpreting…",
+      "published": "2026-08-26T17:54:24+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "Finding and using interpretable latents in a neutrino foundation model with sparse autoencoders",
+      "link": "http://arxiv.org/abs/2608.26090v1",
+      "summary": "We present a first application of sparse-autoencoder-based mechanistic interpretability to particle physics. Studying a neutrino foundation model pretrained on IceCube data and fine-tuned for…",
+      "published": "2026-08-26T17:53:00+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "Planetary Prediction Engine: Autonomous Geospatial Prediction via Intelligent Data Selection and Foundation Model Embeddings",
+      "link": "http://arxiv.org/abs/2608.26088v1",
+      "summary": "Addressing critical global challenges, from food security and disaster risk to disease outbreaks and socio-economic vulnerability, demands high-fidelity geospatial modeling. However, building…",
+      "published": "2026-08-26T17:50:52+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "TraceML: An Empirical Analysis of Human-Agent Planning in Machine Learning Development",
+      "link": "http://arxiv.org/abs/2608.26086v1",
+      "summary": "Large language models write correct code for isolated problems but remain far weaker at autonomous machine-learning development, where an agent must revise data pipelines, models, and validation over…",
+      "published": "2026-08-26T17:50:13+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "ICON Decomposition: Multivariate Concept-Level Explanations of Deep Representations for Model Auditing",
+      "link": "http://arxiv.org/abs/2608.26083v1",
+      "summary": "Deep neural networks often exploit spurious associations in their training data, a failure known as shortcut learning. Concept-based explainability methods screen for shortcuts by testing whether…",
+      "published": "2026-08-26T17:47:49+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "SwarmWorld: Stigmergic technological evolution in societies of language-model agents",
+      "link": "http://arxiv.org/abs/2608.26081v1",
+      "summary": "Collective intelligence can emerge when individuals coordinate through a shared environment, allowing local actions to accumulate into durable social organization. Language-model agents offer a new…",
+      "published": "2026-08-26T17:45:34+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "Gating Before Commitment: Anticipating Intent Divergence to Prevent Post-Interaction Decision Failures in Autonomous Driving",
+      "link": "http://arxiv.org/abs/2608.26074v1",
+      "summary": "Intent misinterpretation during vehicle interactions causes recurring planning failures. We study a decision layer in which a language-guided intent module reads structured descriptors, computes a…",
+      "published": "2026-08-26T17:42:03+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "Prefix Sliding for efficient test-time scaling",
+      "link": "http://arxiv.org/abs/2608.26070v1",
+      "summary": "Test-time scaling uses extra test-time compute to improve performance, such as letting language models reason longer when solving a problem. As models keep the entire reasoning trace in memory via…",
+      "published": "2026-08-26T17:37:15+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "Fine-Tuning Whisper for Automatic Speech Recognition in Baniwa: A Preliminary Study",
+      "link": "http://arxiv.org/abs/2608.26060v1",
+      "summary": "Automatic Speech Recognition (ASR) technologies have achieved remarkable performance in recent years through the use of large multilingual foundation models. However, most advances remain…",
+      "published": "2026-08-26T17:29:47+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "$R^3$: Training Robots to Reason in Natural Language via Reinforcement Learning",
+      "link": "http://arxiv.org/abs/2608.26053v1",
+      "summary": "Reasoning in language allows foundation models to spend more test-time compute on hard problems, such as those requiring decomposition, constraint tracking, and prediction of future consequences.…",
+      "published": "2026-08-26T17:25:10+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "How Much Rank Does LoRA Need? Rank-Error Bounds for Transformer Attention",
+      "link": "http://arxiv.org/abs/2608.26052v1",
+      "summary": "Choosing the rank of a low-rank adaptation (LoRA) update is usually an empirical task. In this paper, we provide a task-dependent theory of the approximation error achievable at each LoRA rank for…",
+      "published": "2026-08-26T17:25:03+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "The Value of Human Expertise",
+      "link": "http://arxiv.org/abs/2608.26051v1",
+      "summary": "We consider optimization applications with unknown parameters where the decision maker believes that the optimal value of the nominal problem-the optimization problem they would have solved if the…",
+      "published": "2026-08-26T17:24:52+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "DeepMind",
+      "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+      "link": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+      "summary": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
+      "published": "2026-08-26T17:01:00+00:00",
+      "category": "release"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "Qwen/Qwen3.8-Flash-Next",
+      "link": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+      "summary": "3925 curtidas no Hugging Face · image-text-to-text",
+      "published": "",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "zai-org/GLM-5.3-Flash",
+      "link": "https://huggingface.co/zai-org/GLM-5.3-Flash",
+      "summary": "1301 curtidas no Hugging Face · text-generation",
+      "published": "",
+      "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
       "title": "Qwen/Qwen3.8-27B",
       "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
-      "summary": "12809 curtidas no Hugging Face · image-text-to-text",
+      "summary": "13023 curtidas no Hugging Face · image-text-to-text",
       "published": "",
       "category": "model_upload"
     },
@@ -183,7 +199,7 @@
       "source": "Hugging Face Hub",
       "title": "unsloth/Qwen3.8-27B-GGUF",
       "link": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
-      "summary": "2945 curtidas no Hugging Face",
+      "summary": "3066 curtidas no Hugging Face",
       "published": "",
       "category": "model_upload"
     },
@@ -191,15 +207,15 @@
       "source": "Hugging Face Hub",
       "title": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
       "link": "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
-      "summary": "776 curtidas no Hugging Face · text-generation",
+      "summary": "843 curtidas no Hugging Face · text-generation",
       "published": "",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
-      "link": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
-      "summary": "1123 curtidas no Hugging Face · image-text-to-text",
+      "title": "unsloth/Qwen3.8-Flash-Next-GGUF",
+      "link": "https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF",
+      "summary": "443 curtidas no Hugging Face · image-text-to-text",
       "published": "",
       "category": "model_upload"
     },
@@ -207,23 +223,15 @@
       "source": "Hugging Face Hub",
       "title": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
       "link": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8",
-      "summary": "1159 curtidas no Hugging Face · image-text-to-text",
+      "summary": "1206 curtidas no Hugging Face · image-text-to-text",
       "published": "",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "ornith-ai/Ornith-1.5-35B-A3B",
-      "link": "https://huggingface.co/ornith-ai/Ornith-1.5-35B-A3B",
-      "summary": "434 curtidas no Hugging Face · text-generation",
-      "published": "",
-      "category": "model_upload"
-    },
-    {
-      "source": "Hugging Face Hub",
-      "title": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
-      "link": "https://huggingface.co/HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
-      "summary": "632 curtidas no Hugging Face · image-text-to-text",
+      "title": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
+      "link": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
+      "summary": "1164 curtidas no Hugging Face · image-text-to-text",
       "published": "",
       "category": "model_upload"
     },
@@ -231,23 +239,15 @@
       "source": "Hugging Face Hub",
       "title": "Lightricks/LTX-2.5",
       "link": "https://huggingface.co/Lightricks/LTX-2.5",
-      "summary": "1818 curtidas no Hugging Face · image-to-video",
+      "summary": "1930 curtidas no Hugging Face · image-to-video",
       "published": "",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "ornith-ai/Ornith-1.5-35B-A3B-GGUF",
-      "link": "https://huggingface.co/ornith-ai/Ornith-1.5-35B-A3B-GGUF",
-      "summary": "302 curtidas no Hugging Face · text-generation",
-      "published": "",
-      "category": "model_upload"
-    },
-    {
-      "source": "Hugging Face Hub",
-      "title": "MiniMaxAI/MiniMax-H3",
-      "link": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
-      "summary": "4474 curtidas no Hugging Face · image-text-to-video",
+      "title": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+      "link": "https://huggingface.co/HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+      "summary": "684 curtidas no Hugging Face · image-text-to-text",
       "published": "",
       "category": "model_upload"
     }
