@@ -1,13 +1,13 @@
 {
-  "date": "2026-08-29",
-  "generated_at": "2026-08-29T15:29:26.782667+00:00",
+  "date": "2026-08-30",
+  "generated_at": "2026-08-30T15:09:57.847140+00:00",
   "count": 10,
   "items": [
     {
       "source": "Hugging Face Hub",
       "title": "Qwen/Qwen3.8-Flash-Next",
       "link": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
-      "summary": "4242 curtidas no Hugging Face · image-text-to-text",
+      "summary": "4347 curtidas no Hugging Face · image-text-to-text",
       "published": "",
       "category": "model_upload"
     },
@@ -15,7 +15,7 @@
       "source": "Hugging Face Hub",
       "title": "zai-org/GLM-5.3-Flash",
       "link": "https://huggingface.co/zai-org/GLM-5.3-Flash",
-      "summary": "1576 curtidas no Hugging Face · text-generation",
+      "summary": "1675 curtidas no Hugging Face · text-generation",
       "published": "",
       "category": "model_upload"
     },
@@ -23,7 +23,7 @@
       "source": "Hugging Face Hub",
       "title": "zai-org/GLM-5.3",
       "link": "https://huggingface.co/zai-org/GLM-5.3",
-      "summary": "1232 curtidas no Hugging Face · text-generation",
+      "summary": "1321 curtidas no Hugging Face · text-generation",
       "published": "",
       "category": "model_upload"
     },
@@ -31,7 +31,7 @@
       "source": "Hugging Face Hub",
       "title": "Qwen/Qwen3.8-27B",
       "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
-      "summary": "13208 curtidas no Hugging Face · image-text-to-text",
+      "summary": "13311 curtidas no Hugging Face · image-text-to-text",
       "published": "",
       "category": "model_upload"
     },
@@ -39,7 +39,7 @@
       "source": "Hugging Face Hub",
       "title": "unsloth/Qwen3.8-Flash-Next-GGUF",
       "link": "https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF",
-      "summary": "543 curtidas no Hugging Face · image-text-to-text",
+      "summary": "588 curtidas no Hugging Face · image-text-to-text",
       "published": "",
       "category": "model_upload"
     },
@@ -47,15 +47,7 @@
       "source": "Hugging Face Hub",
       "title": "unsloth/Qwen3.8-27B-GGUF",
       "link": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
-      "summary": "3169 curtidas no Hugging Face",
-      "published": "",
-      "category": "model_upload"
-    },
-    {
-      "source": "Hugging Face Hub",
-      "title": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
-      "link": "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
-      "summary": "899 curtidas no Hugging Face · text-generation",
+      "summary": "3212 curtidas no Hugging Face",
       "published": "",
       "category": "model_upload"
     },
@@ -63,15 +55,7 @@
       "source": "Hugging Face Hub",
       "title": "Lightricks/LTX-2.5",
       "link": "https://huggingface.co/Lightricks/LTX-2.5",
-      "summary": "2080 curtidas no Hugging Face · image-to-video",
-      "published": "",
-      "category": "model_upload"
-    },
-    {
-      "source": "Hugging Face Hub",
-      "title": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
-      "link": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
-      "summary": "1200 curtidas no Hugging Face · image-text-to-text",
+      "summary": "2206 curtidas no Hugging Face · image-to-video",
       "published": "",
       "category": "model_upload"
     },
@@ -79,7 +63,23 @@
       "source": "Hugging Face Hub",
       "title": "tencent/Hy4-preview",
       "link": "https://huggingface.co/tencent/Hy4-preview",
-      "summary": "268 curtidas no Hugging Face · text-generation",
+      "summary": "307 curtidas no Hugging Face · text-generation",
+      "published": "",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+      "link": "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+      "summary": "940 curtidas no Hugging Face · text-generation",
+      "published": "",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "unsloth/GLM-5.3-Flash-GGUF",
+      "link": "https://huggingface.co/unsloth/GLM-5.3-Flash-GGUF",
+      "summary": "283 curtidas no Hugging Face · text-generation",
       "published": "",
       "category": "model_upload"
     }
