@@ -3697,5 +3697,100 @@
         "category": "model_upload"
       }
     ]
+  },
+  {
+    "date": "2026-08-31",
+    "generated_at": "2026-08-31T17:53:25.693078+00:00",
+    "count": 11,
+    "items": [
+      {
+        "source": "OpenAI",
+        "title": "A milestone in expanding access to AI",
+        "link": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+        "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+        "published": "2026-08-31T04:00:00+00:00",
+        "category": "release"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Qwen/Qwen3.8-Flash-Next",
+        "link": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+        "summary": "4498 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "zai-org/GLM-5.3-Flash",
+        "link": "https://huggingface.co/zai-org/GLM-5.3-Flash",
+        "summary": "1792 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "zai-org/GLM-5.3",
+        "link": "https://huggingface.co/zai-org/GLM-5.3",
+        "summary": "1399 curtidas no Hugging Face · text-generation",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Qwen/Qwen3.8-27B",
+        "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "summary": "13452 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "unsloth/Qwen3.8-Flash-Next-GGUF",
+        "link": "https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF",
+        "summary": "629 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "unsloth/Qwen3.8-27B-GGUF",
+        "link": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+        "summary": "3276 curtidas no Hugging Face",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "tencent/Hy4-preview",
+        "link": "https://huggingface.co/tencent/Hy4-preview",
+        "summary": "342 curtidas no Hugging Face · text-generation",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Lightricks/LTX-2.5",
+        "link": "https://huggingface.co/Lightricks/LTX-2.5",
+        "summary": "2343 curtidas no Hugging Face · image-to-video",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "unsloth/GLM-5.3-Flash-GGUF",
+        "link": "https://huggingface.co/unsloth/GLM-5.3-Flash-GGUF",
+        "summary": "307 curtidas no Hugging Face · text-generation",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+        "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+        "summary": "289 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      }
+    ]
   }
 ]
