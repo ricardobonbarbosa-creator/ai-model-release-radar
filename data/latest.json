@@ -1,21 +1,141 @@
 {
-  "date": "2026-08-31",
-  "generated_at": "2026-08-31T17:53:25.693078+00:00",
-  "count": 11,
+  "date": "2026-09-01",
+  "generated_at": "2026-09-01T15:23:02.925141+00:00",
+  "count": 26,
   "items": [
     {
-      "source": "OpenAI",
-      "title": "A milestone in expanding access to AI",
-      "link": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-      "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
-      "published": "2026-08-31T04:00:00+00:00",
+      "source": "Hugging Face",
+      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+      "link": "https://huggingface.co/blog/webgpu-kernels",
+      "summary": "",
+      "published": "2026-09-01T00:00:00+00:00",
       "category": "release"
+    },
+    {
+      "source": "arXiv",
+      "title": "Context-Aware Interleaved Batching for WhisperX",
+      "link": "http://arxiv.org/abs/2608.31170v1",
+      "summary": "While WhisperX accelerates speech transcription via intra-audio batching, it isolates audio segments, losing the historical context needed for coherent punctuation and terminology transcription.…",
+      "published": "2026-08-31T17:59:46+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "SUN: Persistent Programs For Language-Grounded Control-to-Learning-to-Real Policies",
+      "link": "http://arxiv.org/abs/2608.31167v1",
+      "summary": "Bridging model-based control and learned policies in long-horizon manipulation has harbored a silent disagreement: control executes specified objectives, learning amortizes that behavior into a…",
+      "published": "2026-08-31T17:59:16+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "Auditing Anonymous AI Models: A Four-Stage Protocol for Black-Box Identity Verification",
+      "link": "http://arxiv.org/abs/2608.31142v1",
+      "summary": "The 2025--2026 AI market has seen a wave of stealth releases: frontier models launched anonymously on developer platforms under codenames. For their users, identity determines data-handling terms,…",
+      "published": "2026-08-31T17:48:24+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "Configurable Semantic Chunking for Biomedical Information Extraction in Retrieval-Augmented Generation",
+      "link": "http://arxiv.org/abs/2608.31139v1",
+      "summary": "BioMedRAG introduced retrieval-augmented generation with a learned chunk scorer for biomedical information extraction. However, it relies on fixed-size chunking which can fragment semantic evidence.…",
+      "published": "2026-08-31T17:44:54+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "OntoAligner-Ensemble: Voting-Based Fusion across Heterogeneous Ontology Alignment Techniques",
+      "link": "http://arxiv.org/abs/2608.31137v1",
+      "summary": "Ontology alignment (OA) has evolved through several methodological paradigms, ranging from lexical and structural aligners to knowledge graph embedding (KGE) models and, more recently, Large Language…",
+      "published": "2026-08-31T17:44:25+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "DIASENTINEL: An Auditable Multi-Agent System for Guideline-Grounded Diabetes Risk Screening",
+      "link": "http://arxiv.org/abs/2608.31128v1",
+      "summary": "Large language models (LLMs) offer promising clinical decision support but remain vulnerable to hallucinated facts, unsupported recommendations, and citation errors. We present DIASENTINEL, a fully…",
+      "published": "2026-08-31T17:40:43+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "PaperGym: Rubric-Centered Evolution for Research-Plan Generation",
+      "link": "http://arxiv.org/abs/2608.31119v1",
+      "summary": "Research planning is the decisive capability of AI scientists. Yet a research plan admits no verifiable answer, so reinforcement learning lacks the environment it requires: tasks paired with a…",
+      "published": "2026-08-31T17:31:18+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "When Does Bigger Help? A Controlled Study of LLM Scale for Ontology Learning",
+      "link": "http://arxiv.org/abs/2608.31118v1",
+      "summary": "The effect of Large Language Model (LLM) scale on ontology learning (OL) performance remains insufficiently characterized. We present a controlled evaluation of 13 models spanning dense and…",
+      "published": "2026-08-31T17:30:05+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "Aspire: Can Models Self-Evolve from Vague Goals?",
+      "link": "http://arxiv.org/abs/2608.31111v1",
+      "summary": "Many important forms of human learning begin with a vague goal, such as \"become a better physicist\" or \"improve at research.\" Learners must interpret the goal, identify capability gaps, decide how to…",
+      "published": "2026-08-31T17:14:59+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "BLOOM-WILT: Logit Tilting for Behaviour Elicitation in Automated LLM Auditing",
+      "link": "http://arxiv.org/abs/2608.31105v1",
+      "summary": "Users of a deployed language model routinely encounter behaviours that testing almost never surfaces, since deployment puts the model through orders of magnitude more interactions than any evaluation…",
+      "published": "2026-08-31T17:10:59+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "LLM Post-Training as Brownfield Maintenance: An Industrial Perspective on Dataware Engineering",
+      "link": "http://arxiv.org/abs/2608.31102v1",
+      "summary": "Industrial post-training is a brownfield regime. Teams inherit a deployed checkpoint and must land targeted improvements under fixed compute and mixture budgets without regressing the rest. The…",
+      "published": "2026-08-31T17:08:41+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "S3Gym: Can LLMs Turn Self-Testing and Self-Judging into Self-Improvement?",
+      "link": "http://arxiv.org/abs/2608.31100v1",
+      "summary": "Large language models (LLMs) increasingly interact with external environments and accumulate substantial behavioral experience, yet existing agent benchmarks largely evaluate them as fixed policies.…",
+      "published": "2026-08-31T17:05:41+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "Cross-Regional Grapevine Cold Hardiness Prediction via Learned Multimodal Latent Representations",
+      "link": "http://arxiv.org/abs/2608.31097v1",
+      "summary": "Accurate daily predictions of cold hardiness in woody plants are critical in regions where freezing temperatures can damage dormant buds and reduce seasonal yield. Existing biophysical, hybrid, and…",
+      "published": "2026-08-31T17:04:14+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "The First Token Is a Clue: Verbalizing Multi-Token Concepts from the J-lens",
+      "link": "http://arxiv.org/abs/2608.31084v1",
+      "summary": "The Jacobian Lens (J-lens) is a recent tool for interpreting LLMs. It reads a hidden state as a ranked list of vocabulary tokens, leaving multi-token concepts without a representation of their own.…",
+      "published": "2026-08-31T16:56:20+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "Token-Efficient Data Reasoning Agents via Adaptive Structuring of Unstructured Data",
+      "link": "http://arxiv.org/abs/2608.31082v1",
+      "summary": "Valuable data remains embedded in unstructured sources: web pages, reports, contracts, filings, earnings calls, and PDFs. The big bet in enterprise AI is deploying LLM agents that reason over this…",
+      "published": "2026-08-31T16:53:45+00:00",
+      "category": "paper"
     },
     {
       "source": "Hugging Face Hub",
       "title": "Qwen/Qwen3.8-Flash-Next",
       "link": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
-      "summary": "4498 curtidas no Hugging Face · image-text-to-text",
+      "summary": "4592 curtidas no Hugging Face · image-text-to-text",
       "published": "",
       "category": "model_upload"
     },
@@ -23,7 +143,7 @@
       "source": "Hugging Face Hub",
       "title": "zai-org/GLM-5.3-Flash",
       "link": "https://huggingface.co/zai-org/GLM-5.3-Flash",
-      "summary": "1792 curtidas no Hugging Face · image-text-to-text",
+      "summary": "1855 curtidas no Hugging Face · image-text-to-text",
       "published": "",
       "category": "model_upload"
     },
@@ -31,7 +151,7 @@
       "source": "Hugging Face Hub",
       "title": "zai-org/GLM-5.3",
       "link": "https://huggingface.co/zai-org/GLM-5.3",
-      "summary": "1399 curtidas no Hugging Face · text-generation",
+      "summary": "1455 curtidas no Hugging Face · text-generation",
       "published": "",
       "category": "model_upload"
     },
@@ -39,7 +159,7 @@
       "source": "Hugging Face Hub",
       "title": "Qwen/Qwen3.8-27B",
       "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
-      "summary": "13452 curtidas no Hugging Face · image-text-to-text",
+      "summary": "13535 curtidas no Hugging Face · image-text-to-text",
       "published": "",
       "category": "model_upload"
     },
@@ -47,39 +167,7 @@
       "source": "Hugging Face Hub",
       "title": "unsloth/Qwen3.8-Flash-Next-GGUF",
       "link": "https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF",
-      "summary": "629 curtidas no Hugging Face · image-text-to-text",
-      "published": "",
-      "category": "model_upload"
-    },
-    {
-      "source": "Hugging Face Hub",
-      "title": "unsloth/Qwen3.8-27B-GGUF",
-      "link": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
-      "summary": "3276 curtidas no Hugging Face",
-      "published": "",
-      "category": "model_upload"
-    },
-    {
-      "source": "Hugging Face Hub",
-      "title": "tencent/Hy4-preview",
-      "link": "https://huggingface.co/tencent/Hy4-preview",
-      "summary": "342 curtidas no Hugging Face · text-generation",
-      "published": "",
-      "category": "model_upload"
-    },
-    {
-      "source": "Hugging Face Hub",
-      "title": "Lightricks/LTX-2.5",
-      "link": "https://huggingface.co/Lightricks/LTX-2.5",
-      "summary": "2343 curtidas no Hugging Face · image-to-video",
-      "published": "",
-      "category": "model_upload"
-    },
-    {
-      "source": "Hugging Face Hub",
-      "title": "unsloth/GLM-5.3-Flash-GGUF",
-      "link": "https://huggingface.co/unsloth/GLM-5.3-Flash-GGUF",
-      "summary": "307 curtidas no Hugging Face · text-generation",
+      "summary": "656 curtidas no Hugging Face · image-text-to-text",
       "published": "",
       "category": "model_upload"
     },
@@ -87,7 +175,39 @@
       "source": "Hugging Face Hub",
       "title": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
       "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
-      "summary": "289 curtidas no Hugging Face · image-text-to-text",
+      "summary": "429 curtidas no Hugging Face · image-text-to-text",
+      "published": "",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "tencent/Hy4-preview",
+      "link": "https://huggingface.co/tencent/Hy4-preview",
+      "summary": "374 curtidas no Hugging Face · text-generation",
+      "published": "",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "unsloth/Qwen3.8-27B-GGUF",
+      "link": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+      "summary": "3313 curtidas no Hugging Face",
+      "published": "",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "Lightricks/LTX-2.5",
+      "link": "https://huggingface.co/Lightricks/LTX-2.5",
+      "summary": "2424 curtidas no Hugging Face · image-to-video",
+      "published": "",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "unsloth/GLM-5.3-Flash-GGUF",
+      "link": "https://huggingface.co/unsloth/GLM-5.3-Flash-GGUF",
+      "summary": "319 curtidas no Hugging Face · text-generation",
       "published": "",
       "category": "model_upload"
     }
