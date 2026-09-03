@@ -1,8 +1,184 @@
 {
-  "date": "2026-09-02",
-  "generated_at": "2026-09-02T14:58:20.881280+00:00",
-  "count": 33,
+  "date": "2026-09-03",
+  "generated_at": "2026-09-03T14:52:12.067982+00:00",
+  "count": 34,
   "items": [
+    {
+      "source": "Hugging Face",
+      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "link": "https://huggingface.co/blog/Hcompany/neomme",
+      "summary": "",
+      "published": "2026-09-03T13:13:48+00:00",
+      "category": "release"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+      "link": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+      "summary": "",
+      "published": "2026-09-03T00:00:00+00:00",
+      "category": "release"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Give Your Coding Agents a Memory You Own",
+      "link": "https://huggingface.co/blog/funes",
+      "summary": "",
+      "published": "2026-09-03T00:00:00+00:00",
+      "category": "release"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+      "link": "https://huggingface.co/blog/train-to-paint-with-code",
+      "summary": "",
+      "published": "2026-09-03T00:00:00+00:00",
+      "category": "release"
+    },
+    {
+      "source": "arXiv",
+      "title": "Discriminative World Models for Web Agents",
+      "link": "http://arxiv.org/abs/2609.02885v1",
+      "summary": "Recent web agents use world models for test-time action selection by sampling candidate actions, predicting the resulting web states, and ranking them with a ranker model or a Process Reward Model…",
+      "published": "2026-09-02T17:59:40+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "Towards Trustworthy Autonomous Robots: An Explainable AI-Based Decision Framework",
+      "link": "http://arxiv.org/abs/2609.02861v1",
+      "summary": "Autonomous robots powered by deep learning face a fundamental auditability challenge: when incidents occur, investigators cannot reconstruct why the system made specific decisions. This paper…",
+      "published": "2026-09-02T17:44:25+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "User Feedback Provides a Unique Signal that LLMs Can not Detect",
+      "link": "http://arxiv.org/abs/2609.02859v1",
+      "summary": "Harnessing naturally occurring feedback from user interactions offers a promising learning signal for Large Language Models (LLMs). However, recent studies suggest this feedback is inherently noisy…",
+      "published": "2026-09-02T17:42:44+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "Post-Training Language Models for Gold-Medal Performance in Coding Competitions",
+      "link": "http://arxiv.org/abs/2609.02849v1",
+      "summary": "Competitive programming has become a key test of large language model reasoning, with international competitions such as IOI and ICPC representing its most challenging settings. We present an…",
+      "published": "2026-09-02T17:33:37+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "AI Contextual Measurement for Recovering Individual and Group-Level Effects: Validation Against Survey Measures and an Occupational Application",
+      "link": "http://arxiv.org/abs/2609.02821v1",
+      "summary": "Researchers increasingly use artificial intelligence to construct measures of social, organizational, and occupational characteristics that are absent from conventional surveys. We propose AICOME, AI…",
+      "published": "2026-09-02T17:09:30+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "Large Language Models (LLMs) for Telecom Root Cause Analysis (RCA): A Structured Reasoning Framework for Evidence-Grounded Diagnosis",
+      "link": "http://arxiv.org/abs/2609.02805v1",
+      "summary": "Root cause analysis (RCA) is a critical task in telecom network operations, but diagnosing performance degradations in modern 5G and emerging 6G networks remains challenging due to complex…",
+      "published": "2026-09-02T16:43:22+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "frb100-40 After Two Decades: An Optimality Certificate and a Preregistered Search Study",
+      "link": "http://arxiv.org/abs/2609.02804v1",
+      "summary": "For more than 20 years, the Model-RB benchmark frb100-40 remained an open challenge; since 2014, its public record had stood at 99 of 100 variables. We give a directly checkable 100-vertex…",
+      "published": "2026-09-02T16:40:46+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "Dutch Books for Language Models",
+      "link": "http://arxiv.org/abs/2609.02797v1",
+      "summary": "People increasingly use language models to support life decisions. Many such decisions involve a probabilistic forecast: How likely is a major life event, a natural disaster, or an economic outcome?…",
+      "published": "2026-09-02T16:31:47+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "DiscoSign: Discourse-Aware Text to Sign Language Gloss Translation",
+      "link": "http://arxiv.org/abs/2609.02796v1",
+      "summary": "Sign language processing systems have traditionally operated at the sentence level, ignoring critical discourse phenomena fundamental to sign language comprehension. We introduce DiscoSign, a…",
+      "published": "2026-09-02T16:31:39+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "DeepMind",
+      "title": "Proactive cyber defense for governments and enterprises",
+      "link": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+      "summary": "",
+      "published": "2026-09-02T16:24:24+00:00",
+      "category": "release"
+    },
+    {
+      "source": "arXiv",
+      "title": "SafeEvolve: Harness-Policy Co-Evolution from Agent Experience for Safety Alignment",
+      "link": "http://arxiv.org/abs/2609.02786v1",
+      "summary": "The performance of LLM-based agents is jointly shaped by the base model and the harness used when interacting with the environment. This exposes them to safety risks in both harmful final responses…",
+      "published": "2026-09-02T16:19:54+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "DeepMind",
+      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "link": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+      "summary": "",
+      "published": "2026-09-02T16:18:31+00:00",
+      "category": "release"
+    },
+    {
+      "source": "arXiv",
+      "title": "EarlyEval: Cheaper Agent Evaluation via Early Outcome Prediction",
+      "link": "http://arxiv.org/abs/2609.02783v1",
+      "summary": "Evaluating LLM agents is essential for guiding their development, yet it has grown prohibitively expensive: a single pass of a frontier model over an agentic benchmark can cost hundreds to thousands…",
+      "published": "2026-09-02T16:15:18+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "ShallowStream: Index Shallow then Answer Deep for Streaming Video Understanding",
+      "link": "http://arxiv.org/abs/2609.02780v1",
+      "summary": "Streaming video understanding is a critical capability for real-world applications, including embodied intelligence, autonomous driving, industrial monitoring, surveillance and early warning, and…",
+      "published": "2026-09-02T16:14:48+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "HyperStyler: Low-resource Authorship Style Transfer via Context-aware Style Navigation and Hypernetworks",
+      "link": "http://arxiv.org/abs/2609.02772v1",
+      "summary": "Low-resource authorship style transfer (LAST) aims to rewrite text into the style of an arbitrary target author using only a few reference examples while preserving the original meaning. Existing…",
+      "published": "2026-09-02T16:07:42+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "From Reweighting to Rewriting: Unlocking the Intervention Effects of Influential Samples in Training Data Attribution",
+      "link": "http://arxiv.org/abs/2609.02771v1",
+      "summary": "Training data attribution (TDA) aims to identify training examples that shape model behavior, but its intervention value depends on both which examples are selected and how they are modified.…",
+      "published": "2026-09-02T16:07:21+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "Measurement-Driven Sub-Network Selection for On-Premise Retrieval-Augmented Factory Agents",
+      "link": "http://arxiv.org/abs/2609.02760v1",
+      "summary": "On-premise assistants can give factory workers conversational access to machine documentation, but models capable of the task rarely fit shop-floor hardware. We show that after structural compression…",
+      "published": "2026-09-02T16:00:05+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "Google AI",
+      "title": "Proactive cyber defense for governments and enterprises",
+      "link": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+      "summary": "The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools.",
+      "published": "2026-09-02T15:40:00+00:00",
+      "category": "release"
+    },
     {
       "source": "Hugging Face",
       "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
@@ -12,194 +188,18 @@
       "category": "release"
     },
     {
-      "source": "Hugging Face",
-      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-      "link": "https://huggingface.co/blog/allenai/benchmirt",
-      "summary": "",
-      "published": "2026-09-01T21:39:07+00:00",
-      "category": "release"
-    },
-    {
-      "source": "Google AI",
-      "title": "The latest AI news we announced in August 2026",
-      "link": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
-      "summary": "Here are Google’s latest AI updates from August 2026",
-      "published": "2026-09-01T20:45:00+00:00",
-      "category": "release"
-    },
-    {
-      "source": "arXiv",
-      "title": "Beyond Scores: Understanding LLM-as-a-Judge Mechanisms in Summarization Evaluation",
-      "link": "http://arxiv.org/abs/2609.01604v1",
-      "summary": "LLM-based evaluators of natural language generation (NLG) quality are widely deployed as scoring tools and as automated training signals, yet the internal procedure by which they assign a rating…",
-      "published": "2026-09-01T17:59:49+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "Efficient SWE Agent Benchmarking via Trajectory-Aware Evaluation",
-      "link": "http://arxiv.org/abs/2609.01603v1",
-      "summary": "Evaluating software engineering agents on realistic benchmarks is costly, since each task may require multi-step code exploration, modification, and test execution. Existing efficient evaluation…",
-      "published": "2026-09-01T17:59:46+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "Adaptive Critical Token-Aware Retrieval for Repository-Level Code Generation",
-      "link": "http://arxiv.org/abs/2609.01601v1",
-      "summary": "The repository-level code generation task requires synthesizing code that satisfies task requirements while remaining consistent with the target repository context. Since real-world repositories…",
-      "published": "2026-09-01T17:59:39+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "CordisBench: Can Language Models Reason About Component Lifecycles in Dynamic Agent Harnesses?",
-      "link": "http://arxiv.org/abs/2609.01600v1",
-      "summary": "Dynamic agent harnesses let language models change the software that shapes their own execution. This flexibility brings a new reasoning burden: a local plugin change can propagate through…",
-      "published": "2026-09-01T17:59:13+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "The Rise of Verbal Reinforcement Learning",
-      "link": "http://arxiv.org/abs/2609.01597v1",
-      "summary": "Natural language is emerging as a primary feedback channel for improving language agents, capable of conveying intent, preferences, and causal structure in forms interpretable by both humans and…",
-      "published": "2026-09-01T17:58:18+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "Mechanism Design for Alignment and Control",
-      "link": "http://arxiv.org/abs/2609.01595v1",
-      "summary": "We develop a framework for mechanism design with AI agents whose alignment (preferences) and capabilities (feasible actions and information) are unknown. We want such agents to act on our behalf so…",
-      "published": "2026-09-01T17:57:50+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "StudentSim: Training LLM-based Student Simulators",
-      "link": "http://arxiv.org/abs/2609.01591v1",
-      "summary": "AI tutors are most useful when they adapt to each student's strengths, weaknesses, and preferred guidance, but evidence about which guidance works for which student is sparse, slow, and costly to…",
-      "published": "2026-09-01T17:55:10+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "Designing Proactive Thought Partners for Writing",
-      "link": "http://arxiv.org/abs/2609.01588v1",
-      "summary": "Writing involves diverse cognitive activities, from ideation to revision, and writers' needs vary across individuals and moments. Proactive AI promises to provide the right support at the right time,…",
-      "published": "2026-09-01T17:54:32+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "The Structure of Quantization Damage in LLMs: Why the Next Bit Should Be Spent Globally",
-      "link": "http://arxiv.org/abs/2609.01587v1",
-      "summary": "Post-training quantization (PTQ) is widely used to reduce the cost of serving large language models (LLMs), but its accuracy cost is uneven and is often tuned per model. We study where quantization…",
-      "published": "2026-09-01T17:53:41+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "Closing Cost-Quality Gap in Document VLMs: Difficulty-Aware Data Curation and Quality-Adjusted Deployment Economics",
-      "link": "http://arxiv.org/abs/2609.01575v1",
-      "summary": "Extracting structured fields from hundreds of millions of documents annually remains costly in regulated industries: bespoke OCR cascades cover only a fraction of workflows, privacy rules preclude…",
-      "published": "2026-09-01T17:40:29+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "Scaling Near-Optimal SFT-RL Annotation Budget Allocation from Small to Large LLMs",
-      "link": "http://arxiv.org/abs/2609.01573v1",
-      "summary": "How to divide a fixed annotation budget between supervised fine-tuning (SFT) and reinforcement learning (RL) during LLM post-training remains an open problem. Existing work characterizes only broad…",
-      "published": "2026-09-01T17:39:55+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "From Production Traffic to Post-Training: Building a Self-Hosted LLM That Covers the Corporate Request Mix",
-      "link": "http://arxiv.org/abs/2609.01572v1",
-      "summary": "Data-residency constraints force enterprises to self-host LLMs, but continuous adoption of newer models without decommissioning their predecessors expands the serving fleet, fragmenting a finite GPU…",
-      "published": "2026-09-01T17:39:26+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "Selective Agent Guidance via Entropy: Learning Autonomous Policies from Imperfect VLM Teachers",
-      "link": "http://arxiv.org/abs/2609.01567v1",
-      "summary": "Vision-Language Models (VLMs) provide useful priors for interactive decision-making, but using them directly as policies is expensive and brittle: they must be queried at every step, do not improve…",
-      "published": "2026-09-01T17:33:41+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "From Confusion to Clarity: Confusion-Aware Retrieval and Knowledge Injection for Text Classification",
-      "link": "http://arxiv.org/abs/2609.01564v1",
-      "summary": "Large language models (LLMs) struggle to classify text into taxonomies with many semantically similar labels, as the distinctions are domain-specific and not captured by pre-training. To handle large…",
-      "published": "2026-09-01T17:31:02+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "A systematic Approach to constructing a Chance-and-Risk Matrix for Semiconductor Supply Chains",
-      "link": "http://arxiv.org/abs/2609.01563v1",
-      "summary": "Semiconductor supply chains face escalating risks from geopolitical tensions, geographic concentration, and rapid technological shifts, yet no scalable system continuously extracts, structures, and…",
-      "published": "2026-09-01T17:30:39+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "DeepMind",
-      "title": "Introducing agentic video understanding with Gemini",
-      "link": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
-      "summary": "",
-      "published": "2026-09-01T17:08:51+00:00",
-      "category": "release"
-    },
-    {
       "source": "OpenAI",
-      "title": "How AI-native companies turn workflows into operating capability",
-      "link": "https://openai.com/index/ai-native-company-workflows",
-      "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
-      "published": "2026-09-01T17:00:00+00:00",
+      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+      "link": "https://openai.com/index/atv-big-air-tour",
+      "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
+      "published": "2026-09-02T12:00:00+00:00",
       "category": "release"
-    },
-    {
-      "source": "Google AI",
-      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
-      "link": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
-      "summary": "Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.",
-      "published": "2026-09-01T16:00:00+00:00",
-      "category": "release"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Path to Astra: critical capabilities and frontier safeguards",
-      "link": "https://openai.com/index/path-to-astra",
-      "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
-      "published": "2026-09-01T13:00:00+00:00",
-      "category": "release"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-      "link": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-      "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
-      "published": "2026-09-01T12:00:00+00:00",
-      "category": "release"
-    },
-    {
-      "source": "Hugging Face Hub",
-      "title": "zai-org/GLM-5.3-Flash",
-      "link": "https://huggingface.co/zai-org/GLM-5.3-Flash",
-      "summary": "1935 curtidas no Hugging Face · image-text-to-text",
-      "published": "",
-      "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
       "title": "zai-org/GLM-5.3",
       "link": "https://huggingface.co/zai-org/GLM-5.3",
-      "summary": "1493 curtidas no Hugging Face · text-generation",
+      "summary": "1573 curtidas no Hugging Face · text-generation",
       "published": "",
       "category": "model_upload"
     },
@@ -207,7 +207,15 @@
       "source": "Hugging Face Hub",
       "title": "Qwen/Qwen3.8-Flash-Next",
       "link": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
-      "summary": "4704 curtidas no Hugging Face · image-text-to-text",
+      "summary": "4777 curtidas no Hugging Face · image-text-to-text",
+      "published": "",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "zai-org/GLM-5.3-Flash",
+      "link": "https://huggingface.co/zai-org/GLM-5.3-Flash",
+      "summary": "1998 curtidas no Hugging Face · image-text-to-text",
       "published": "",
       "category": "model_upload"
     },
@@ -215,15 +223,7 @@
       "source": "Hugging Face Hub",
       "title": "Qwen/Qwen3.8-27B",
       "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
-      "summary": "13654 curtidas no Hugging Face · image-text-to-text",
-      "published": "",
-      "category": "model_upload"
-    },
-    {
-      "source": "Hugging Face Hub",
-      "title": "unsloth/Qwen3.8-Flash-Next-GGUF",
-      "link": "https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF",
-      "summary": "710 curtidas no Hugging Face · image-text-to-text",
+      "summary": "13784 curtidas no Hugging Face · image-text-to-text",
       "published": "",
       "category": "model_upload"
     },
@@ -231,7 +231,7 @@
       "source": "Hugging Face Hub",
       "title": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
       "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
-      "summary": "484 curtidas no Hugging Face · image-text-to-text",
+      "summary": "527 curtidas no Hugging Face · image-text-to-text",
       "published": "",
       "category": "model_upload"
     },
@@ -239,7 +239,7 @@
       "source": "Hugging Face Hub",
       "title": "tencent/Hy4-preview",
       "link": "https://huggingface.co/tencent/Hy4-preview",
-      "summary": "395 curtidas no Hugging Face · text-generation",
+      "summary": "409 curtidas no Hugging Face · text-generation",
       "published": "",
       "category": "model_upload"
     },
@@ -247,7 +247,15 @@
       "source": "Hugging Face Hub",
       "title": "Lightricks/LTX-2.5",
       "link": "https://huggingface.co/Lightricks/LTX-2.5",
-      "summary": "2525 curtidas no Hugging Face · image-to-video",
+      "summary": "2645 curtidas no Hugging Face · image-to-video",
+      "published": "",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "google/timesfm-3.0-pytorch",
+      "link": "https://huggingface.co/google/timesfm-3.0-pytorch",
+      "summary": "337 curtidas no Hugging Face · time-series-forecasting",
       "published": "",
       "category": "model_upload"
     },
@@ -255,15 +263,15 @@
       "source": "Hugging Face Hub",
       "title": "unsloth/Qwen3.8-27B-GGUF",
       "link": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
-      "summary": "3369 curtidas no Hugging Face",
+      "summary": "3420 curtidas no Hugging Face",
       "published": "",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "unsloth/GLM-5.3-Flash-GGUF",
-      "link": "https://huggingface.co/unsloth/GLM-5.3-Flash-GGUF",
-      "summary": "333 curtidas no Hugging Face · text-generation",
+      "title": "unsloth/Qwen3.8-Flash-Next-GGUF",
+      "link": "https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF",
+      "summary": "746 curtidas no Hugging Face · image-text-to-text",
       "published": "",
       "category": "model_upload"
     }
