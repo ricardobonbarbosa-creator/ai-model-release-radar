@@ -1,65 +1,58 @@
-# 🛰️ Resumo Diário de IA — 2026-09-03
+# 🛰️ Resumo Diário de IA — 2026-09-04
 
-## 🚀 Lançamentos e novidades (19)
+## 🚀 Lançamentos e novidades (15)
+**🚀 [Introducing WeatherNext 3, our most advanced and accurate global weather AI model](https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/)** — DeepMind
+
+**🚀 [Daybreak for Frontline Defenders: $1B to protect essential services](https://openai.com/index/daybreak-for-frontline-defenders)** — OpenAI
+> OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.
+
 **🚀 [NeoMME: an efficient Multimodal-native and Multilingual Encoder](https://huggingface.co/blog/Hcompany/neomme)** — Hugging Face
 
-**🚀 [Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps](https://huggingface.co/blog/grpo-with-trl-ifstruct)** — Hugging Face
+**🚀 [Legora reviewed 41 documents in minutes with GPT-6 Astra](https://openai.com/index/legora-financial-statement-review-with-astra)** — OpenAI
+> Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.
 
-**🚀 [Give Your Coding Agents a Memory You Own](https://huggingface.co/blog/funes)** — Hugging Face
-
-**🚀 [Training a coding model to paint watercolours with TRL and OpenEnv](https://huggingface.co/blog/train-to-paint-with-code)** — Hugging Face
-
-**🚀 [Proactive cyber defense for governments and enterprises](https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/)** — DeepMind
-
-**🚀 [Introducing Gemini 3.8 Flash and 3.8 Flash Cyber](https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/)** — DeepMind
-
-**🚀 [Proactive cyber defense for governments and enterprises](https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/)** — Google AI
-> The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools.
-
-**🚀 [Real-Time Intelligence with IBM Time Series Models on Confluent](https://huggingface.co/blog/ibm-research/real-time-intelligence)** — Hugging Face
-
-**🚀 [ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT](https://openai.com/index/atv-big-air-tour)** — OpenAI
-> ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.
+**🚀 [Playco cut manual fixes 50% prototyping games with GPT-6 Astra](https://openai.com/index/playco-game-prototyping-with-astra)** — OpenAI
+> Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.
 
 **🤗 [zai-org/GLM-5.3](https://huggingface.co/zai-org/GLM-5.3)** — Hugging Face Hub
-> 1573 curtidas no Hugging Face · text-generation
+> 1667 curtidas no Hugging Face · text-generation
 
 **🤗 [Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next)** — Hugging Face Hub
-> 4777 curtidas no Hugging Face · image-text-to-text
-
-**🤗 [zai-org/GLM-5.3-Flash](https://huggingface.co/zai-org/GLM-5.3-Flash)** — Hugging Face Hub
-> 1998 curtidas no Hugging Face · image-text-to-text
+> 4845 curtidas no Hugging Face · image-text-to-text
 
 **🤗 [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** — Hugging Face Hub
-> 13784 curtidas no Hugging Face · image-text-to-text
+> 13900 curtidas no Hugging Face · image-text-to-text
 
 **🤗 [deepseek-ai/DeepSeek-V4-Flash-Vision-Exp](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp)** — Hugging Face Hub
-> 527 curtidas no Hugging Face · image-text-to-text
+> 579 curtidas no Hugging Face · image-text-to-text
 
-**🤗 [tencent/Hy4-preview](https://huggingface.co/tencent/Hy4-preview)** — Hugging Face Hub
-> 409 curtidas no Hugging Face · text-generation
+**🤗 [zai-org/GLM-5.3-Flash](https://huggingface.co/zai-org/GLM-5.3-Flash)** — Hugging Face Hub
+> 2032 curtidas no Hugging Face · image-text-to-text
 
 **🤗 [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)** — Hugging Face Hub
-> 2645 curtidas no Hugging Face · image-to-video
+> 2736 curtidas no Hugging Face · image-to-video
 
 **🤗 [google/timesfm-3.0-pytorch](https://huggingface.co/google/timesfm-3.0-pytorch)** — Hugging Face Hub
-> 337 curtidas no Hugging Face · time-series-forecasting
+> 407 curtidas no Hugging Face · time-series-forecasting
+
+**🤗 [XHToken/Spark-X2.5-4B](https://huggingface.co/XHToken/Spark-X2.5-4B)** — Hugging Face Hub
+> 443 curtidas no Hugging Face · text-generation
 
 **🤗 [unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF)** — Hugging Face Hub
-> 3420 curtidas no Hugging Face
+> 3475 curtidas no Hugging Face
 
-**🤗 [unsloth/Qwen3.8-Flash-Next-GGUF](https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF)** — Hugging Face Hub
-> 746 curtidas no Hugging Face · image-text-to-text
+**🤗 [ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF)** — Hugging Face Hub
+> 277 curtidas no Hugging Face · image-text-to-text
 
 ## 📄 Pesquisas recentes (15)
-- [Discriminative World Models for Web Agents](http://arxiv.org/abs/2609.02885v1)
-- [Towards Trustworthy Autonomous Robots: An Explainable AI-Based Decision Framework](http://arxiv.org/abs/2609.02861v1)
-- [User Feedback Provides a Unique Signal that LLMs Can not Detect](http://arxiv.org/abs/2609.02859v1)
-- [Post-Training Language Models for Gold-Medal Performance in Coding Competitions](http://arxiv.org/abs/2609.02849v1)
-- [AI Contextual Measurement for Recovering Individual and Group-Level Effects: Validation Against Survey Measures and an Occupational Application](http://arxiv.org/abs/2609.02821v1)
-- [Large Language Models (LLMs) for Telecom Root Cause Analysis (RCA): A Structured Reasoning Framework for Evidence-Grounded Diagnosis](http://arxiv.org/abs/2609.02805v1)
-- [frb100-40 After Two Decades: An Optimality Certificate and a Preregistered Search Study](http://arxiv.org/abs/2609.02804v1)
-- [Dutch Books for Language Models](http://arxiv.org/abs/2609.02797v1)
+- [Compile by Training: Turning Natural-Language Specifications into Local Neural Functions](http://arxiv.org/abs/2609.04199v1)
+- [Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints](http://arxiv.org/abs/2609.04198v1)
+- [ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize](http://arxiv.org/abs/2609.04197v1)
+- [Legibility is Not Interpretability: Comparing Judged and Actual Importance in Chain-Of-Thought Reasoning](http://arxiv.org/abs/2609.04194v1)
+- [One Editor, Many Edits: A Unified Training-Free Framework for Diverse Video Editing](http://arxiv.org/abs/2609.04190v1)
+- [Seeing Before Synthesizing: VLM-Guided Transition Event Discovery for Weakly-Supervised Dense Video Captioning](http://arxiv.org/abs/2609.04183v1)
+- [Knowledge Acquisition During Pre-training? Large Language Models Learn Better With Auxiliary Views](http://arxiv.org/abs/2609.04180v1)
+- [A Computationally Feasible Framework for Causal Probabilistic Explanation](http://arxiv.org/abs/2609.04177v1)
 - …e mais 7 artigos no dashboard
 
 ---

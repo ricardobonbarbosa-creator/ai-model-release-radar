@@ -4557,5 +4557,252 @@
         "category": "model_upload"
       }
     ]
+  },
+  {
+    "date": "2026-09-04",
+    "generated_at": "2026-09-04T14:47:24.014591+00:00",
+    "count": 30,
+    "items": [
+      {
+        "source": "arXiv",
+        "title": "Compile by Training: Turning Natural-Language Specifications into Local Neural Functions",
+        "link": "http://arxiv.org/abs/2609.04199v1",
+        "summary": "Many recurring text functions are easy to describe but difficult to implement with rules, while calling a large remote model for every input introduces repeated cost, latency, and dependency on a…",
+        "published": "2026-09-03T17:59:49+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints",
+        "link": "http://arxiv.org/abs/2609.04198v1",
+        "summary": "Language-model judges now gate training data, score generations, and drive leaderboards. The judge is then a measurement instrument, resting on one rarely stated assumption: the same request, sent to…",
+        "published": "2026-09-03T17:59:43+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize",
+        "link": "http://arxiv.org/abs/2609.04197v1",
+        "summary": "Evolutionary prompt optimizers such as GEPA suffer from prompt bloat: each iteration appends rules and caveats, producing prompts up to 3$\\times$ longer yet no more accurate. We trace this to three…",
+        "published": "2026-09-03T17:59:37+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "Legibility is Not Interpretability: Comparing Judged and Actual Importance in Chain-Of-Thought Reasoning",
+        "link": "http://arxiv.org/abs/2609.04194v1",
+        "summary": "Reasoning traces from chain-of-thought models appear to offer a legible window into how a model arrives at its answer. A growing body of work treats them as such, using LLM judges to diagnose errors,…",
+        "published": "2026-09-03T17:59:08+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "One Editor, Many Edits: A Unified Training-Free Framework for Diverse Video Editing",
+        "link": "http://arxiv.org/abs/2609.04190v1",
+        "summary": "Video editing spans diverse editing paradigms, yet achieving high-quality instruction-guided and subject-guided editing within a single unified framework remains challenging. We introduce EditVid, a…",
+        "published": "2026-09-03T17:59:01+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "Seeing Before Synthesizing: VLM-Guided Transition Event Discovery for Weakly-Supervised Dense Video Captioning",
+        "link": "http://arxiv.org/abs/2609.04183v1",
+        "summary": "Weakly-Supervised Dense Video Captioning aims to localize and describe multiple events in untrimmed videos given only an ordered set of event-level captions per video. Recent work synthesizes…",
+        "published": "2026-09-03T17:58:02+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "Knowledge Acquisition During Pre-training? Large Language Models Learn Better With Auxiliary Views",
+        "link": "http://arxiv.org/abs/2609.04180v1",
+        "summary": "Gaps remain in our understanding of how large language models (LLMs) acquire knowledge during pre-training. We posit that auxiliary views, reformulations of knowledge, are causally helpful for…",
+        "published": "2026-09-03T17:57:02+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "A Computationally Feasible Framework for Causal Probabilistic Explanation",
+        "link": "http://arxiv.org/abs/2609.04177v1",
+        "summary": "Explaining why a specific outcome occurred, and which inputs deserve the blame or credit, is central to philosophical, scientific, and policy analysis. Existing tools split into two camps. The theory…",
+        "published": "2026-09-03T17:55:43+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "Last Translation Benchmark",
+        "link": "http://arxiv.org/abs/2609.04173v1",
+        "summary": "For scientific progress, we need benchmarks that test the limits of state-of-the-art models, and evaluation methods that inform us about failure cases. As models get stronger, standard benchmarks for…",
+        "published": "2026-09-03T17:54:45+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "Rethinking On-Policy Distillation of Large Language Models II: One Training Example",
+        "link": "http://arxiv.org/abs/2609.04172v1",
+        "summary": "On-policy distillation (OPD) combines student-generated rollouts with dense token-level supervision from a teacher. Existing work has mainly studied its algorithmic behavior, leaving the role of…",
+        "published": "2026-09-03T17:54:38+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "A Case Study on Emergent Cheating and Whistleblowing in Autonomous Research Swarms",
+        "link": "http://arxiv.org/abs/2609.04170v1",
+        "summary": "Multi-agent AI science ecosystems rely on agents possessing tools that allow them to communicate, coordinate, and build on each other's work. Yet this shared infrastructure can also introduce…",
+        "published": "2026-09-03T17:54:09+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "SWE-Gate: Passing Functional Tests Is Not Enough for Software Engineering Agents",
+        "link": "http://arxiv.org/abs/2609.04167v1",
+        "summary": "Repository-level software engineering benchmarks have significantly advanced the evaluation of coding agents, but existing benchmarks primarily measure whether generated patches pass functional tests…",
+        "published": "2026-09-03T17:53:34+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "From Deceptive Outputs to Deceptive Mechanisms: A Causal Framework for Language-Model Deception Research",
+        "link": "http://arxiv.org/abs/2609.04166v1",
+        "summary": "Research and news coverage of language-model deception increasingly attributes human-like mental-state concepts to language models. Such claims can blur the distinction between behavior that looks…",
+        "published": "2026-09-03T17:52:19+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "SENTINEL-RL: Offloading Topological Reasoning from LLM Agents in the Security Operations Center",
+        "link": "http://arxiv.org/abs/2609.04159v1",
+        "summary": "Large language model (LLM) agents are increasingly proposed as autonomous SOC analysts, but two limitations make them unreliable at enterprise scale: a finite context window cannot hold a…",
+        "published": "2026-09-03T17:49:12+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments",
+        "link": "http://arxiv.org/abs/2609.04148v1",
+        "summary": "As terminal-based code agents become prevalent, agent trajectories have accumulated at scale, while realistic, executable environments remain scarce. However, environments are what agent…",
+        "published": "2026-09-03T17:41:05+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "DeepMind",
+        "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+        "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+        "summary": "",
+        "published": "2026-09-03T15:02:08+00:00",
+        "category": "release"
+      },
+      {
+        "source": "OpenAI",
+        "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+        "link": "https://openai.com/index/daybreak-for-frontline-defenders",
+        "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+        "published": "2026-09-03T13:15:00+00:00",
+        "category": "release"
+      },
+      {
+        "source": "Hugging Face",
+        "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+        "link": "https://huggingface.co/blog/Hcompany/neomme",
+        "summary": "",
+        "published": "2026-09-03T13:13:48+00:00",
+        "category": "release"
+      },
+      {
+        "source": "OpenAI",
+        "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+        "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
+        "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+        "published": "2026-09-03T12:00:00+00:00",
+        "category": "release"
+      },
+      {
+        "source": "OpenAI",
+        "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+        "link": "https://openai.com/index/playco-game-prototyping-with-astra",
+        "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+        "published": "2026-09-03T12:00:00+00:00",
+        "category": "release"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "zai-org/GLM-5.3",
+        "link": "https://huggingface.co/zai-org/GLM-5.3",
+        "summary": "1667 curtidas no Hugging Face · text-generation",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Qwen/Qwen3.8-Flash-Next",
+        "link": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+        "summary": "4845 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Qwen/Qwen3.8-27B",
+        "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "summary": "13900 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+        "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+        "summary": "579 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "zai-org/GLM-5.3-Flash",
+        "link": "https://huggingface.co/zai-org/GLM-5.3-Flash",
+        "summary": "2032 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Lightricks/LTX-2.5",
+        "link": "https://huggingface.co/Lightricks/LTX-2.5",
+        "summary": "2736 curtidas no Hugging Face · image-to-video",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "google/timesfm-3.0-pytorch",
+        "link": "https://huggingface.co/google/timesfm-3.0-pytorch",
+        "summary": "407 curtidas no Hugging Face · time-series-forecasting",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "XHToken/Spark-X2.5-4B",
+        "link": "https://huggingface.co/XHToken/Spark-X2.5-4B",
+        "summary": "443 curtidas no Hugging Face · text-generation",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "unsloth/Qwen3.8-27B-GGUF",
+        "link": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+        "summary": "3475 curtidas no Hugging Face",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+        "link": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+        "summary": "277 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      }
+    ]
   }
 ]
