@@ -4804,5 +4804,92 @@
         "category": "model_upload"
       }
     ]
+  },
+  {
+    "date": "2026-09-05",
+    "generated_at": "2026-09-05T13:40:22.506883+00:00",
+    "count": 10,
+    "items": [
+      {
+        "source": "Hugging Face Hub",
+        "title": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+        "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+        "summary": "642 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Qwen/Qwen3.8-27B",
+        "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "summary": "13997 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Qwen/Qwen3.8-Flash-Next",
+        "link": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+        "summary": "4898 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "zai-org/GLM-5.3-Flash",
+        "link": "https://huggingface.co/zai-org/GLM-5.3-Flash",
+        "summary": "2068 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "XHToken/Spark-X2.5-4B",
+        "link": "https://huggingface.co/XHToken/Spark-X2.5-4B",
+        "summary": "505 curtidas no Hugging Face · text-generation",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "google/timesfm-3.0-pytorch",
+        "link": "https://huggingface.co/google/timesfm-3.0-pytorch",
+        "summary": "441 curtidas no Hugging Face · time-series-forecasting",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "zai-org/GLM-5.3",
+        "link": "https://huggingface.co/zai-org/GLM-5.3",
+        "summary": "1713 curtidas no Hugging Face · text-generation",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Lightricks/LTX-2.5",
+        "link": "https://huggingface.co/Lightricks/LTX-2.5",
+        "summary": "2838 curtidas no Hugging Face · image-to-video",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+        "link": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+        "summary": "355 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "unsloth/Qwen3.8-27B-GGUF",
+        "link": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+        "summary": "3526 curtidas no Hugging Face",
+        "published": "",
+        "category": "model_upload"
+      }
+    ]
   }
 ]
