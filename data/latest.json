@@ -1,13 +1,21 @@
 {
-  "date": "2026-09-06",
-  "generated_at": "2026-09-06T13:55:53.125458+00:00",
-  "count": 10,
+  "date": "2026-09-07",
+  "generated_at": "2026-09-07T16:16:51.834503+00:00",
+  "count": 11,
   "items": [
     {
+      "source": "OpenAI",
+      "title": "Supporting independent journalism in Ukraine",
+      "link": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+      "published": "2026-09-07T00:00:00+00:00",
+      "category": "release"
+    },
+    {
       "source": "Hugging Face Hub",
-      "title": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
-      "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
-      "summary": "710 curtidas no Hugging Face · image-text-to-text",
+      "title": "XHToken/Spark-X2.5-4B",
+      "link": "https://huggingface.co/XHToken/Spark-X2.5-4B",
+      "summary": "675 curtidas no Hugging Face · text-generation",
       "published": "",
       "category": "model_upload"
     },
@@ -15,23 +23,7 @@
       "source": "Hugging Face Hub",
       "title": "Qwen/Qwen3.8-27B",
       "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
-      "summary": "14079 curtidas no Hugging Face · image-text-to-text",
-      "published": "",
-      "category": "model_upload"
-    },
-    {
-      "source": "Hugging Face Hub",
-      "title": "XHToken/Spark-X2.5-4B",
-      "link": "https://huggingface.co/XHToken/Spark-X2.5-4B",
-      "summary": "577 curtidas no Hugging Face · text-generation",
-      "published": "",
-      "category": "model_upload"
-    },
-    {
-      "source": "Hugging Face Hub",
-      "title": "Qwen/Qwen3.8-Flash-Next",
-      "link": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
-      "summary": "4934 curtidas no Hugging Face · image-text-to-text",
+      "summary": "14214 curtidas no Hugging Face · image-text-to-text",
       "published": "",
       "category": "model_upload"
     },
@@ -39,7 +31,15 @@
       "source": "Hugging Face Hub",
       "title": "google/timesfm-3.0-pytorch",
       "link": "https://huggingface.co/google/timesfm-3.0-pytorch",
-      "summary": "481 curtidas no Hugging Face · time-series-forecasting",
+      "summary": "558 curtidas no Hugging Face · time-series-forecasting",
+      "published": "",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+      "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+      "summary": "785 curtidas no Hugging Face · image-text-to-text",
       "published": "",
       "category": "model_upload"
     },
@@ -47,7 +47,15 @@
       "source": "Hugging Face Hub",
       "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
       "link": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-      "summary": "445 curtidas no Hugging Face · image-text-to-text",
+      "summary": "506 curtidas no Hugging Face · image-text-to-text",
+      "published": "",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "Qwen/Qwen3.8-Flash-Next",
+      "link": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+      "summary": "4968 curtidas no Hugging Face · image-text-to-text",
       "published": "",
       "category": "model_upload"
     },
@@ -55,23 +63,7 @@
       "source": "Hugging Face Hub",
       "title": "Lightricks/LTX-2.5",
       "link": "https://huggingface.co/Lightricks/LTX-2.5",
-      "summary": "2922 curtidas no Hugging Face · image-to-video",
-      "published": "",
-      "category": "model_upload"
-    },
-    {
-      "source": "Hugging Face Hub",
-      "title": "zai-org/GLM-5.3-Flash",
-      "link": "https://huggingface.co/zai-org/GLM-5.3-Flash",
-      "summary": "2091 curtidas no Hugging Face · image-text-to-text",
-      "published": "",
-      "category": "model_upload"
-    },
-    {
-      "source": "Hugging Face Hub",
-      "title": "zai-org/GLM-5.3",
-      "link": "https://huggingface.co/zai-org/GLM-5.3",
-      "summary": "1729 curtidas no Hugging Face · text-generation",
+      "summary": "3039 curtidas no Hugging Face · image-to-video",
       "published": "",
       "category": "model_upload"
     },
@@ -79,7 +71,23 @@
       "source": "Hugging Face Hub",
       "title": "unsloth/Qwen3.8-27B-GGUF",
       "link": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
-      "summary": "3563 curtidas no Hugging Face",
+      "summary": "3625 curtidas no Hugging Face",
+      "published": "",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "zai-org/GLM-5.3-Flash",
+      "link": "https://huggingface.co/zai-org/GLM-5.3-Flash",
+      "summary": "2125 curtidas no Hugging Face · image-text-to-text",
+      "published": "",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+      "link": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+      "summary": "279 curtidas no Hugging Face · image-text-to-text",
       "published": "",
       "category": "model_upload"
     }
