@@ -1,157 +1,37 @@
 {
-  "date": "2026-09-11",
-  "generated_at": "2026-09-11T14:50:27.477941+00:00",
-  "count": 28,
+  "date": "2026-09-12",
+  "generated_at": "2026-09-12T13:52:59.715384+00:00",
+  "count": 13,
   "items": [
     {
-      "source": "arXiv",
-      "title": "GPU-CFR: 80x Faster Counterfactual Regret Minimization by Compiling the Game to Static Dataflow and CUDA Graph Replay",
-      "link": "http://arxiv.org/abs/2609.11923v1",
-      "summary": "Counterfactual regret minimization (CFR) is one of the few large numerical workloads that still runs faster on CPUs than on GPUs. Each iteration sweeps a game tree with up to billions of states in…",
-      "published": "2026-09-10T17:58:14+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "General Quantification of Covariate and Concept Shifts",
-      "link": "http://arxiv.org/abs/2609.11918v1",
-      "summary": "Generalization under distribution shift remains a core challenge in modern machine learning, yet existing learning bound theory is limited to narrow, idealized settings and is non-estimable from…",
-      "published": "2026-09-10T17:57:52+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "Data Scarcity and Model Sparsity: Mixtures-of-Experts Overfit More to Repeated Data",
-      "link": "http://arxiv.org/abs/2609.11917v1",
-      "summary": "As the supply of human-written text is exhausted, it has become standard practice to repeat language model training data. Prior work has studied data repetition for densely activated Transformers,…",
-      "published": "2026-09-10T17:57:33+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "Can Edge-Deployable Vision-Language Models Identify Species?",
-      "link": "http://arxiv.org/abs/2609.11916v1",
-      "summary": "Camera traps often run in the field on edge hardware with limited or no connectivity, making small, locally-deployable vision-language models (VLMs) -- not frontier-scale ones -- the practically…",
-      "published": "2026-09-10T17:57:32+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "Generative Marketing Mix Modeling: A Causal Inference Framework Linking GEO and GEM to Business Impact",
-      "link": "http://arxiv.org/abs/2609.11915v1",
-      "summary": "Generative artificial intelligence changes how firms reach customers, but standard marketing data do not record how often users see and notice a firm's name in generated answers. We develop…",
-      "published": "2026-09-10T17:57:28+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "Distance generalization in transformers: why bother with positional encoding?",
-      "link": "http://arxiv.org/abs/2609.11913v1",
-      "summary": "Out-of-distribution length generalization, namely to extrapolate a task from short to longer context, has been studied intensively for transformers. Here we focus on distance generalization, which…",
-      "published": "2026-09-10T17:57:19+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "Artificial Id: Drive and Persistent Alignment in Agentic AI",
-      "link": "http://arxiv.org/abs/2609.11911v1",
-      "summary": "Agentic AI is moving from bounded task execution toward systems that retain consequential state, continue operating and adapt across task boundaries. That shift creates a control problem that current…",
-      "published": "2026-09-10T17:56:41+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "MindTopo: Can Foundation Models Reason in Topological Space?",
-      "link": "http://arxiv.org/abs/2609.11900v1",
-      "summary": "Spatial reasoning depends not only on metric properties such as distance, angle, and shape, but also on topological relations that remain invariant under continuous deformation. Cognitive science…",
-      "published": "2026-09-10T17:54:32+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "Nuha-Speech: Building General-Purpose Arabic Speech-LLMs",
-      "link": "http://arxiv.org/abs/2609.11892v1",
-      "summary": "As Speech Large Language Models (speech-LLMs) become increasingly multilingual, Arabic remains significantly underrepresented, highlighting the need for dedicated infrastructure to train and evaluate…",
-      "published": "2026-09-10T17:50:35+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "Domain-Specific Hallucination Detection in Large Language Models",
-      "link": "http://arxiv.org/abs/2609.11878v1",
-      "summary": "Large language models generate fluent text that can contain unfaithful claims -- a phenomenon known as hallucination. We present a multi-signal detection pipeline combining fine-tuned DeBERTa-v3…",
-      "published": "2026-09-10T17:45:36+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "Biology-in-the-loop: Amortized Adaptive Hit Discovery in CRISPR Screens",
-      "link": "http://arxiv.org/abs/2609.11877v1",
-      "summary": "Many biological discovery problems require experiments to be selected sequentially under constrained budgets. CRISPR screening is a prominent example, as exhaustive perturbation testing is often…",
-      "published": "2026-09-10T17:45:18+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "On the Regularization Landscape for the Linear Recommendation Models",
-      "link": "http://arxiv.org/abs/2609.11876v1",
-      "summary": "Recently, a wide range of recommendation algorithms inspired by deep learning techniques have emerged as the performance leaders on several standard recommendation benchmarks. While these algorithms…",
-      "published": "2026-09-10T17:45:06+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement",
-      "link": "http://arxiv.org/abs/2609.11873v1",
-      "summary": "Recursive self-improvement (RSI) enables AI systems to turn experience and feedback into persistent changes that improve both their capabilities and the process of future improvement. We first use…",
-      "published": "2026-09-10T17:44:23+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "Augustinian BabyLM: What Ostensive Definition Can and Cannot Teach a Small Language Model",
-      "link": "http://arxiv.org/abs/2609.11870v1",
-      "summary": "A language model normally begins training with random word embeddings: whatever 'banana' means must be learned from training corpora. I implement St. Augustine's picture of word learning, meaning by…",
-      "published": "2026-09-10T17:43:09+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "Epistemic orientation predicts legislative effectiveness among members of the US Congress",
-      "link": "http://arxiv.org/abs/2609.11865v1",
-      "summary": "Truth and evidence-based communication provide important foundations for democratic governance, accountability, and collective decision-making. Prior work shows that evidence-oriented language in US…",
-      "published": "2026-09-10T17:41:54+00:00",
-      "category": "paper"
-    },
-    {
       "source": "OpenAI",
-      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-      "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-      "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
-      "published": "2026-09-10T16:00:00+00:00",
-      "category": "release"
-    },
-    {
-      "source": "Google AI",
-      "title": "3 ways to prep for your next big race with Search",
-      "link": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
-      "summary": "Search can help runners get race-day ready with registration alerts, tailored training plans, and more.",
-      "published": "2026-09-10T16:00:00+00:00",
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+      "published": "2026-09-14T00:00:00+00:00",
       "category": "release"
     },
     {
       "source": "OpenAI",
-      "title": "Now everyone can put data to work",
-      "link": "https://openai.com/index/put-data-to-work",
-      "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
-      "published": "2026-09-10T15:00:00+00:00",
+      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "link": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+      "published": "2026-09-11T16:00:00+00:00",
+      "category": "release"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+      "published": "2026-09-11T10:00:00+00:00",
       "category": "release"
     },
     {
       "source": "Hugging Face Hub",
       "title": "deepseek-ai/DeepSeek-V4.1-Flash",
       "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
-      "summary": "1685 curtidas no Hugging Face · image-text-to-text",
+      "summary": "1913 curtidas no Hugging Face · image-text-to-text",
       "published": "",
       "category": "model_upload"
     },
@@ -159,23 +39,7 @@
       "source": "Hugging Face Hub",
       "title": "openbmb/MiniCPM5-2B",
       "link": "https://huggingface.co/openbmb/MiniCPM5-2B",
-      "summary": "1166 curtidas no Hugging Face · text-generation",
-      "published": "",
-      "category": "model_upload"
-    },
-    {
-      "source": "Hugging Face Hub",
-      "title": "XHToken/Spark-X2.5-4B",
-      "link": "https://huggingface.co/XHToken/Spark-X2.5-4B",
-      "summary": "1089 curtidas no Hugging Face · text-generation",
-      "published": "",
-      "category": "model_upload"
-    },
-    {
-      "source": "Hugging Face Hub",
-      "title": "Qwen/Qwen3.8-27B",
-      "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
-      "summary": "14721 curtidas no Hugging Face · image-text-to-text",
+      "summary": "1229 curtidas no Hugging Face · text-generation",
       "published": "",
       "category": "model_upload"
     },
@@ -183,7 +47,23 @@
       "source": "Hugging Face Hub",
       "title": "nex-agi/Nex-N2.5-mini",
       "link": "https://huggingface.co/nex-agi/Nex-N2.5-mini",
-      "summary": "680 curtidas no Hugging Face · text-generation",
+      "summary": "708 curtidas no Hugging Face · text-generation",
+      "published": "",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "XHToken/Spark-X2.5-4B",
+      "link": "https://huggingface.co/XHToken/Spark-X2.5-4B",
+      "summary": "1129 curtidas no Hugging Face · text-generation",
+      "published": "",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "Qwen/Qwen3.8-27B",
+      "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "summary": "14812 curtidas no Hugging Face · image-text-to-text",
       "published": "",
       "category": "model_upload"
     },
@@ -191,7 +71,7 @@
       "source": "Hugging Face Hub",
       "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
       "link": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-      "summary": "822 curtidas no Hugging Face · image-text-to-text",
+      "summary": "858 curtidas no Hugging Face · image-text-to-text",
       "published": "",
       "category": "model_upload"
     },
@@ -199,7 +79,7 @@
       "source": "Hugging Face Hub",
       "title": "nex-agi/Nex-N2.5-Pro",
       "link": "https://huggingface.co/nex-agi/Nex-N2.5-Pro",
-      "summary": "592 curtidas no Hugging Face · text-generation",
+      "summary": "608 curtidas no Hugging Face · text-generation",
       "published": "",
       "category": "model_upload"
     },
@@ -207,7 +87,7 @@
       "source": "Hugging Face Hub",
       "title": "Lightricks/LTX-2.5",
       "link": "https://huggingface.co/Lightricks/LTX-2.5",
-      "summary": "3437 curtidas no Hugging Face · image-to-video",
+      "summary": "3560 curtidas no Hugging Face · image-to-video",
       "published": "",
       "category": "model_upload"
     },
@@ -215,15 +95,15 @@
       "source": "Hugging Face Hub",
       "title": "unsloth/Qwen3.8-27B-GGUF",
       "link": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
-      "summary": "3879 curtidas no Hugging Face",
+      "summary": "3924 curtidas no Hugging Face",
       "published": "",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "dealignai/GLM-5.3-CYBERSECURITY-FP8",
-      "link": "https://huggingface.co/dealignai/GLM-5.3-CYBERSECURITY-FP8",
-      "summary": "378 curtidas no Hugging Face · text-generation",
+      "title": "WarmBloodAban/Minimax-h3_Singularity",
+      "link": "https://huggingface.co/WarmBloodAban/Minimax-h3_Singularity",
+      "summary": "333 curtidas no Hugging Face · image-to-video",
       "published": "",
       "category": "model_upload"
     }
