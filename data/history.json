@@ -6147,5 +6147,116 @@
         "category": "model_upload"
       }
     ]
+  },
+  {
+    "date": "2026-09-14",
+    "generated_at": "2026-09-14T16:46:59.594420+00:00",
+    "count": 13,
+    "items": [
+      {
+        "source": "Google AI",
+        "title": "DevFest is back",
+        "link": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
+        "summary": "DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.",
+        "published": "2026-09-14T16:00:00+00:00",
+        "category": "release"
+      },
+      {
+        "source": "OpenAI",
+        "title": "How Fyxer built an AI executive assistant people trust",
+        "link": "https://openai.com/index/fyxer",
+        "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+        "published": "2026-09-14T12:00:00+00:00",
+        "category": "release"
+      },
+      {
+        "source": "OpenAI",
+        "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+        "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+        "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+        "published": "2026-09-14T00:00:00+00:00",
+        "category": "release"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "deepseek-ai/DeepSeek-V4.1-Flash",
+        "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+        "summary": "2393 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Edge0/Edge0-35B-A3B-preview",
+        "link": "https://huggingface.co/Edge0/Edge0-35B-A3B-preview",
+        "summary": "1684 curtidas no Hugging Face · text-generation",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "openbmb/MiniCPM5-2B",
+        "link": "https://huggingface.co/openbmb/MiniCPM5-2B",
+        "summary": "1380 curtidas no Hugging Face · text-generation",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "nex-agi/Nex-N2.5-mini",
+        "link": "https://huggingface.co/nex-agi/Nex-N2.5-mini",
+        "summary": "777 curtidas no Hugging Face · text-generation",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Qwen/Qwen3.8-27B",
+        "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "summary": "15102 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "nex-agi/Nex-N2.5-Pro",
+        "link": "https://huggingface.co/nex-agi/Nex-N2.5-Pro",
+        "summary": "632 curtidas no Hugging Face · text-generation",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+        "link": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+        "summary": "1014 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "m-a-p/YuE2-3B",
+        "link": "https://huggingface.co/m-a-p/YuE2-3B",
+        "summary": "454 curtidas no Hugging Face · text-to-audio",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "XHToken/Spark-X2.5-4B",
+        "link": "https://huggingface.co/XHToken/Spark-X2.5-4B",
+        "summary": "1167 curtidas no Hugging Face · text-generation",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Lightricks/LTX-2.5",
+        "link": "https://huggingface.co/Lightricks/LTX-2.5",
+        "summary": "3839 curtidas no Hugging Face · image-to-video",
+        "published": "",
+        "category": "model_upload"
+      }
+    ]
   }
 ]
