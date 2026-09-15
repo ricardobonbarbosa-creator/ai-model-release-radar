@@ -1,8 +1,24 @@
 {
-  "date": "2026-09-14",
-  "generated_at": "2026-09-14T16:46:59.594420+00:00",
-  "count": 13,
+  "date": "2026-09-15",
+  "generated_at": "2026-09-15T15:27:00.050060+00:00",
+  "count": 14,
   "items": [
+    {
+      "source": "Google AI",
+      "title": "New insights from Google’s AI & Economy ATLAS",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+      "summary": "We’ve translated ATLAS’s millions of global data points into an interactive, open-access experience.",
+      "published": "2026-09-15T13:00:00+00:00",
+      "category": "release"
+    },
+    {
+      "source": "Google AI",
+      "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
+      "summary": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
+      "published": "2026-09-14T19:00:00+00:00",
+      "category": "release"
+    },
     {
       "source": "Google AI",
       "title": "DevFest is back",
@@ -20,18 +36,10 @@
       "category": "release"
     },
     {
-      "source": "OpenAI",
-      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
-      "published": "2026-09-14T00:00:00+00:00",
-      "category": "release"
-    },
-    {
       "source": "Hugging Face Hub",
       "title": "deepseek-ai/DeepSeek-V4.1-Flash",
       "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
-      "summary": "2393 curtidas no Hugging Face · image-text-to-text",
+      "summary": "2605 curtidas no Hugging Face · image-text-to-text",
       "published": "",
       "category": "model_upload"
     },
@@ -39,7 +47,7 @@
       "source": "Hugging Face Hub",
       "title": "Edge0/Edge0-35B-A3B-preview",
       "link": "https://huggingface.co/Edge0/Edge0-35B-A3B-preview",
-      "summary": "1684 curtidas no Hugging Face · text-generation",
+      "summary": "2468 curtidas no Hugging Face · text-generation",
       "published": "",
       "category": "model_upload"
     },
@@ -47,7 +55,7 @@
       "source": "Hugging Face Hub",
       "title": "openbmb/MiniCPM5-2B",
       "link": "https://huggingface.co/openbmb/MiniCPM5-2B",
-      "summary": "1380 curtidas no Hugging Face · text-generation",
+      "summary": "1429 curtidas no Hugging Face · text-generation",
       "published": "",
       "category": "model_upload"
     },
@@ -55,7 +63,7 @@
       "source": "Hugging Face Hub",
       "title": "nex-agi/Nex-N2.5-mini",
       "link": "https://huggingface.co/nex-agi/Nex-N2.5-mini",
-      "summary": "777 curtidas no Hugging Face · text-generation",
+      "summary": "802 curtidas no Hugging Face · text-generation",
       "published": "",
       "category": "model_upload"
     },
@@ -63,23 +71,7 @@
       "source": "Hugging Face Hub",
       "title": "Qwen/Qwen3.8-27B",
       "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
-      "summary": "15102 curtidas no Hugging Face · image-text-to-text",
-      "published": "",
-      "category": "model_upload"
-    },
-    {
-      "source": "Hugging Face Hub",
-      "title": "nex-agi/Nex-N2.5-Pro",
-      "link": "https://huggingface.co/nex-agi/Nex-N2.5-Pro",
-      "summary": "632 curtidas no Hugging Face · text-generation",
-      "published": "",
-      "category": "model_upload"
-    },
-    {
-      "source": "Hugging Face Hub",
-      "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-      "link": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-      "summary": "1014 curtidas no Hugging Face · image-text-to-text",
+      "summary": "15211 curtidas no Hugging Face · image-text-to-text",
       "published": "",
       "category": "model_upload"
     },
@@ -87,15 +79,23 @@
       "source": "Hugging Face Hub",
       "title": "m-a-p/YuE2-3B",
       "link": "https://huggingface.co/m-a-p/YuE2-3B",
-      "summary": "454 curtidas no Hugging Face · text-to-audio",
+      "summary": "528 curtidas no Hugging Face · text-to-audio",
       "published": "",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "XHToken/Spark-X2.5-4B",
-      "link": "https://huggingface.co/XHToken/Spark-X2.5-4B",
-      "summary": "1167 curtidas no Hugging Face · text-generation",
+      "title": "nex-agi/Nex-N2.5-Pro",
+      "link": "https://huggingface.co/nex-agi/Nex-N2.5-Pro",
+      "summary": "644 curtidas no Hugging Face · text-generation",
+      "published": "",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+      "link": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+      "summary": "1089 curtidas no Hugging Face · image-text-to-text",
       "published": "",
       "category": "model_upload"
     },
@@ -103,7 +103,15 @@
       "source": "Hugging Face Hub",
       "title": "Lightricks/LTX-2.5",
       "link": "https://huggingface.co/Lightricks/LTX-2.5",
-      "summary": "3839 curtidas no Hugging Face · image-to-video",
+      "summary": "3951 curtidas no Hugging Face · image-to-video",
+      "published": "",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "TokenRhythm/NeoHorse-1-4B",
+      "link": "https://huggingface.co/TokenRhythm/NeoHorse-1-4B",
+      "summary": "1950 curtidas no Hugging Face · text-generation",
       "published": "",
       "category": "model_upload"
     }
