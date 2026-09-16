@@ -1,8 +1,176 @@
 {
-  "date": "2026-09-15",
-  "generated_at": "2026-09-15T15:27:00.050060+00:00",
-  "count": 14,
+  "date": "2026-09-16",
+  "generated_at": "2026-09-16T15:19:41.418357+00:00",
+  "count": 32,
   "items": [
+    {
+      "source": "OpenAI",
+      "title": "Reimagining advertising with AI",
+      "link": "https://openai.com/index/reimagining-advertising-with-ai",
+      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "published": "2026-09-16T13:00:00+00:00",
+      "category": "release"
+    },
+    {
+      "source": "arXiv",
+      "title": "Agentic Societies Need a Social Harness",
+      "link": "http://arxiv.org/abs/2609.17527v1",
+      "summary": "An agentic society is a collection of AI agents that coordinate autonomously across trust boundaries, on behalf of different principals whose objectives may only partially align. We show…",
+      "published": "2026-09-15T17:57:27+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents",
+      "link": "http://arxiv.org/abs/2609.17523v1",
+      "summary": "We introduce and release ScienceBuddy, an interactive scientific research workspace that brings continually improving scientific agents into researchers' everyday workflows. ScienceBuddy supports…",
+      "published": "2026-09-15T17:55:28+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "PhysStream: Streaming Physics-Grounded Video Generation with Structured Scene Memory and Fine-Grained Motion Control",
+      "link": "http://arxiv.org/abs/2609.17521v1",
+      "summary": "Interactive control for video generation is moving from coarse prompts toward fine-grained, physically meaningful manipulation of dynamic scenes. Yet existing controllable methods either require the…",
+      "published": "2026-09-15T17:55:13+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "When Should LLMs Abstain? Chain-of-Self-Questioning for Selective Risk Control",
+      "link": "http://arxiv.org/abs/2609.17516v1",
+      "summary": "Large language models can produce fluent answers when their factual support is weak. This paper introduces Chain-of-Self-Questioning (CoSQ), a prompt-only framework that makes answer commitment…",
+      "published": "2026-09-15T17:52:24+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "What Breaks Under Pruning in Smart Homes, and When? Evaluating LLM Degradation Across Architectures and Task Complexity",
+      "link": "http://arxiv.org/abs/2609.17515v1",
+      "summary": "Pruning can reduce the deployment cost of large language models (LLMs), but its impact on context-grounded tool calling remains poorly understood. We systematically study pruning-induced degradation…",
+      "published": "2026-09-15T17:51:48+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "LACE: Layer-Wise Compression for Dynamic Frame Rate Codecs",
+      "link": "http://arxiv.org/abs/2609.17509v1",
+      "summary": "Neural audio codecs are a key component in speech language modeling. However, their high frame rates lead to long sequence lengths, increasing computational costs. Dynamic frame rate codecs mitigate…",
+      "published": "2026-09-15T17:46:51+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "ENCP: Episode-Normalized Conformal Prediction for Vision-and-Language Navigation",
+      "link": "http://arxiv.org/abs/2609.17499v1",
+      "summary": "Uncertainty estimation for Vision-Language-Navigation (VLN) models is a critical task since it can help identify ambiguous and unreliable predictions, enabling agents to make safer navigation…",
+      "published": "2026-09-15T17:42:15+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "Verifiable Social Reasoning for LLM Assistants",
+      "link": "http://arxiv.org/abs/2609.17496v1",
+      "summary": "LLM assistants are widely used for daily social advice, yet evaluating their social reasoning in such consultation settings remains challenging since (i) it requires setups where the assistant learns…",
+      "published": "2026-09-15T17:37:29+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence",
+      "link": "http://arxiv.org/abs/2609.17488v1",
+      "summary": "We introduce LimiX-2, a new model in the LimiX family, developed through model and data scaling guided by our previously established scaling laws. LimiX-2 adopts the Contextual Mechanism Networks…",
+      "published": "2026-09-15T17:30:02+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "Det-LIME: Detector-Aware, Multi-Instance Local Interpretable Model-Agnostic Explanations for Automated Marine Mammal Detection",
+      "link": "http://arxiv.org/abs/2609.17479v1",
+      "summary": "Despite the rapid uptake of black-box object detectors in marine mammal research and monitoring, explainability techniques are rarely integrated into conservation workflows. Furthermore, most…",
+      "published": "2026-09-15T17:20:16+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "JustFit: 200K-Token LLM Serving on a 24 GiB Laptop with Just-in-Time State Management",
+      "link": "http://arxiv.org/abs/2609.17475v1",
+      "summary": "Capable open-weight models make local coding and reasoning attractive, but their context and execution state strain laptop memory. We present JustFit, an MLX-based inference runtime that combines…",
+      "published": "2026-09-15T17:15:48+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "Coupled Calibration and Learning: Mitigating Teacher Bias in LLM Distillation without Target-Domain Reward Feedback",
+      "link": "http://arxiv.org/abs/2609.17474v1",
+      "summary": "Large language model (LLM) distillation aims to transfer the capabilities of a powerful teacher to a smaller student. Direct imitation, however, can also transfer the teacher's systematic bias and…",
+      "published": "2026-09-15T17:15:40+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "DeepMind",
+      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "summary": "",
+      "published": "2026-09-15T17:05:57+00:00",
+      "category": "release"
+    },
+    {
+      "source": "arXiv",
+      "title": "Decomposition Buys Integrity, Not Yield",
+      "link": "http://arxiv.org/abs/2609.17464v1",
+      "summary": "Multi-agent systems split a task across a tree of agents and justify the split with folklore: smaller contexts, cleaner separation, parallelism. We ask what the split does to how much of what the…",
+      "published": "2026-09-15T17:04:09+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "Evaluating Verified Autonomy in Quantum Engineering",
+      "link": "http://arxiv.org/abs/2609.17439v1",
+      "summary": "Reliable quantum engineering is essential for turning quantum phenomena into practical technologies. As quantum platforms grow in scale and complexity, their characterization and operation require…",
+      "published": "2026-09-15T16:46:08+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "Right Tool, Right Job: Native-Language Evaluation, Tokenizer Sensitivity, and Methodological Findings from a French-Only BabyLM",
+      "link": "http://arxiv.org/abs/2609.17435v1",
+      "summary": "We submit MéTRON-FR, a 125M GPT-2 pretrained on 92.47M words of French, to the BabyLM 2026 Strict track. It scores 85.97 +/- 0.17% on QFrBLiMP (a native Quebec-French benchmark of grammatical minimal…",
+      "published": "2026-09-15T16:43:32+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Your Agent Aced the Task. Will It Do It Again?",
+      "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+      "summary": "",
+      "published": "2026-09-15T16:00:44+00:00",
+      "category": "release"
+    },
+    {
+      "source": "Google AI",
+      "title": "AI for Societal Impact",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+      "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
+      "published": "2026-09-15T16:00:00+00:00",
+      "category": "release"
+    },
+    {
+      "source": "Google AI",
+      "title": "Building AI to accelerate science and improve lives",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+      "summary": "The true measure of AI is who it helps. Here’s how it’s impacting lives today. We're focused on key areas where advanced technology can help make extraordinary progress …",
+      "published": "2026-09-15T16:00:00+00:00",
+      "category": "release"
+    },
+    {
+      "source": "Google AI",
+      "title": "AI for everyone in every language",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+      "summary": "We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed.",
+      "published": "2026-09-15T16:00:00+00:00",
+      "category": "release"
+    },
     {
       "source": "Google AI",
       "title": "New insights from Google’s AI & Economy ATLAS",
@@ -12,34 +180,10 @@
       "category": "release"
     },
     {
-      "source": "Google AI",
-      "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
-      "summary": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
-      "published": "2026-09-14T19:00:00+00:00",
-      "category": "release"
-    },
-    {
-      "source": "Google AI",
-      "title": "DevFest is back",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
-      "summary": "DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.",
-      "published": "2026-09-14T16:00:00+00:00",
-      "category": "release"
-    },
-    {
-      "source": "OpenAI",
-      "title": "How Fyxer built an AI executive assistant people trust",
-      "link": "https://openai.com/index/fyxer",
-      "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
-      "published": "2026-09-14T12:00:00+00:00",
-      "category": "release"
-    },
-    {
       "source": "Hugging Face Hub",
       "title": "deepseek-ai/DeepSeek-V4.1-Flash",
       "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
-      "summary": "2605 curtidas no Hugging Face · image-text-to-text",
+      "summary": "2800 curtidas no Hugging Face · image-text-to-text",
       "published": "",
       "category": "model_upload"
     },
@@ -47,7 +191,7 @@
       "source": "Hugging Face Hub",
       "title": "Edge0/Edge0-35B-A3B-preview",
       "link": "https://huggingface.co/Edge0/Edge0-35B-A3B-preview",
-      "summary": "2468 curtidas no Hugging Face · text-generation",
+      "summary": "3021 curtidas no Hugging Face · text-generation",
       "published": "",
       "category": "model_upload"
     },
@@ -55,15 +199,7 @@
       "source": "Hugging Face Hub",
       "title": "openbmb/MiniCPM5-2B",
       "link": "https://huggingface.co/openbmb/MiniCPM5-2B",
-      "summary": "1429 curtidas no Hugging Face · text-generation",
-      "published": "",
-      "category": "model_upload"
-    },
-    {
-      "source": "Hugging Face Hub",
-      "title": "nex-agi/Nex-N2.5-mini",
-      "link": "https://huggingface.co/nex-agi/Nex-N2.5-mini",
-      "summary": "802 curtidas no Hugging Face · text-generation",
+      "summary": "1493 curtidas no Hugging Face · text-generation",
       "published": "",
       "category": "model_upload"
     },
@@ -71,7 +207,7 @@
       "source": "Hugging Face Hub",
       "title": "Qwen/Qwen3.8-27B",
       "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
-      "summary": "15211 curtidas no Hugging Face · image-text-to-text",
+      "summary": "15346 curtidas no Hugging Face · image-text-to-text",
       "published": "",
       "category": "model_upload"
     },
@@ -79,15 +215,15 @@
       "source": "Hugging Face Hub",
       "title": "m-a-p/YuE2-3B",
       "link": "https://huggingface.co/m-a-p/YuE2-3B",
-      "summary": "528 curtidas no Hugging Face · text-to-audio",
+      "summary": "607 curtidas no Hugging Face · text-to-audio",
       "published": "",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "nex-agi/Nex-N2.5-Pro",
-      "link": "https://huggingface.co/nex-agi/Nex-N2.5-Pro",
-      "summary": "644 curtidas no Hugging Face · text-generation",
+      "title": "nex-agi/Nex-N2.5-mini",
+      "link": "https://huggingface.co/nex-agi/Nex-N2.5-mini",
+      "summary": "817 curtidas no Hugging Face · text-generation",
       "published": "",
       "category": "model_upload"
     },
@@ -95,7 +231,7 @@
       "source": "Hugging Face Hub",
       "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
       "link": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-      "summary": "1089 curtidas no Hugging Face · image-text-to-text",
+      "summary": "1169 curtidas no Hugging Face · image-text-to-text",
       "published": "",
       "category": "model_upload"
     },
@@ -103,7 +239,7 @@
       "source": "Hugging Face Hub",
       "title": "Lightricks/LTX-2.5",
       "link": "https://huggingface.co/Lightricks/LTX-2.5",
-      "summary": "3951 curtidas no Hugging Face · image-to-video",
+      "summary": "4069 curtidas no Hugging Face · image-to-video",
       "published": "",
       "category": "model_upload"
     },
@@ -111,7 +247,15 @@
       "source": "Hugging Face Hub",
       "title": "TokenRhythm/NeoHorse-1-4B",
       "link": "https://huggingface.co/TokenRhythm/NeoHorse-1-4B",
-      "summary": "1950 curtidas no Hugging Face · text-generation",
+      "summary": "2099 curtidas no Hugging Face · text-generation",
+      "published": "",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "unsloth/Qwen3.8-27B-GGUF",
+      "link": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+      "summary": "4196 curtidas no Hugging Face",
       "published": "",
       "category": "model_upload"
     }
