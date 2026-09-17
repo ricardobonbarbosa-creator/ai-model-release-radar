@@ -6640,5 +6640,244 @@
         "category": "model_upload"
       }
     ]
+  },
+  {
+    "date": "2026-09-17",
+    "generated_at": "2026-09-17T15:26:04.866927+00:00",
+    "count": 29,
+    "items": [
+      {
+        "source": "arXiv",
+        "title": "Objective vs. Search: Decomposing What Makes a Good Tokeniser",
+        "link": "http://arxiv.org/abs/2609.19145v1",
+        "summary": "Two dominant tokenisation algorithms are used by modern language models: byte-pair encoding (BPE) and UnigramLM. These differ along two orthogonal axes: their optimisation objective (compression vs.…",
+        "published": "2026-09-16T17:59:45+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "A Zeroth-Order Paradigm for LLM Preference Alignment",
+        "link": "http://arxiv.org/abs/2609.19144v1",
+        "summary": "Direct preference alignment methods are widely used to align large language models (LLMs) with human preferences because of their computational and memory efficiency. However, likelihood displacement…",
+        "published": "2026-09-16T17:59:35+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "PANORAMA: Panoptic Grounded Captioning via Mask Proposal Selection",
+        "link": "http://arxiv.org/abs/2609.19143v1",
+        "summary": "Intelligent systems that act in the world require image understanding that is both comprehensive and spatially grounded. Current vision-language models (VLMs) can generate fluent and detailed image…",
+        "published": "2026-09-16T17:59:30+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "Dreaming the Sound of Contact: Leveraging Video and Audio Generation for Zero-Shot Force-Aware Manipulation and Data Generation",
+        "link": "http://arxiv.org/abs/2609.19137v1",
+        "summary": "Recent advances in video generation allow robots to learn manipulation trajectories from generated videos. However, these approaches produce purely kinematic trajectories that lack force information,…",
+        "published": "2026-09-16T17:56:44+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "ScienceIDE: Turning World's Scientific Codebase into Agent Learnable Environments",
+        "link": "http://arxiv.org/abs/2609.19134v1",
+        "summary": "Scientific code repositories encode decades of human knowledge in executable models, methods, and tools. Yet fragmented toolchains, implicit domain conventions, and specialized correctness criteria…",
+        "published": "2026-09-16T17:55:47+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "Cognitive Extensions for Dual-Process Language Agents: Memory and Self-Reflection in Interactive Environments",
+        "link": "http://arxiv.org/abs/2609.19128v1",
+        "summary": "Language agents remain brittle in interactive environments, where success requires long-horizon state tracking, valid action execution, and recovery from failed steps. We extend SwiftSage, a…",
+        "published": "2026-09-16T17:50:42+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "Affora: A Design System for Agent-Friendly Interfaces",
+        "link": "http://arxiv.org/abs/2609.19125v1",
+        "summary": "Computer-use agents increasingly operate software designed for people, but interfaces often leave actions or task state unclear to machine readers. We present Affora, a design system that supports…",
+        "published": "2026-09-16T17:46:34+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "Flag Game: A Toy Model for Mechanistic Swarm Interpretability",
+        "link": "http://arxiv.org/abs/2609.19124v1",
+        "summary": "Emergent coordinated behaviors of AI agents are starting to present critical safety risks. A key phenomenon driving these behaviors is the rapid formation and spread of beliefs about the world, and…",
+        "published": "2026-09-16T17:46:06+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "Playing log(N)-Questions over Wikipedia Abstracts: Communication Efficiency Between Paired Frontier Models",
+        "link": "http://arxiv.org/abs/2609.19113v1",
+        "summary": "We evaluate six frontier language models on the two-agent $\\log(N)$-Questions game. A questioner sees $N$ Wikipedia lead paragraphs and must identify a secretly chosen target using exactly $\\log_2 N$…",
+        "published": "2026-09-16T17:41:12+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "rMuscle: Robotic Muscle Memory for Efficient Vision-Language-Action Model Inference",
+        "link": "http://arxiv.org/abs/2609.19104v1",
+        "summary": "Factory work is a promising early scenario for embodied AI: assigning repetitive manual jobs to robots has clear economic payoff, and a structured station keeps the jobs tractable for current…",
+        "published": "2026-09-16T17:34:43+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "Monitoring and Discovering Reward Hacking with Internal Representations during LLM Evaluations",
+        "link": "http://arxiv.org/abs/2609.19101v1",
+        "summary": "As models scale, reward hacking becomes more frequent, more sophisticated, and more consequential. Does it leave a telltale signature in model representations? This work analyzes how reward hacking…",
+        "published": "2026-09-16T17:31:52+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "Prepared Or Unprepared? Evaluating Healthcare Workforce Readiness for Clinical Adoption of Artificial Intelligence in Nigeria",
+        "link": "http://arxiv.org/abs/2609.19096v1",
+        "summary": "Artificial intelligence (AI) is increasingly integrated into healthcare systems worldwide, yet its successful clinical adoption depends critically on workforce readiness, particularly in low- and…",
+        "published": "2026-09-16T17:30:48+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "Reporting Practice Matters: The Impact of Reference Choice on Chest X-ray Report Evaluation",
+        "link": "http://arxiv.org/abs/2609.19093v1",
+        "summary": "Radiologists follow heterogeneous reporting practices. Two radiologists examining the same image and identifying the same clinical findings might nevertheless compose superficially distinct reports,…",
+        "published": "2026-09-16T17:28:51+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "Securing quantum error correction against misleading advice from AI agents",
+        "link": "http://arxiv.org/abs/2609.19090v1",
+        "summary": "Can an attacker turn influence over an artificial intelligence (AI) adviser into a harmful quantum error-correction update? We identify an ambiguity in passive syndrome records that obstructs…",
+        "published": "2026-09-16T17:26:54+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "MUSE: Benchmarking Large Vision-Language Models on Multi-Modal Understanding in Situated Education",
+        "link": "http://arxiv.org/abs/2609.19088v1",
+        "summary": "Large vision-language models have achieved remarkable progress in multi-modal understanding, yet their capabilities in educational settings remain insufficiently evaluated. In AI-assisted language…",
+        "published": "2026-09-16T17:26:10+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "OpenAI",
+        "title": "Our framework for reporting model misalignment",
+        "link": "https://openai.com/index/model-misalignment-reporting-framework",
+        "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+        "published": "2026-09-16T17:00:00+00:00",
+        "category": "release"
+      },
+      {
+        "source": "OpenAI",
+        "title": "Helping older adults use AI in everyday life",
+        "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+        "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+        "published": "2026-09-16T16:00:00+00:00",
+        "category": "release"
+      },
+      {
+        "source": "OpenAI",
+        "title": "Reimagining advertising with AI",
+        "link": "https://openai.com/index/reimagining-advertising-with-ai",
+        "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+        "published": "2026-09-16T13:00:00+00:00",
+        "category": "release"
+      },
+      {
+        "source": "OpenAI",
+        "title": "How to connect AI usage to business value",
+        "link": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+        "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+        "published": "2026-09-16T12:00:00+00:00",
+        "category": "release"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Edge0/Edge0-35B-A3B-preview",
+        "link": "https://huggingface.co/Edge0/Edge0-35B-A3B-preview",
+        "summary": "3278 curtidas no Hugging Face · text-generation",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "deepseek-ai/DeepSeek-V4.1-Flash",
+        "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+        "summary": "2959 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Qwen/Qwen3.8-27B",
+        "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "summary": "15491 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "m-a-p/YuE2-3B",
+        "link": "https://huggingface.co/m-a-p/YuE2-3B",
+        "summary": "692 curtidas no Hugging Face · text-to-audio",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "openbmb/MiniCPM5-2B",
+        "link": "https://huggingface.co/openbmb/MiniCPM5-2B",
+        "summary": "1532 curtidas no Hugging Face · text-generation",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+        "link": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+        "summary": "1236 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Lightricks/LTX-2.5",
+        "link": "https://huggingface.co/Lightricks/LTX-2.5",
+        "summary": "4184 curtidas no Hugging Face · image-to-video",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "TokenRhythm/NeoHorse-1-4B",
+        "link": "https://huggingface.co/TokenRhythm/NeoHorse-1-4B",
+        "summary": "2230 curtidas no Hugging Face · text-generation",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "ukisai/Swift-Qwen3.8-27b",
+        "link": "https://huggingface.co/ukisai/Swift-Qwen3.8-27b",
+        "summary": "367 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+        "link": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+        "summary": "829 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      }
+    ]
   }
 ]

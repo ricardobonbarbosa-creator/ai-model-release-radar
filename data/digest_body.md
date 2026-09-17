@@ -1,64 +1,57 @@
-# 🛰️ Resumo Diário de IA — 2026-09-16
+# 🛰️ Resumo Diário de IA — 2026-09-17
 
-## 🚀 Lançamentos e novidades (17)
+## 🚀 Lançamentos e novidades (14)
+**🚀 [Our framework for reporting model misalignment](https://openai.com/index/model-misalignment-reporting-framework)** — OpenAI
+> OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.
+
+**🚀 [Helping older adults use AI in everyday life](https://openai.com/index/helping-older-adults-use-ai-in-everyday-life)** — OpenAI
+> OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.
+
 **🚀 [Reimagining advertising with AI](https://openai.com/index/reimagining-advertising-with-ai)** — OpenAI
 > Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.
 
-**🚀 [Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking](https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/)** — DeepMind
-
-**🚀 [Your Agent Aced the Task. Will It Do It Again?](https://huggingface.co/blog/ibm-research/altk-evolve-consistency)** — Hugging Face
-
-**🚀 [AI for Societal Impact](https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/)** — Google AI
-> Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.
-
-**🚀 [Building AI to accelerate science and improve lives](https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/)** — Google AI
-> The true measure of AI is who it helps. Here’s how it’s impacting lives today. We're focused on key areas where advanced technology can help make extraordinary progress …
-
-**🚀 [AI for everyone in every language](https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/)** — Google AI
-> We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed.
-
-**🚀 [New insights from Google’s AI & Economy ATLAS](https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/)** — Google AI
-> We’ve translated ATLAS’s millions of global data points into an interactive, open-access experience.
-
-**🤗 [deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash)** — Hugging Face Hub
-> 2800 curtidas no Hugging Face · image-text-to-text
+**🚀 [How to connect AI usage to business value](https://openai.com/index/how-to-connect-ai-usage-to-business-value)** — OpenAI
+> Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.
 
 **🤗 [Edge0/Edge0-35B-A3B-preview](https://huggingface.co/Edge0/Edge0-35B-A3B-preview)** — Hugging Face Hub
-> 3021 curtidas no Hugging Face · text-generation
+> 3278 curtidas no Hugging Face · text-generation
 
-**🤗 [openbmb/MiniCPM5-2B](https://huggingface.co/openbmb/MiniCPM5-2B)** — Hugging Face Hub
-> 1493 curtidas no Hugging Face · text-generation
+**🤗 [deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash)** — Hugging Face Hub
+> 2959 curtidas no Hugging Face · image-text-to-text
 
 **🤗 [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** — Hugging Face Hub
-> 15346 curtidas no Hugging Face · image-text-to-text
+> 15491 curtidas no Hugging Face · image-text-to-text
 
 **🤗 [m-a-p/YuE2-3B](https://huggingface.co/m-a-p/YuE2-3B)** — Hugging Face Hub
-> 607 curtidas no Hugging Face · text-to-audio
+> 692 curtidas no Hugging Face · text-to-audio
 
-**🤗 [nex-agi/Nex-N2.5-mini](https://huggingface.co/nex-agi/Nex-N2.5-mini)** — Hugging Face Hub
-> 817 curtidas no Hugging Face · text-generation
+**🤗 [openbmb/MiniCPM5-2B](https://huggingface.co/openbmb/MiniCPM5-2B)** — Hugging Face Hub
+> 1532 curtidas no Hugging Face · text-generation
 
 **🤗 [ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF)** — Hugging Face Hub
-> 1169 curtidas no Hugging Face · image-text-to-text
+> 1236 curtidas no Hugging Face · image-text-to-text
 
 **🤗 [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)** — Hugging Face Hub
-> 4069 curtidas no Hugging Face · image-to-video
+> 4184 curtidas no Hugging Face · image-to-video
 
 **🤗 [TokenRhythm/NeoHorse-1-4B](https://huggingface.co/TokenRhythm/NeoHorse-1-4B)** — Hugging Face Hub
-> 2099 curtidas no Hugging Face · text-generation
+> 2230 curtidas no Hugging Face · text-generation
 
-**🤗 [unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF)** — Hugging Face Hub
-> 4196 curtidas no Hugging Face
+**🤗 [ukisai/Swift-Qwen3.8-27b](https://huggingface.co/ukisai/Swift-Qwen3.8-27b)** — Hugging Face Hub
+> 367 curtidas no Hugging Face · image-text-to-text
+
+**🤗 [DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF)** — Hugging Face Hub
+> 829 curtidas no Hugging Face · image-text-to-text
 
 ## 📄 Pesquisas recentes (15)
-- [Agentic Societies Need a Social Harness](http://arxiv.org/abs/2609.17527v1)
-- [ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents](http://arxiv.org/abs/2609.17523v1)
-- [PhysStream: Streaming Physics-Grounded Video Generation with Structured Scene Memory and Fine-Grained Motion Control](http://arxiv.org/abs/2609.17521v1)
-- [When Should LLMs Abstain? Chain-of-Self-Questioning for Selective Risk Control](http://arxiv.org/abs/2609.17516v1)
-- [What Breaks Under Pruning in Smart Homes, and When? Evaluating LLM Degradation Across Architectures and Task Complexity](http://arxiv.org/abs/2609.17515v1)
-- [LACE: Layer-Wise Compression for Dynamic Frame Rate Codecs](http://arxiv.org/abs/2609.17509v1)
-- [ENCP: Episode-Normalized Conformal Prediction for Vision-and-Language Navigation](http://arxiv.org/abs/2609.17499v1)
-- [Verifiable Social Reasoning for LLM Assistants](http://arxiv.org/abs/2609.17496v1)
+- [Objective vs. Search: Decomposing What Makes a Good Tokeniser](http://arxiv.org/abs/2609.19145v1)
+- [A Zeroth-Order Paradigm for LLM Preference Alignment](http://arxiv.org/abs/2609.19144v1)
+- [PANORAMA: Panoptic Grounded Captioning via Mask Proposal Selection](http://arxiv.org/abs/2609.19143v1)
+- [Dreaming the Sound of Contact: Leveraging Video and Audio Generation for Zero-Shot Force-Aware Manipulation and Data Generation](http://arxiv.org/abs/2609.19137v1)
+- [ScienceIDE: Turning World's Scientific Codebase into Agent Learnable Environments](http://arxiv.org/abs/2609.19134v1)
+- [Cognitive Extensions for Dual-Process Language Agents: Memory and Self-Reflection in Interactive Environments](http://arxiv.org/abs/2609.19128v1)
+- [Affora: A Design System for Agent-Friendly Interfaces](http://arxiv.org/abs/2609.19125v1)
+- [Flag Game: A Toy Model for Mechanistic Swarm Interpretability](http://arxiv.org/abs/2609.19124v1)
 - …e mais 7 artigos no dashboard
 
 ---
