@@ -1,57 +1,57 @@
-# 🛰️ Resumo Diário de IA — 2026-09-17
+# 🛰️ Resumo Diário de IA — 2026-09-18
 
 ## 🚀 Lançamentos e novidades (14)
-**🚀 [Our framework for reporting model misalignment](https://openai.com/index/model-misalignment-reporting-framework)** — OpenAI
-> OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.
+**🚀 [New experts join Google’s AI & Economy team](https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/)** — Google AI
+> We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.
 
-**🚀 [Helping older adults use AI in everyday life](https://openai.com/index/helping-older-adults-use-ai-in-everyday-life)** — OpenAI
-> OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.
+**🚀 [Co-creating the future of fashion with Google](https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/)** — Google AI
+> Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.
 
-**🚀 [Reimagining advertising with AI](https://openai.com/index/reimagining-advertising-with-ai)** — OpenAI
-> Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.
+**🚀 [Making global data easier to explore](https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/)** — Google AI
+> Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.
 
-**🚀 [How to connect AI usage to business value](https://openai.com/index/how-to-connect-ai-usage-to-business-value)** — OpenAI
-> Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.
+**🚀 [How Cooley is accelerating IPO work with ChatGPT](https://openai.com/index/cooley-gopublic)** — OpenAI
+> Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.
 
 **🤗 [Edge0/Edge0-35B-A3B-preview](https://huggingface.co/Edge0/Edge0-35B-A3B-preview)** — Hugging Face Hub
-> 3278 curtidas no Hugging Face · text-generation
+> 3375 curtidas no Hugging Face · text-generation
 
 **🤗 [deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash)** — Hugging Face Hub
-> 2959 curtidas no Hugging Face · image-text-to-text
+> 3115 curtidas no Hugging Face · image-text-to-text
+
+**🤗 [prism-ml/Ternary-Bonsai-2-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf)** — Hugging Face Hub
+> 712 curtidas no Hugging Face · text-generation
 
 **🤗 [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** — Hugging Face Hub
-> 15491 curtidas no Hugging Face · image-text-to-text
+> 15608 curtidas no Hugging Face · image-text-to-text
 
 **🤗 [m-a-p/YuE2-3B](https://huggingface.co/m-a-p/YuE2-3B)** — Hugging Face Hub
-> 692 curtidas no Hugging Face · text-to-audio
-
-**🤗 [openbmb/MiniCPM5-2B](https://huggingface.co/openbmb/MiniCPM5-2B)** — Hugging Face Hub
-> 1532 curtidas no Hugging Face · text-generation
-
-**🤗 [ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF)** — Hugging Face Hub
-> 1236 curtidas no Hugging Face · image-text-to-text
-
-**🤗 [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)** — Hugging Face Hub
-> 4184 curtidas no Hugging Face · image-to-video
+> 777 curtidas no Hugging Face · text-to-audio
 
 **🤗 [TokenRhythm/NeoHorse-1-4B](https://huggingface.co/TokenRhythm/NeoHorse-1-4B)** — Hugging Face Hub
-> 2230 curtidas no Hugging Face · text-generation
+> 2361 curtidas no Hugging Face · text-generation
+
+**🤗 [ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF)** — Hugging Face Hub
+> 1292 curtidas no Hugging Face · image-text-to-text
+
+**🤗 [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)** — Hugging Face Hub
+> 4290 curtidas no Hugging Face · image-to-video
 
 **🤗 [ukisai/Swift-Qwen3.8-27b](https://huggingface.co/ukisai/Swift-Qwen3.8-27b)** — Hugging Face Hub
-> 367 curtidas no Hugging Face · image-text-to-text
+> 425 curtidas no Hugging Face · image-text-to-text
 
 **🤗 [DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF)** — Hugging Face Hub
-> 829 curtidas no Hugging Face · image-text-to-text
+> 879 curtidas no Hugging Face · image-text-to-text
 
 ## 📄 Pesquisas recentes (15)
-- [Objective vs. Search: Decomposing What Makes a Good Tokeniser](http://arxiv.org/abs/2609.19145v1)
-- [A Zeroth-Order Paradigm for LLM Preference Alignment](http://arxiv.org/abs/2609.19144v1)
-- [PANORAMA: Panoptic Grounded Captioning via Mask Proposal Selection](http://arxiv.org/abs/2609.19143v1)
-- [Dreaming the Sound of Contact: Leveraging Video and Audio Generation for Zero-Shot Force-Aware Manipulation and Data Generation](http://arxiv.org/abs/2609.19137v1)
-- [ScienceIDE: Turning World's Scientific Codebase into Agent Learnable Environments](http://arxiv.org/abs/2609.19134v1)
-- [Cognitive Extensions for Dual-Process Language Agents: Memory and Self-Reflection in Interactive Environments](http://arxiv.org/abs/2609.19128v1)
-- [Affora: A Design System for Agent-Friendly Interfaces](http://arxiv.org/abs/2609.19125v1)
-- [Flag Game: A Toy Model for Mechanistic Swarm Interpretability](http://arxiv.org/abs/2609.19124v1)
+- [Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation](http://arxiv.org/abs/2609.20822v1)
+- [Embedding Models Measure in Peculiar Ways](http://arxiv.org/abs/2609.20821v1)
+- [Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision](http://arxiv.org/abs/2609.20820v1)
+- [FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations](http://arxiv.org/abs/2609.20817v1)
+- [Paint-Anything: Unified Any-Color Control for Image Generation and Editing](http://arxiv.org/abs/2609.20816v1)
+- [ERCPMP-Gx: Endoscopic Image and Video Dataset for Morphological, Histopathological, and Genomic Characterization of Colorectal Polyposis](http://arxiv.org/abs/2609.20815v1)
+- [Quantifying Overclaiming Propensity in Frontier LLM Agents](http://arxiv.org/abs/2609.20812v1)
+- [Unifying Models of Intergroup Hostility in Online Discourse](http://arxiv.org/abs/2609.20808v1)
 - …e mais 7 artigos no dashboard
 
 ---
