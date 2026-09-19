@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-18",
-  "generated_at": "2026-09-18T14:47:24.041536+00:00",
-  "count": 29,
+  "date": "2026-09-19",
+  "generated_at": "2026-09-19T14:10:49.446240+00:00",
+  "count": 13,
   "items": [
     {
       "source": "Google AI",
@@ -20,146 +20,18 @@
       "category": "release"
     },
     {
-      "source": "Google AI",
-      "title": "Making global data easier to explore",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
-      "summary": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
-      "published": "2026-09-17T20:00:00+00:00",
-      "category": "release"
-    },
-    {
-      "source": "arXiv",
-      "title": "Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation",
-      "link": "http://arxiv.org/abs/2609.20822v1",
-      "summary": "Coding agents have emerged as a promising paradigm for robot manipulation: a language model writes the robot controller as a program, and agents built in this way now operate robots without…",
-      "published": "2026-09-17T17:59:58+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "Embedding Models Measure in Peculiar Ways",
-      "link": "http://arxiv.org/abs/2609.20821v1",
-      "summary": "Embedding spaces define notions of semantic similarity and distance. We study whether those embeddings reflect physical measurements of mass, distance, time and volume, which admit a unique,…",
-      "published": "2026-09-17T17:59:54+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision",
-      "link": "http://arxiv.org/abs/2609.20820v1",
-      "summary": "Complex robotic manipulation tasks frequently require a long-term memory of past events and actions. As conditioning on full histories renders policies prone to spurious correlations and degrades…",
-      "published": "2026-09-17T17:59:53+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations",
-      "link": "http://arxiv.org/abs/2609.20817v1",
-      "summary": "Modeling articulated objects from sparse monocular views is challenging because each observation reveals only partial geometry and motion evidence. Most feed-forward methods infer articulation from a…",
-      "published": "2026-09-17T17:59:40+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "Paint-Anything: Unified Any-Color Control for Image Generation and Editing",
-      "link": "http://arxiv.org/abs/2609.20816v1",
-      "summary": "Professional design requires any-color control: the ability to specify an object's target color with any 24-bit hex value for image generation and editing. Prior work has explored color generation,…",
-      "published": "2026-09-17T17:59:30+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "ERCPMP-Gx: Endoscopic Image and Video Dataset for Morphological, Histopathological, and Genomic Characterization of Colorectal Polyposis",
-      "link": "http://arxiv.org/abs/2609.20815v1",
-      "summary": "Hereditary polyposis syndromes can be precursor lesions to colorectal cancer and are associated with a broad spectrum of extracolonic tumors. Early identification and accurate classification of these…",
-      "published": "2026-09-17T17:59:28+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "Quantifying Overclaiming Propensity in Frontier LLM Agents",
-      "link": "http://arxiv.org/abs/2609.20812v1",
-      "summary": "Frontier coding agents are increasingly trusted to work autonomously for long periods, yet an agent's final response is often the only account of that work a user sees. We quantify the propensity of…",
-      "published": "2026-09-17T17:59:04+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "Unifying Models of Intergroup Hostility in Online Discourse",
-      "link": "http://arxiv.org/abs/2609.20808v1",
-      "summary": "Hostile rhetoric toward social groups can normalize exclusion and justify mistreatment, as well as contribute to rising polarization and political violence. Efforts to moderate hostile rhetoric in…",
-      "published": "2026-09-17T17:58:25+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "An Empirical Study of Harness Design for Coding Agents",
-      "link": "http://arxiv.org/abs/2609.20804v1",
-      "summary": "Coding harnesses shape how autonomous coding agents translate model capabilities into long-horizon software-engineering performance, yet existing work typically evaluates harnesses as monolithic…",
-      "published": "2026-09-17T17:58:07+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "JEPA-Anything: Learning Predictive Models across Different Worlds",
-      "link": "http://arxiv.org/abs/2609.20800v1",
-      "summary": "World modeling enables intelligence to anticipate consequences, guide interventions, and learn from interaction. Yet predictive models remain domain-specific: can a common learning principle support…",
-      "published": "2026-09-17T17:55:57+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "RetireOPD: Self-Retiring On-Policy Distillation for Agentic Reinforcement Learning",
-      "link": "http://arxiv.org/abs/2609.20784v1",
-      "summary": "Multi-turn agents trained with reinforcement learning (RL) receive a single scalar reward per trajectory, which motivates self on-policy distillation (OPD) to supply dense token-level supervision…",
-      "published": "2026-09-17T17:52:08+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "Harm Laundering in GPT Models: Evidence That Gender Discrimination Is Transformed Rather Than Reduced Across Safety-Trained Generations",
-      "link": "http://arxiv.org/abs/2609.20779v1",
-      "summary": "Safety evaluations for large language models rely on surface-form classifiers that report declining harm scores across model generations. We provide evidence that this methodology is systematically…",
-      "published": "2026-09-17T17:49:28+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "GeoAAC: Geometry-Based Adaptive Action Chunking from Denoising Trajectories in VLA Policies",
-      "link": "http://arxiv.org/abs/2609.20776v1",
-      "summary": "Action chunking is widely used for action generation and execution in Vision-Language-Action (VLA) policies, yet existing approaches commonly use a fixed action horizon. During a rollout, different…",
-      "published": "2026-09-17T17:48:07+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "Semantic Action Graph: A Shared Representation for Agent Grounding and Human Interpretation of Sports Highlights",
-      "link": "http://arxiv.org/abs/2609.20768v1",
-      "summary": "Generative agents are increasingly used to select and narrate video highlights, but they typically operate over unstructured or frame-level representations. Their output is consequently difficult for…",
-      "published": "2026-09-17T17:46:03+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "Prediction-Powered Smoothing and Validation for Disaggregated AI Evaluation",
-      "link": "http://arxiv.org/abs/2609.20758v1",
-      "summary": "Evaluating an AI system requires disaggregated assessment, as performance varies across domains such as benchmark task types or conversation types in deployed agents. Exhaustive testing is expensive,…",
-      "published": "2026-09-17T17:42:29+00:00",
-      "category": "paper"
-    },
-    {
       "source": "OpenAI",
-      "title": "How Cooley is accelerating IPO work with ChatGPT",
-      "link": "https://openai.com/index/cooley-gopublic",
-      "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
-      "published": "2026-09-17T12:00:00+00:00",
+      "title": "Introducing the Australian Youth Safety Blueprint",
+      "link": "https://openai.com/index/australian-youth-safety-blueprint",
+      "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+      "published": "2026-09-18T12:00:00+00:00",
       "category": "release"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "Edge0/Edge0-35B-A3B-preview",
-      "link": "https://huggingface.co/Edge0/Edge0-35B-A3B-preview",
-      "summary": "3375 curtidas no Hugging Face · text-generation",
+      "title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+      "link": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
+      "summary": "1090 curtidas no Hugging Face · text-generation",
       "published": "",
       "category": "model_upload"
     },
@@ -167,15 +39,7 @@
       "source": "Hugging Face Hub",
       "title": "deepseek-ai/DeepSeek-V4.1-Flash",
       "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
-      "summary": "3115 curtidas no Hugging Face · image-text-to-text",
-      "published": "",
-      "category": "model_upload"
-    },
-    {
-      "source": "Hugging Face Hub",
-      "title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
-      "link": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
-      "summary": "712 curtidas no Hugging Face · text-generation",
+      "summary": "3259 curtidas no Hugging Face · image-text-to-text",
       "published": "",
       "category": "model_upload"
     },
@@ -183,7 +47,7 @@
       "source": "Hugging Face Hub",
       "title": "Qwen/Qwen3.8-27B",
       "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
-      "summary": "15608 curtidas no Hugging Face · image-text-to-text",
+      "summary": "15710 curtidas no Hugging Face · image-text-to-text",
       "published": "",
       "category": "model_upload"
     },
@@ -191,15 +55,15 @@
       "source": "Hugging Face Hub",
       "title": "m-a-p/YuE2-3B",
       "link": "https://huggingface.co/m-a-p/YuE2-3B",
-      "summary": "777 curtidas no Hugging Face · text-to-audio",
+      "summary": "848 curtidas no Hugging Face · text-to-audio",
       "published": "",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "TokenRhythm/NeoHorse-1-4B",
-      "link": "https://huggingface.co/TokenRhythm/NeoHorse-1-4B",
-      "summary": "2361 curtidas no Hugging Face · text-generation",
+      "title": "XingChen-AGI/Xing4.0-29B-A4B",
+      "link": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
+      "summary": "596 curtidas no Hugging Face · text-generation",
       "published": "",
       "category": "model_upload"
     },
@@ -207,15 +71,7 @@
       "source": "Hugging Face Hub",
       "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
       "link": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-      "summary": "1292 curtidas no Hugging Face · image-text-to-text",
-      "published": "",
-      "category": "model_upload"
-    },
-    {
-      "source": "Hugging Face Hub",
-      "title": "Lightricks/LTX-2.5",
-      "link": "https://huggingface.co/Lightricks/LTX-2.5",
-      "summary": "4290 curtidas no Hugging Face · image-to-video",
+      "summary": "1388 curtidas no Hugging Face · image-text-to-text",
       "published": "",
       "category": "model_upload"
     },
@@ -223,7 +79,23 @@
       "source": "Hugging Face Hub",
       "title": "ukisai/Swift-Qwen3.8-27b",
       "link": "https://huggingface.co/ukisai/Swift-Qwen3.8-27b",
-      "summary": "425 curtidas no Hugging Face · image-text-to-text",
+      "summary": "466 curtidas no Hugging Face · image-text-to-text",
+      "published": "",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "Lightricks/LTX-2.5",
+      "link": "https://huggingface.co/Lightricks/LTX-2.5",
+      "summary": "4389 curtidas no Hugging Face · image-to-video",
+      "published": "",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "harshatheg/Qwen-2.5-1B-RLCD",
+      "link": "https://huggingface.co/harshatheg/Qwen-2.5-1B-RLCD",
+      "summary": "414 curtidas no Hugging Face · text-generation",
       "published": "",
       "category": "model_upload"
     },
@@ -231,7 +103,7 @@
       "source": "Hugging Face Hub",
       "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
       "link": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-      "summary": "879 curtidas no Hugging Face · image-text-to-text",
+      "summary": "941 curtidas no Hugging Face · image-text-to-text",
       "published": "",
       "category": "model_upload"
     }
