@@ -1,8 +1,144 @@
 {
-  "date": "2026-09-21",
-  "generated_at": "2026-09-21T16:47:15.513926+00:00",
-  "count": 13,
+  "date": "2026-09-22",
+  "generated_at": "2026-09-22T15:25:23.121211+00:00",
+  "count": 31,
   "items": [
+    {
+      "source": "Hugging Face",
+      "title": "Transformers now runs llama.cpp quants",
+      "link": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+      "summary": "",
+      "published": "2026-09-22T00:00:00+00:00",
+      "category": "release"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+      "link": "https://huggingface.co/blog/omlx",
+      "summary": "",
+      "published": "2026-09-22T00:00:00+00:00",
+      "category": "release"
+    },
+    {
+      "source": "arXiv",
+      "title": "GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay",
+      "link": "http://arxiv.org/abs/2609.25001v1",
+      "summary": "Modern video games provide a measurable testbed for AI models, combining abilities of visual understanding, instruction decomposition, goal planning, and precise action control over multiple temporal…",
+      "published": "2026-09-21T17:59:33+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "Critical-State RL: Diagnosing Trainable States for Multi-Turn Tool Use",
+      "link": "http://arxiv.org/abs/2609.24985v1",
+      "summary": "Multi-turn tool-use failures can hinge on a single model call, yet reward variation alone does not reveal which call would benefit from training. When rewards depend on later interactions, their…",
+      "published": "2026-09-21T17:57:20+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory",
+      "link": "http://arxiv.org/abs/2609.24984v1",
+      "summary": "Video world models enable interactive exploration of dynamic environments, yet struggle to respect prior observations over long horizons and across viewpoints. We present WorldCrafter, a video world…",
+      "published": "2026-09-21T17:57:06+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "onPanda: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction",
+      "link": "http://arxiv.org/abs/2609.24983v1",
+      "summary": "We present onPanda, an interactive tool for efficiently annotating LLM alignment data and agent trajectories. onPanda adopts token-level correction as its core interaction: while reading a model…",
+      "published": "2026-09-21T17:56:53+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "DexTacWAM: A Visuo-Tactile World-Action Model for Dexterous Manipulation",
+      "link": "http://arxiv.org/abs/2609.24976v1",
+      "summary": "Dexterous manipulation depends on contact dynamics that are often only partially observable from vision. Recent World-Action Models (WAMs) couple predictive video world modeling with action…",
+      "published": "2026-09-21T17:55:24+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "Harness-Zero: Harness Distillation via Agent-as-Harness",
+      "link": "http://arxiv.org/abs/2609.24974v1",
+      "summary": "Agent harnesses, the external systems that mediate model-environment interaction, can substantially improve agent performance, but their gains remain tied to the harness at deployment. Because the…",
+      "published": "2026-09-21T17:55:20+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses",
+      "link": "http://arxiv.org/abs/2609.24972v1",
+      "summary": "An LLM agent's capability is largely magnified by its harness, namely the prompts, control flow, tooling, memory, and context management surrounding the frozen backbone model. Recent methods…",
+      "published": "2026-09-21T17:54:49+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "DolphinBench: Mapping the Pareto Frontier of Agent Memory",
+      "link": "http://arxiv.org/abs/2609.24971v1",
+      "summary": "Agents today often take real-world actions that depend on long-term memory and context recall over time. However, most current memory benchmarks are built for a conversational question-answer format,…",
+      "published": "2026-09-21T17:54:35+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "Rare Event Estimation via Iterative Unalignment",
+      "link": "http://arxiv.org/abs/2609.24969v1",
+      "summary": "As agents are deployed with increased autonomy, even extremely rare events along their stochastic output trajectories can occur and prove catastrophic. Safe deployment therefore does not depend on…",
+      "published": "2026-09-21T17:53:38+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "Emergent Collusion in Long-Horizon LLM Agent Interaction",
+      "link": "http://arxiv.org/abs/2609.24967v1",
+      "summary": "LLM agents are increasingly deployed in collaborative settings, yet long-term interaction may give rise to undesirable coordination. We study the emergence of collusion in a long-horizon multi-agent…",
+      "published": "2026-09-21T17:52:48+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "Jev for Scientific Decisions: Evaluating Semantic Choices and Their Consequences",
+      "link": "http://arxiv.org/abs/2609.24965v1",
+      "summary": "Scientific workflows often require choosing among known relations before a deterministic calculation can proceed. Whether observations share a culture, treatment or reference standard can change the…",
+      "published": "2026-09-21T17:51:50+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "Generative Tutorial: Towards Live Contextualized Visual Instructions for Physical Tasks",
+      "link": "http://arxiv.org/abs/2609.24955v1",
+      "summary": "Visual instructions for physical tasks are typically authored in one context and followed in another, requiring users to translate demonstrated tools, materials, and spatial relationships into their…",
+      "published": "2026-09-21T17:46:25+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "Exactness at Inference: A Representational Criterion for Out-of-Distribution Generalization",
+      "link": "http://arxiv.org/abs/2609.24942v1",
+      "summary": "A model generalizes outside its training distribution only when it computes a representation structurally equivalent to the generating mechanism, not an approximation fitted to it. Such equivalence…",
+      "published": "2026-09-21T17:39:51+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "Linguistic Features for Interpretable Textual Entailment",
+      "link": "http://arxiv.org/abs/2609.24932v1",
+      "summary": "Despite the success of neural models in natural language processing, their black-box nature limits interpretability and conceals the linguistic phenomena underlying their predictions. We present…",
+      "published": "2026-09-21T17:26:30+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "Et Tu, Brute? Economic Misalignment in Personal AI Agents",
+      "link": "http://arxiv.org/abs/2609.24927v1",
+      "summary": "Personal AI agents make recommendations and take actions on people's behalf in high-stakes economic contexts, e.g., buying a flight, choosing health insurance, or selecting a graduate program. The…",
+      "published": "2026-09-21T17:22:44+00:00",
+      "category": "paper"
+    },
     {
       "source": "Hugging Face",
       "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
@@ -13,33 +149,41 @@
     },
     {
       "source": "OpenAI",
-      "title": "How V7 gives AI agents institutional memory",
-      "link": "https://openai.com/index/v7",
-      "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
-      "published": "2026-09-21T00:00:00+00:00",
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+      "published": "2026-09-21T12:00:00+00:00",
       "category": "release"
     },
     {
-      "source": "Hugging Face",
-      "title": "tokenizers v1: encode, decode and scaling, measured",
-      "link": "https://huggingface.co/blog/tokenizers-v1",
-      "summary": "",
-      "published": "2026-09-21T00:00:00+00:00",
+      "source": "OpenAI",
+      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+      "published": "2026-09-21T12:00:00+00:00",
       "category": "release"
     },
     {
-      "source": "Hugging Face Hub",
-      "title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
-      "link": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
-      "summary": "1685 curtidas no Hugging Face · text-generation",
-      "published": "",
-      "category": "model_upload"
+      "source": "OpenAI",
+      "title": "Building standards for the next phase of AI",
+      "link": "https://openai.com/index/building-standards-next-phase-ai",
+      "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+      "published": "2026-09-21T10:00:00+00:00",
+      "category": "release"
     },
     {
       "source": "Hugging Face Hub",
       "title": "convaiinnovations/laya",
       "link": "https://huggingface.co/convaiinnovations/laya",
-      "summary": "1572 curtidas no Hugging Face · text-classification",
+      "summary": "2306 curtidas no Hugging Face · text-classification",
+      "published": "",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+      "link": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
+      "summary": "1835 curtidas no Hugging Face · text-generation",
       "published": "",
       "category": "model_upload"
     },
@@ -47,7 +191,7 @@
       "source": "Hugging Face Hub",
       "title": "Qwen/Qwen-Image-2.1",
       "link": "https://huggingface.co/Qwen/Qwen-Image-2.1",
-      "summary": "1299 curtidas no Hugging Face · text-to-image",
+      "summary": "1691 curtidas no Hugging Face · text-to-image",
       "published": "",
       "category": "model_upload"
     },
@@ -55,47 +199,7 @@
       "source": "Hugging Face Hub",
       "title": "XingChen-AGI/Xing4.0-29B-A4B",
       "link": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
-      "summary": "1054 curtidas no Hugging Face · text-generation",
-      "published": "",
-      "category": "model_upload"
-    },
-    {
-      "source": "Hugging Face Hub",
-      "title": "deepseek-ai/DeepSeek-V4.1-Flash",
-      "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
-      "summary": "3501 curtidas no Hugging Face · image-text-to-text",
-      "published": "",
-      "category": "model_upload"
-    },
-    {
-      "source": "Hugging Face Hub",
-      "title": "Qwen/Qwen3.8-27B",
-      "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
-      "summary": "15942 curtidas no Hugging Face · image-text-to-text",
-      "published": "",
-      "category": "model_upload"
-    },
-    {
-      "source": "Hugging Face Hub",
-      "title": "harshatheg/Qwen-2.5-1B-RLCD",
-      "link": "https://huggingface.co/harshatheg/Qwen-2.5-1B-RLCD",
-      "summary": "500 curtidas no Hugging Face · text-generation",
-      "published": "",
-      "category": "model_upload"
-    },
-    {
-      "source": "Hugging Face Hub",
-      "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-      "link": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-      "summary": "1519 curtidas no Hugging Face · image-text-to-text",
-      "published": "",
-      "category": "model_upload"
-    },
-    {
-      "source": "Hugging Face Hub",
-      "title": "m-a-p/YuE2-3B",
-      "link": "https://huggingface.co/m-a-p/YuE2-3B",
-      "summary": "938 curtidas no Hugging Face · text-to-audio",
+      "summary": "1281 curtidas no Hugging Face · text-generation",
       "published": "",
       "category": "model_upload"
     },
@@ -103,7 +207,47 @@
       "source": "Hugging Face Hub",
       "title": "abenzerps/Qwen-Image-2.1-GGUF",
       "link": "https://huggingface.co/abenzerps/Qwen-Image-2.1-GGUF",
-      "summary": "456 curtidas no Hugging Face · text-to-image",
+      "summary": "952 curtidas no Hugging Face · text-to-image",
+      "published": "",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "deepseek-ai/DeepSeek-V4.1-Flash",
+      "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+      "summary": "3593 curtidas no Hugging Face · image-text-to-text",
+      "published": "",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "Qwen/Qwen3.8-27B",
+      "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "summary": "16031 curtidas no Hugging Face · image-text-to-text",
+      "published": "",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "harshatheg/Qwen-2.5-1B-RLCD",
+      "link": "https://huggingface.co/harshatheg/Qwen-2.5-1B-RLCD",
+      "summary": "536 curtidas no Hugging Face · text-generation",
+      "published": "",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "Comfy-Org/Qwen-Image-2.1",
+      "link": "https://huggingface.co/Comfy-Org/Qwen-Image-2.1",
+      "summary": "531 curtidas no Hugging Face",
+      "published": "",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "Altworld/Hemmingway-1",
+      "link": "https://huggingface.co/Altworld/Hemmingway-1",
+      "summary": "465 curtidas no Hugging Face · text-generation",
       "published": "",
       "category": "model_upload"
     }
