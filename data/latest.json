@@ -1,8 +1,136 @@
 {
-  "date": "2026-09-24",
-  "generated_at": "2026-09-24T15:42:28.822013+00:00",
-  "count": 22,
+  "date": "2026-09-25",
+  "generated_at": "2026-09-25T15:43:52.727136+00:00",
+  "count": 27,
   "items": [
+    {
+      "source": "arXiv",
+      "title": "LLM Agents Can Easily Tamper With Their Own Traces",
+      "link": "http://arxiv.org/abs/2609.30266v1",
+      "summary": "Asynchronous monitoring, incident investigations, and compliance audits primarily rely on agent traces to reconstruct what happened. These analyses assume that LLM agents cannot tamper with their own…",
+      "published": "2026-09-24T17:59:54+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "AD-WM: Action-Discriminative World Models for Counterfactual Model Predictive Control",
+      "link": "http://arxiv.org/abs/2609.30264v1",
+      "summary": "Latent world models are typically trained to predict factual transitions, whereas model predictive control (MPC) must compare alternative actions from the same state. A model can therefore achieve…",
+      "published": "2026-09-24T17:59:41+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "Agentic Detection of Online Conspiracies",
+      "link": "http://arxiv.org/abs/2609.30250v1",
+      "summary": "Conspiratorial discourse on social media is not always expressed through explicit claims or stable lexical markers. The same surface content may express endorsement, legitimate concerns, criticism,…",
+      "published": "2026-09-24T17:58:43+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "RAPID: Robot Agentic Programming from Demonstrations",
+      "link": "http://arxiv.org/abs/2609.30249v1",
+      "summary": "Coding agents have demonstrated enormous success in solving complex programming problems. To leverage their potential for robot systems, this work introduces Robot Agentic Programming from…",
+      "published": "2026-09-24T17:58:21+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "Rolling-WAM: World Action Models with Rolling Imagination",
+      "link": "http://arxiv.org/abs/2609.30247v1",
+      "summary": "World Action Models (WAMs) couple action generation with future visual prediction for robotic manipulation. However, completing the joint video-action denoising process at each replanning cycle…",
+      "published": "2026-09-24T17:58:03+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "JevOut: Natural Context Can Flip Decision Models",
+      "link": "http://arxiv.org/abs/2609.30243v1",
+      "summary": "Dedicated decision models such as Jev map unstructured language to probability distributions over finite choices, allowing their outputs to directly route requests, select tools, and trigger actions.…",
+      "published": "2026-09-24T17:57:07+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "SemMSA: Latent Semantic-Aided Robust Multimodal Sentiment Analysis with Incomplete Data",
+      "link": "http://arxiv.org/abs/2609.30238v1",
+      "summary": "Recent research on Multimodal Sentiment Analysis (MSA) has focused on learning from language, visual, and acoustic modalities with incomplete data to infer human sentiment. Most studies typically…",
+      "published": "2026-09-24T17:55:31+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "Coding Agents for Generalized Task and Motion Planning Problems",
+      "link": "http://arxiv.org/abs/2609.30233v1",
+      "summary": "Task and motion planning (TAMP) problems remain difficult even with full observability and object-centric states because discrete decisions are tightly coupled to geometric, kinematic, and dynamic…",
+      "published": "2026-09-24T17:53:35+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "To Trust or Not to Trust: Retrieval-Augmented Fact Checking in Speech",
+      "link": "http://arxiv.org/abs/2609.30227v1",
+      "summary": "Online misinformation increasingly appears in spoken formats such as news clips, podcasts, interviews, political speeches, and social media videos, creating a need for fact-checking systems that can…",
+      "published": "2026-09-24T17:50:40+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "PoEM: Predicting RL Outcomes from Existing Policies",
+      "link": "http://arxiv.org/abs/2609.30226v1",
+      "summary": "Foundation models are post-trained with reinforcement learning (RL) to maximize specific rewards, such as human alignment, correctness, or instruction following. This post-training process is…",
+      "published": "2026-09-24T17:50:25+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "TrackEverything: Long Horizon Dense Tracking via De-Duplicating 3D Scene Representations",
+      "link": "http://arxiv.org/abs/2609.30222v1",
+      "summary": "Existing point tracking models face a fundamental tradeoff: they can either track a sparse set of query points over long horizons, or track all points across only short clips. We introduce…",
+      "published": "2026-09-24T17:48:20+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "Requirement-Bound Verified Commissioning: A Frozen Four-Billion-Parameter Local Model as a Candidate Generator under an External Acceptance Layer with Verification and Release Authority",
+      "link": "http://arxiv.org/abs/2609.30219v1",
+      "summary": "An acceptance protocol is developed for sensor-coordinate and polarity binding in mechatronic commissioning. Candidate generation is separated from release authority. Requirements unsupported by a…",
+      "published": "2026-09-24T17:46:53+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "Minimally Invasive Steering of Language Models",
+      "link": "http://arxiv.org/abs/2609.30218v1",
+      "summary": "Pre-logit steering adapts a frozen language model to a test-time reward by adding vectors to its final hidden states. Unregularized reward optimization can substantially alter the output distribution…",
+      "published": "2026-09-24T17:46:46+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "Instrumental Monitor Evasion Emerges Under Ordinary Task Pressure",
+      "link": "http://arxiv.org/abs/2609.30217v1",
+      "summary": "A central concern in AI safety is that agents may treat oversight as an obstacle when it conflicts with completing their goals. We study instrumental evasion, the propensity of LLM agents to…",
+      "published": "2026-09-24T17:46:27+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "Underwater C3-JEPA: An Object-Centric Cross-View World Model for ROV Salvage",
+      "link": "http://arxiv.org/abs/2609.30214v1",
+      "summary": "We present Underwater C$^{3}$-JEPA (cross-view, control-conditioned, context-extended), an object-centric multi-view predictive world model for near-field heavy-load underwater ROV salvage. Without…",
+      "published": "2026-09-24T17:45:42+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "DeepMind",
+      "title": "Introducing Gemini 3.8 Live with Live Avatar",
+      "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "summary": "",
+      "published": "2026-09-24T16:20:39+00:00",
+      "category": "release"
+    },
     {
       "source": "Hugging Face",
       "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
@@ -12,98 +140,10 @@
       "category": "release"
     },
     {
-      "source": "Hugging Face",
-      "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-      "link": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-      "summary": "",
-      "published": "2026-09-23T18:41:40+00:00",
-      "category": "release"
-    },
-    {
-      "source": "Google AI",
-      "title": "Google Beam expands with new regions, partners, and customers",
-      "link": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-      "summary": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
-      "published": "2026-09-23T18:00:00+00:00",
-      "category": "release"
-    },
-    {
-      "source": "DeepMind",
-      "title": "Advancing Private AI Compute with secure, server-side memory",
-      "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-      "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
-      "published": "2026-09-23T16:00:57+00:00",
-      "category": "release"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Two years of OpenAI Academy",
-      "link": "https://openai.com/index/two-years-of-openai-academy",
-      "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
-      "published": "2026-09-23T16:00:00+00:00",
-      "category": "release"
-    },
-    {
-      "source": "DeepMind",
-      "title": "Gemini 3.8 text-to-speech says hello",
-      "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
-      "summary": "",
-      "published": "2026-09-23T15:25:14+00:00",
-      "category": "release"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-      "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-      "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
-      "published": "2026-09-23T13:00:00+00:00",
-      "category": "release"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Sam Altman’s remarks at the United Nations Security Council",
-      "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
-      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-      "published": "2026-09-23T12:00:00+00:00",
-      "category": "release"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-      "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-      "published": "2026-09-23T12:00:00+00:00",
-      "category": "release"
-    },
-    {
-      "source": "OpenAI",
-      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-      "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-      "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
-      "published": "2026-09-23T12:00:00+00:00",
-      "category": "release"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-      "link": "https://openai.com/index/ringg",
-      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
-      "published": "2026-09-23T12:00:00+00:00",
-      "category": "release"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Introducing MentalHealthBench",
-      "link": "https://openai.com/index/introducing-mentalhealthbench",
-      "summary": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
-      "published": "2026-09-23T10:00:00+00:00",
-      "category": "release"
-    },
-    {
       "source": "Hugging Face Hub",
       "title": "convaiinnovations/laya",
       "link": "https://huggingface.co/convaiinnovations/laya",
-      "summary": "3317 curtidas no Hugging Face · text-classification",
+      "summary": "3597 curtidas no Hugging Face · text-classification",
       "published": "",
       "category": "model_upload"
     },
@@ -111,23 +151,7 @@
       "source": "Hugging Face Hub",
       "title": "Qwen/Qwen-Image-2.1",
       "link": "https://huggingface.co/Qwen/Qwen-Image-2.1",
-      "summary": "2150 curtidas no Hugging Face · text-to-image",
-      "published": "",
-      "category": "model_upload"
-    },
-    {
-      "source": "Hugging Face Hub",
-      "title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
-      "link": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
-      "summary": "1995 curtidas no Hugging Face · text-generation",
-      "published": "",
-      "category": "model_upload"
-    },
-    {
-      "source": "Hugging Face Hub",
-      "title": "XingChen-AGI/Xing4.0-29B-A4B",
-      "link": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
-      "summary": "1642 curtidas no Hugging Face · text-generation",
+      "summary": "2283 curtidas no Hugging Face · text-to-image",
       "published": "",
       "category": "model_upload"
     },
@@ -135,7 +159,23 @@
       "source": "Hugging Face Hub",
       "title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
       "link": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
-      "summary": "1576 curtidas no Hugging Face · text-to-image",
+      "summary": "1738 curtidas no Hugging Face · text-to-image",
+      "published": "",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "XingChen-AGI/Xing4.0-29B-A4B",
+      "link": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
+      "summary": "1682 curtidas no Hugging Face · text-generation",
+      "published": "",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+      "link": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
+      "summary": "2075 curtidas no Hugging Face · text-generation",
       "published": "",
       "category": "model_upload"
     },
@@ -143,7 +183,7 @@
       "source": "Hugging Face Hub",
       "title": "Comfy-Org/Qwen-Image-2.1",
       "link": "https://huggingface.co/Comfy-Org/Qwen-Image-2.1",
-      "summary": "657 curtidas no Hugging Face",
+      "summary": "716 curtidas no Hugging Face",
       "published": "",
       "category": "model_upload"
     },
@@ -151,23 +191,23 @@
       "source": "Hugging Face Hub",
       "title": "Altworld/Hemmingway-1",
       "link": "https://huggingface.co/Altworld/Hemmingway-1",
-      "summary": "617 curtidas no Hugging Face · text-generation",
+      "summary": "658 curtidas no Hugging Face · text-generation",
       "published": "",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "deepseek-ai/DeepSeek-V4.1-Flash",
-      "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
-      "summary": "3701 curtidas no Hugging Face · image-text-to-text",
+      "title": "Edge0/Audio8-ASR-Infinite",
+      "link": "https://huggingface.co/Edge0/Audio8-ASR-Infinite",
+      "summary": "543 curtidas no Hugging Face · automatic-speech-recognition",
       "published": "",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "Qwen/Qwen3.8-27B",
-      "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
-      "summary": "16193 curtidas no Hugging Face · image-text-to-text",
+      "title": "XiaomiMiMo/MiMo-V2.6-Pro-RL",
+      "link": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Pro-RL",
+      "summary": "491 curtidas no Hugging Face · text-generation",
       "published": "",
       "category": "model_upload"
     },
@@ -175,7 +215,7 @@
       "source": "Hugging Face Hub",
       "title": "TaichuAI/ZDTaichu5.0-9B",
       "link": "https://huggingface.co/TaichuAI/ZDTaichu5.0-9B",
-      "summary": "1034 curtidas no Hugging Face · image-text-to-text",
+      "summary": "1045 curtidas no Hugging Face · image-text-to-text",
       "published": "",
       "category": "model_upload"
     }
