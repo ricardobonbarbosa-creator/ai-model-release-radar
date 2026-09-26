@@ -8088,5 +8088,100 @@
         "category": "model_upload"
       }
     ]
+  },
+  {
+    "date": "2026-09-26",
+    "generated_at": "2026-09-26T14:53:01.281213+00:00",
+    "count": 11,
+    "items": [
+      {
+        "source": "OpenAI",
+        "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+        "link": "https://openai.com/index/proaction",
+        "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+        "published": "2026-09-25T19:00:00+00:00",
+        "category": "release"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "convaiinnovations/laya",
+        "link": "https://huggingface.co/convaiinnovations/laya",
+        "summary": "3807 curtidas no Hugging Face · text-classification",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Qwen/Qwen-Image-2.1",
+        "link": "https://huggingface.co/Qwen/Qwen-Image-2.1",
+        "summary": "2377 curtidas no Hugging Face · text-to-image",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+        "link": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+        "summary": "1883 curtidas no Hugging Face · text-to-image",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "XingChen-AGI/Xing4.0-29B-A4B",
+        "link": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
+        "summary": "1719 curtidas no Hugging Face · text-generation",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+        "link": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
+        "summary": "2113 curtidas no Hugging Face · text-generation",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Comfy-Org/Qwen-Image-2.1",
+        "link": "https://huggingface.co/Comfy-Org/Qwen-Image-2.1",
+        "summary": "763 curtidas no Hugging Face",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Altworld/Hemmingway-1",
+        "link": "https://huggingface.co/Altworld/Hemmingway-1",
+        "summary": "694 curtidas no Hugging Face · text-generation",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Edge0/Audio8-ASR-Infinite",
+        "link": "https://huggingface.co/Edge0/Audio8-ASR-Infinite",
+        "summary": "755 curtidas no Hugging Face · automatic-speech-recognition",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "XiaomiMiMo/MiMo-V2.6-Pro-RL",
+        "link": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Pro-RL",
+        "summary": "517 curtidas no Hugging Face · text-generation",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "TaichuAI/ZDTaichu5.0-9B",
+        "link": "https://huggingface.co/TaichuAI/ZDTaichu5.0-9B",
+        "summary": "1314 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      }
+    ]
   }
 ]
