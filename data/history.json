@@ -8270,5 +8270,108 @@
         "category": "model_upload"
       }
     ]
+  },
+  {
+    "date": "2026-09-28",
+    "generated_at": "2026-09-28T18:27:36.949507+00:00",
+    "count": 12,
+    "items": [
+      {
+        "source": "Hugging Face",
+        "title": "Holo4: powering generalist computer-use agents",
+        "link": "https://huggingface.co/blog/Hcompany/holo4",
+        "summary": "",
+        "published": "2026-09-28T09:44:05+00:00",
+        "category": "release"
+      },
+      {
+        "source": "OpenAI",
+        "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+        "link": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+        "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+        "published": "2026-09-28T07:00:00+00:00",
+        "category": "release"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "convaiinnovations/laya",
+        "link": "https://huggingface.co/convaiinnovations/laya",
+        "summary": "4256 curtidas no Hugging Face · text-classification",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+        "link": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+        "summary": "2222 curtidas no Hugging Face · text-to-image",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Edge0/Audio8-ASR-Infinite",
+        "link": "https://huggingface.co/Edge0/Audio8-ASR-Infinite",
+        "summary": "1366 curtidas no Hugging Face · automatic-speech-recognition",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Qwen/Qwen-Image-2.1",
+        "link": "https://huggingface.co/Qwen/Qwen-Image-2.1",
+        "summary": "2572 curtidas no Hugging Face · text-to-image",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "XingChen-AGI/Xing4.0-29B-A4B",
+        "link": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
+        "summary": "1798 curtidas no Hugging Face · text-generation",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "XingChen-AGI/TeleOCR",
+        "link": "https://huggingface.co/XingChen-AGI/TeleOCR",
+        "summary": "693 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "XiaomiMiMo/MiMo-V2.6-Pro-RL",
+        "link": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Pro-RL",
+        "summary": "577 curtidas no Hugging Face · text-generation",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B",
+        "link": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B",
+        "summary": "542 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "XiaomiMiMo/MiMo-V2.6-Flash-RL",
+        "link": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Flash-RL",
+        "summary": "509 curtidas no Hugging Face · text-generation",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+        "link": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
+        "summary": "2225 curtidas no Hugging Face · text-generation",
+        "published": "",
+        "category": "model_upload"
+      }
+    ]
   }
 ]
