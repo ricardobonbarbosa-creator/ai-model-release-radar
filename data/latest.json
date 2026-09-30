@@ -1,8 +1,152 @@
 {
-  "date": "2026-09-29",
-  "generated_at": "2026-09-29T16:47:38.211128+00:00",
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T16:39:28.569135+00:00",
   "count": 30,
   "items": [
+    {
+      "source": "DeepMind",
+      "title": "Introducing SynthID Bio",
+      "link": "https://deepmind.google/blog/introducing-synthid-bio/",
+      "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+      "published": "2026-09-30T15:03:07+00:00",
+      "category": "release"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Helping small businesses put AI to work",
+      "link": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+      "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
+      "published": "2026-09-30T10:00:00+00:00",
+      "category": "release"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+      "link": "https://huggingface.co/blog/open-tts-leaderboard",
+      "summary": "",
+      "published": "2026-09-30T00:00:00+00:00",
+      "category": "release"
+    },
+    {
+      "source": "arXiv",
+      "title": "Skill-Space Shooting for Autonomous Robot Policy Improvement",
+      "link": "http://arxiv.org/abs/2609.38178v1",
+      "summary": "Robots deployed in the physical world must be able to improve beyond their initial training as they encounter new situations and failures. For this improvement to scale across tasks, it must make…",
+      "published": "2026-09-29T17:59:55+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering",
+      "link": "http://arxiv.org/abs/2609.38177v1",
+      "summary": "Reasoning about the 3D world from multi-view images remains a fundamental challenge for Multimodal Large Language Models (MLLMs). While modern MLLMs handle single-image inputs effectively, they…",
+      "published": "2026-09-29T17:59:52+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization",
+      "link": "http://arxiv.org/abs/2609.38169v1",
+      "summary": "Linear attention replaces growing KV caches with fixed-size recurrent states, yet these persistent states can become a substantial memory bottleneck under concurrent serving. Directly quantizing…",
+      "published": "2026-09-29T17:59:40+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "LeapQuant: Efficient Linear Attention with Accurate Recurrent State Quantization",
+      "link": "http://arxiv.org/abs/2609.38166v1",
+      "summary": "Recent LLMs increasingly adopt hybrid designs that replace standard attention with linear attention, such as Gated DeltaNet (GDN) and Kimi Delta Attention (KDA). Although they compress the context…",
+      "published": "2026-09-29T17:59:34+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "EmoRES-TTS: Residual-Enhanced Vector Steering for Emotional Speech Generation",
+      "link": "http://arxiv.org/abs/2609.38157v1",
+      "summary": "Emotion-conditioned text-to-speech (TTS) models may fail to express the requested emotion reliably, and improving controllability by additional training is costly in both computation and…",
+      "published": "2026-09-29T17:59:05+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "Beyond the Timeline: Augmenting Long-Video Memory with Grounded Entity Biographies",
+      "link": "http://arxiv.org/abs/2609.38155v1",
+      "summary": "Answering questions about long videos often requires connecting events involving the same objects across hours or days. Chronological descriptions and text-derived entities can leave physical…",
+      "published": "2026-09-29T17:59:01+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "Pretraining Latent Information Feedback Transformers with Teacher Supervision",
+      "link": "http://arxiv.org/abs/2609.38149v1",
+      "summary": "Transformer language models (LMs) are feed-forward: deep-layer representations are never fed back to shallower layers, and the only pathway for information to flow downward across generation steps is…",
+      "published": "2026-09-29T17:57:40+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "Thinking Before Thinking: Scaling Agentic Inference Through Meta-Reasoning",
+      "link": "http://arxiv.org/abs/2609.38147v1",
+      "summary": "As agents take on longer and more complex problems, controlling the execution becomes a task in its own right. Each step in the run brings new control choices, like which partial work to build on,…",
+      "published": "2026-09-29T17:57:25+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "Learning Meta-Skills for Agent Harness Design in Test-Time AI4AI",
+      "link": "http://arxiv.org/abs/2609.38143v1",
+      "summary": "Agent performance depends on both reasoning ability and the environment in which it acts. We study test-time AI-for-AI, asking how a Builder can learn to construct better execution environments for a…",
+      "published": "2026-09-29T17:55:56+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "AdviSD: Learning to Advise Frontier LLMs via Targeted Multi-Turn Self-Distillation",
+      "link": "http://arxiv.org/abs/2609.38142v1",
+      "summary": "A small trainable advisor can steer a frozen language-model executor using natural-language advice. In addition to learning from task rewards, the advisor can use feedback from completed interactions…",
+      "published": "2026-09-29T17:55:40+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "Breaking the Uniformity Trap: Scaling Video Diffusion Model via SplitMoE",
+      "link": "http://arxiv.org/abs/2609.38140v1",
+      "summary": "Mixture-of-Experts (MoE), popularized by large language models, is a promising paradigm for scaling visual generative models. However, conventional token-wise MoE routes tokens independently within a…",
+      "published": "2026-09-29T17:55:19+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "LongHarness Bench: Stress-Testing Language Model Harnesses for Long-Context Reasoning",
+      "link": "http://arxiv.org/abs/2609.38137v1",
+      "summary": "Language-model (LM) harnesses enable LMs to operate effectively over long contexts using additional compute. However, existing long-context evaluations are insufficient for distinguishing modern…",
+      "published": "2026-09-29T17:55:07+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "Stochastic World Models for Verifying Vision-Based Neural Feedback Systems",
+      "link": "http://arxiv.org/abs/2609.38120v1",
+      "summary": "Verifying a vision-based neural feedback system requires a model of the observations its controller acts upon. Such a model must capture the variation the sensor produces, while remaining tractable…",
+      "published": "2026-09-29T17:50:40+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "From Routing Signals to Selective Review: Visual regrounding in MoE VLMs",
+      "link": "http://arxiv.org/abs/2609.38111v1",
+      "summary": "Vision-language models (VLMs) may accept false visual premises, answering questions about a target object's color, count, location, or state even when it is absent. We call this reliability-critical…",
+      "published": "2026-09-29T17:49:07+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "How Local Mixing Encodes Relative Position in Global NoPE Attention",
+      "link": "http://arxiv.org/abs/2609.38109v1",
+      "summary": "The attention operation is naively position invariant. However, positional information is fundamental to natural language, and therefore a variety of explicit position encodings have been developed…",
+      "published": "2026-09-29T17:47:41+00:00",
+      "category": "paper"
+    },
     {
       "source": "Hugging Face",
       "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
@@ -20,154 +164,10 @@
       "category": "release"
     },
     {
-      "source": "OpenAI",
-      "title": "How we will do better for Australia",
-      "link": "https://openai.com/index/how-we-will-do-better-for-australia",
-      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-      "published": "2026-09-28T19:00:00+00:00",
-      "category": "release"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Towards safety cases for frontier AI training",
-      "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-      "published": "2026-09-28T19:00:00+00:00",
-      "category": "release"
-    },
-    {
-      "source": "Google AI",
-      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
-      "summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "published": "2026-09-28T19:00:00+00:00",
-      "category": "release"
-    },
-    {
-      "source": "arXiv",
-      "title": "FurE: Efficient Instance-Specific 3D Fur Reconstruction without Animal-Fur Datasets",
-      "link": "http://arxiv.org/abs/2609.35770v1",
-      "summary": "Realistic and editable animal fur reconstruction from multi-view images is challenging due to fine-scale detail, self-occlusion and obfuscation, and, unlike human hair, the lack of animal-fur…",
-      "published": "2026-09-28T17:59:58+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "Telescopic Language Models",
-      "link": "http://arxiv.org/abs/2609.35769v1",
-      "summary": "One deployed language model must often serve many compute budgets, yet serving each budget still means a separate training or compression run per point. We train a Telescopic Language Model (TLM) to…",
-      "published": "2026-09-28T17:59:53+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "Learning Native Reflection in Unified Models with Interleaved Reinforcement Learning",
-      "link": "http://arxiv.org/abs/2609.35767v1",
-      "summary": "Unified multimodal models can both look at and render images, so in principle they can repair their own generations: diagnose what an image gets wrong, revise it, observe the result, and diagnose…",
-      "published": "2026-09-28T17:59:36+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "Retrieving Biblical Intertextual References in Karen Blixen's Seven Gothic Tales",
-      "link": "http://arxiv.org/abs/2609.35765v1",
-      "summary": "Identifying intertextual references is central to literary scholarship, but computationally difficult when source material is transformed through paraphrase, allusion, historical language, and…",
-      "published": "2026-09-28T17:59:27+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "Scaling Long-Form Story Generation via Narrative State Tracking",
-      "link": "http://arxiv.org/abs/2609.35759v1",
-      "summary": "LLMs have demonstrated strong capabilities in creative writing. However, scaling them to full-length novels remains challenging, as maintaining narrative consistency becomes increasingly difficult.…",
-      "published": "2026-09-28T17:59:09+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "TokenCast: Forecasting Token Consumption During LLM Agent Execution",
-      "link": "http://arxiv.org/abs/2609.35760v1",
-      "summary": "When a large language model (LLM) agent executes the same task, token consumption can vary by over an order of magnitude across runs. The agent chooses its next steps based on tool feedback and…",
-      "published": "2026-09-28T17:59:09+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "How to Loop MoE: Flatten the Experts, Untie the Attention",
-      "link": "http://arxiv.org/abs/2609.35751v1",
-      "summary": "Looped Transformers reuse one block of layers several times: by spending extra computation they push a model of fixed size further, and so use its parameters more fully; while sparse…",
-      "published": "2026-09-28T17:58:03+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "KV-streams for Efficient Compaction in Agentic Reinforcement Learning",
-      "link": "http://arxiv.org/abs/2609.35750v1",
-      "summary": "Scaling the horizon of agentic LLMs is bottlenecked by the need to fit ever longer context traces in GPU memory. Context compaction has been the most popular mechanism to alleviate this issue,…",
-      "published": "2026-09-28T17:57:42+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "Towards Communication-Efficient Social Intelligence in Language Agents",
-      "link": "http://arxiv.org/abs/2609.35749v1",
-      "summary": "Socially intelligent language agents must negotiate, coordinate, and resolve conflicting preferences while respecting the time and attention of both participants. Balancing these demands is…",
-      "published": "2026-09-28T17:57:16+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "Improving Test-Time Scaling with Adaptive Looped Transformers",
-      "link": "http://arxiv.org/abs/2609.35748v1",
-      "summary": "Looped transformers have demonstrated promising parameter efficiency by reusing layers for latent computation. Prior studies compare looped and non-looped models at matched parameters or per-token…",
-      "published": "2026-09-28T17:56:55+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "Copy the Same, Distill the Difference: Initializing Linear Vision Transformers",
-      "link": "http://arxiv.org/abs/2609.35745v1",
-      "summary": "Linear Vision Transformers (ViTs) are designed to replace the attention in Softmax ViTs with the linear-complexity attention operator for more efficient token routing, but they require from-scratch…",
-      "published": "2026-09-28T17:55:21+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "FinAutoRubric: Expert-Guided Automatic Rubric Generation for Evaluating Financial Research Agents",
-      "link": "http://arxiv.org/abs/2609.35744v1",
-      "summary": "Evaluating finance research agents requires rubrics that reflect expert standards and fix the values correct as of an information cutoff. Expert-reviewed finance benchmarks rely on fixed, per-item…",
-      "published": "2026-09-28T17:55:06+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "Shockingly Simple Self-retrospection Improves Agentic Models Without RL",
-      "link": "http://arxiv.org/abs/2609.35741v1",
-      "summary": "People learn not only by repeating successful actions, but also by recounting and explaining their experiences, revising their understanding to guide future behavior. Can a language-model agent…",
-      "published": "2026-09-28T17:54:24+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "Harness Learning Enables Generalizable Test-Time Adaptation",
-      "link": "http://arxiv.org/abs/2609.35738v1",
-      "summary": "A language-model agent is jointly defined by its model and its harness, the executable program that organizes model calls, tool use, and information flow. Because different tasks call for different…",
-      "published": "2026-09-28T17:52:54+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "Failure-Transparent Agents: Benchmarking Post-Failure Reporting in Tool-Using Language Models",
-      "link": "http://arxiv.org/abs/2609.35732v1",
-      "summary": "Tool-using agents can fail twice: a required tool can fail, and the agent can then report success without the evidence needed to justify it. Existing benchmarks often entangle this reporting failure…",
-      "published": "2026-09-28T17:51:41+00:00",
-      "category": "paper"
-    },
-    {
       "source": "Hugging Face Hub",
       "title": "convaiinnovations/laya",
       "link": "https://huggingface.co/convaiinnovations/laya",
-      "summary": "4470 curtidas no Hugging Face · text-classification",
+      "summary": "4618 curtidas no Hugging Face · text-classification",
       "published": "",
       "category": "model_upload"
     },
@@ -175,7 +175,7 @@
       "source": "Hugging Face Hub",
       "title": "Edge0/Audio8-ASR-Infinite",
       "link": "https://huggingface.co/Edge0/Audio8-ASR-Infinite",
-      "summary": "1476 curtidas no Hugging Face · automatic-speech-recognition",
+      "summary": "1647 curtidas no Hugging Face · automatic-speech-recognition",
       "published": "",
       "category": "model_upload"
     },
@@ -183,15 +183,7 @@
       "source": "Hugging Face Hub",
       "title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
       "link": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
-      "summary": "2384 curtidas no Hugging Face · text-to-image",
-      "published": "",
-      "category": "model_upload"
-    },
-    {
-      "source": "Hugging Face Hub",
-      "title": "Qwen/Qwen-Image-2.1",
-      "link": "https://huggingface.co/Qwen/Qwen-Image-2.1",
-      "summary": "2643 curtidas no Hugging Face · text-to-image",
+      "summary": "2509 curtidas no Hugging Face · text-to-image",
       "published": "",
       "category": "model_upload"
     },
@@ -199,7 +191,15 @@
       "source": "Hugging Face Hub",
       "title": "XingChen-AGI/TeleOCR",
       "link": "https://huggingface.co/XingChen-AGI/TeleOCR",
-      "summary": "859 curtidas no Hugging Face · image-text-to-text",
+      "summary": "1001 curtidas no Hugging Face · image-text-to-text",
+      "published": "",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "Qwen/Qwen-Image-2.1",
+      "link": "https://huggingface.co/Qwen/Qwen-Image-2.1",
+      "summary": "2701 curtidas no Hugging Face · text-to-image",
       "published": "",
       "category": "model_upload"
     },
@@ -207,15 +207,7 @@
       "source": "Hugging Face Hub",
       "title": "Contrastive-LM/CLM-v0.1-8B",
       "link": "https://huggingface.co/Contrastive-LM/CLM-v0.1-8B",
-      "summary": "514 curtidas no Hugging Face · text-ranking",
-      "published": "",
-      "category": "model_upload"
-    },
-    {
-      "source": "Hugging Face Hub",
-      "title": "XingChen-AGI/Xing4.0-29B-A4B",
-      "link": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
-      "summary": "1807 curtidas no Hugging Face · text-generation",
+      "summary": "555 curtidas no Hugging Face · text-ranking",
       "published": "",
       "category": "model_upload"
     },
@@ -223,23 +215,31 @@
       "source": "Hugging Face Hub",
       "title": "nvidia/Nemotron-3-Diarization",
       "link": "https://huggingface.co/nvidia/Nemotron-3-Diarization",
-      "summary": "499 curtidas no Hugging Face · voice-activity-detection",
+      "summary": "548 curtidas no Hugging Face · voice-activity-detection",
       "published": "",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "TaichuAI/ZDTaichu5.0-9B",
-      "link": "https://huggingface.co/TaichuAI/ZDTaichu5.0-9B",
-      "summary": "1947 curtidas no Hugging Face · image-text-to-text",
+      "title": "Qwen/Qwen3.8-27B",
+      "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "summary": "16622 curtidas no Hugging Face · image-text-to-text",
       "published": "",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "Viggle/Qwen-Image-2.1-viggle-turbo",
-      "link": "https://huggingface.co/Viggle/Qwen-Image-2.1-viggle-turbo",
-      "summary": "411 curtidas no Hugging Face · text-to-image",
+      "title": "Lightricks/LTX-2.5",
+      "link": "https://huggingface.co/Lightricks/LTX-2.5",
+      "summary": "5661 curtidas no Hugging Face · image-to-video",
+      "published": "",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+      "link": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
+      "summary": "2294 curtidas no Hugging Face · text-generation",
       "published": "",
       "category": "model_upload"
     }
