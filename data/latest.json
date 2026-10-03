@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-02",
-  "generated_at": "2026-10-02T16:29:16.595887+00:00",
-  "count": 31,
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03T15:03:02.449155+00:00",
+  "count": 13,
   "items": [
     {
       "source": "OpenAI",
@@ -28,162 +28,10 @@
       "category": "release"
     },
     {
-      "source": "Hugging Face",
-      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-      "link": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-      "summary": "",
-      "published": "2026-10-02T04:01:31+00:00",
-      "category": "release"
-    },
-    {
-      "source": "arXiv",
-      "title": "One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars",
-      "link": "http://arxiv.org/abs/2610.02207v1",
-      "summary": "3D Gaussian avatars support fast rendering, however, their real-time animation is often challenged by the costly neural inference. We address this bottleneck and show that the animation of pretrained…",
-      "published": "2026-10-01T17:59:58+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards",
-      "link": "http://arxiv.org/abs/2610.02206v1",
-      "summary": "LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analysts' intent into tool invocations. However, existing evaluations focus on knowledge-based…",
-      "published": "2026-10-01T17:59:55+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents",
-      "link": "http://arxiv.org/abs/2610.02204v1",
-      "summary": "Building reliable robot capabilities across diverse tasks requires substantial human effort to develop and maintain skills, design rewards, and integrate perception with control. We present…",
-      "published": "2026-10-01T17:59:50+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research",
-      "link": "http://arxiv.org/abs/2610.02202v1",
-      "summary": "What makes great scientists great? Even as AI systems start to make progress on open problems, scientists remain far ahead of them at sensing which prior idea, buried in an ever-growing archive of…",
-      "published": "2026-10-01T17:59:47+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation",
-      "link": "http://arxiv.org/abs/2610.02201v1",
-      "summary": "High-resolution 3D generation increasingly relies on voxel latents and multi-stage pipelines that first predict active structure and then synthesize local geometry. While effective, this design…",
-      "published": "2026-10-01T17:59:46+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "VISTA: A Visual Harness for Reasoning in an Interactive World",
-      "link": "http://arxiv.org/abs/2610.02200v1",
-      "summary": "We show that multimodal models possess strong reasoning abilities and that an appropriate harness can unlock their potential to solve tasks across diverse interactive environments. We introduce…",
-      "published": "2026-10-01T17:59:45+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "FERPO: Forward Entropy-Regularized Policy Optimization",
-      "link": "http://arxiv.org/abs/2610.02198v1",
-      "summary": "Several state-of-the-art methods for online reinforcement learning in continuous control improve policies using action gradients of a learned critic. However, critics are typically trained to predict…",
-      "published": "2026-10-01T17:59:41+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "Hierarchical Continuous Diffusion Language Models",
-      "link": "http://arxiv.org/abs/2610.02193v1",
-      "summary": "Discrete diffusion language models offer a compelling alternative to autoregressive generation for tasks demanding bidirectional reasoning and global constraint satisfaction. Yet they share a…",
-      "published": "2026-10-01T17:59:39+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "DMAD: Distribution Matching as Adversarial Distillation for Fast Visual Generation",
-      "link": "http://arxiv.org/abs/2610.02188v1",
-      "summary": "Distribution Matching Distillation (DMD) trains a few-step student from the difference between separately estimated target and student scores, so it must keep an auxiliary diffusion model fitted to…",
-      "published": "2026-10-01T17:59:01+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "Higher-Order Molecular Grammars for Generative and Foundation Models in Chemistry",
-      "link": "http://arxiv.org/abs/2610.02186v1",
-      "summary": "Molecular learning models are strongly shaped by their underlying representations. Yet standard sequential and graph formalisms struggle to explicitly encode higher-order topology, such as ring…",
-      "published": "2026-10-01T17:58:45+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "SoftServe: A Scalable Quasi-Newton Method for Deep Learning",
-      "link": "http://arxiv.org/abs/2610.02182v1",
-      "summary": "Quasi-Newton (QN) methods have long been among the most effective methods for large-scale unconstrained convex optimization. Two obstacles have limited their use in deep learning: non-convexity and…",
-      "published": "2026-10-01T17:58:24+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "Generative Cinematographer: Composing Camera and Object Motion in 3D",
-      "link": "http://arxiv.org/abs/2610.02180v1",
-      "summary": "Current controllable video generation systems often rely on 2D motion trajectories or sparse drag signals for object motion. These controls are ambiguous because the same 2D trajectory can correspond…",
-      "published": "2026-10-01T17:58:09+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "Every Ablation Is a Dose: Counterweights and the Semblance of Self-Repair",
-      "link": "http://arxiv.org/abs/2610.02173v1",
-      "summary": "Ablate a component of a language model, and other components often appear to adjust and compensate. This phenomenon, termed self-repair, has been observed repeatedly, but its mechanism remains…",
-      "published": "2026-10-01T17:57:04+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "Watch, Infer, Coordinate: Inferring Robot Partner Constraints for Zero-Shot Coordination",
-      "link": "http://arxiv.org/abs/2610.02170v1",
-      "summary": "Robots operating in the physical world will increasingly need to coordinate with other robots, particularly in manipulation tasks where an object may be too large or heavy for a single robot to carry…",
-      "published": "2026-10-01T17:56:04+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "AutoCompact: Learning When to Compact Context in Long-Horizon Coding Agents",
-      "link": "http://arxiv.org/abs/2610.02163v1",
-      "summary": "Coding agents solve repository-level software engineering tasks through long trajectories of code inspection, search, editing, and testing. As a task progresses, earlier exploration becomes stale, so…",
-      "published": "2026-10-01T17:54:34+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "OpenAI",
-      "title": "The eternal complement",
-      "link": "https://openai.com/index/the-eternal-complement",
-      "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
-      "published": "2026-10-01T17:00:00+00:00",
-      "category": "release"
-    },
-    {
-      "source": "OpenAI",
-      "title": "How Albertsons Companies is reimagining retail from the inside out",
-      "link": "https://openai.com/index/albertsons-reimagining-retail",
-      "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
-      "published": "2026-10-01T16:00:00+00:00",
-      "category": "release"
-    },
-    {
       "source": "Hugging Face Hub",
       "title": "convaiinnovations/laya",
       "link": "https://huggingface.co/convaiinnovations/laya",
-      "summary": "4927 curtidas no Hugging Face · text-classification",
-      "published": "",
-      "category": "model_upload"
-    },
-    {
-      "source": "Hugging Face Hub",
-      "title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
-      "link": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
-      "summary": "2788 curtidas no Hugging Face · text-to-image",
+      "summary": "5044 curtidas no Hugging Face · text-classification",
       "published": "",
       "category": "model_upload"
     },
@@ -191,7 +39,15 @@
       "source": "Hugging Face Hub",
       "title": "Cloudflare/clef",
       "link": "https://huggingface.co/Cloudflare/clef",
-      "summary": "652 curtidas no Hugging Face · image-text-to-text",
+      "summary": "924 curtidas no Hugging Face · image-text-to-text",
+      "published": "",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+      "link": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+      "summary": "2896 curtidas no Hugging Face · text-to-image",
       "published": "",
       "category": "model_upload"
     },
@@ -199,15 +55,7 @@
       "source": "Hugging Face Hub",
       "title": "Contrastive-LM/CLM-v0.1-8B",
       "link": "https://huggingface.co/Contrastive-LM/CLM-v0.1-8B",
-      "summary": "640 curtidas no Hugging Face · text-ranking",
-      "published": "",
-      "category": "model_upload"
-    },
-    {
-      "source": "Hugging Face Hub",
-      "title": "Qwen/Qwen-Image-2.1",
-      "link": "https://huggingface.co/Qwen/Qwen-Image-2.1",
-      "summary": "2818 curtidas no Hugging Face · text-to-image",
+      "summary": "688 curtidas no Hugging Face · text-ranking",
       "published": "",
       "category": "model_upload"
     },
@@ -215,15 +63,7 @@
       "source": "Hugging Face Hub",
       "title": "Lightricks/LTX-2.5",
       "link": "https://huggingface.co/Lightricks/LTX-2.5",
-      "summary": "5924 curtidas no Hugging Face · image-to-video",
-      "published": "",
-      "category": "model_upload"
-    },
-    {
-      "source": "Hugging Face Hub",
-      "title": "Qwen/Qwen3.8-27B",
-      "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
-      "summary": "16762 curtidas no Hugging Face · image-text-to-text",
+      "summary": "6070 curtidas no Hugging Face · image-to-video",
       "published": "",
       "category": "model_upload"
     },
@@ -231,23 +71,39 @@
       "source": "Hugging Face Hub",
       "title": "SupersonicLabs/Julia-1",
       "link": "https://huggingface.co/SupersonicLabs/Julia-1",
-      "summary": "358 curtidas no Hugging Face · text-classification",
+      "summary": "390 curtidas no Hugging Face · text-classification",
       "published": "",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "Viggle/Qwen-Image-2.1-viggle-turbo",
-      "link": "https://huggingface.co/Viggle/Qwen-Image-2.1-viggle-turbo",
-      "summary": "523 curtidas no Hugging Face · text-to-image",
+      "title": "Qwen/Qwen-Image-2.1",
+      "link": "https://huggingface.co/Qwen/Qwen-Image-2.1",
+      "summary": "2879 curtidas no Hugging Face · text-to-image",
       "published": "",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "nvidia/Nemotron-3-Diarization",
-      "link": "https://huggingface.co/nvidia/Nemotron-3-Diarization",
-      "summary": "615 curtidas no Hugging Face · voice-activity-detection",
+      "title": "Qwen/Qwen3.8-27B",
+      "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "summary": "16854 curtidas no Hugging Face · image-text-to-text",
+      "published": "",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "Cloudflare/clef-flash",
+      "link": "https://huggingface.co/Cloudflare/clef-flash",
+      "summary": "330 curtidas no Hugging Face · image-text-to-text",
+      "published": "",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "PSRben/VisionHOPE",
+      "link": "https://huggingface.co/PSRben/VisionHOPE",
+      "summary": "388 curtidas no Hugging Face · image-classification",
       "published": "",
       "category": "model_upload"
     }
