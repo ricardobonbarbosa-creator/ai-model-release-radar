@@ -9352,5 +9352,100 @@
         "category": "model_upload"
       }
     ]
+  },
+  {
+    "date": "2026-10-04",
+    "generated_at": "2026-10-04T15:39:24.318282+00:00",
+    "count": 11,
+    "items": [
+      {
+        "source": "Hugging Face",
+        "title": "The Agent Said It Was Done. The Database Disagreed.",
+        "link": "https://huggingface.co/blog/microsoft/thinkingbox",
+        "summary": "",
+        "published": "2026-10-03T22:56:48+00:00",
+        "category": "release"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Cloudflare/clef",
+        "link": "https://huggingface.co/Cloudflare/clef",
+        "summary": "1114 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "convaiinnovations/laya",
+        "link": "https://huggingface.co/convaiinnovations/laya",
+        "summary": "5123 curtidas no Hugging Face · text-classification",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+        "link": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+        "summary": "3036 curtidas no Hugging Face · text-to-image",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Lightricks/LTX-2.5",
+        "link": "https://huggingface.co/Lightricks/LTX-2.5",
+        "summary": "6231 curtidas no Hugging Face · image-to-video",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Cloudflare/clef-flash",
+        "link": "https://huggingface.co/Cloudflare/clef-flash",
+        "summary": "403 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Qwen/Qwen3.8-27B",
+        "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "summary": "16911 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Aleph-Alpha/Kolibri-1",
+        "link": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
+        "summary": "340 curtidas no Hugging Face · text-generation",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Qwen/Qwen-Image-2.1",
+        "link": "https://huggingface.co/Qwen/Qwen-Image-2.1",
+        "summary": "2927 curtidas no Hugging Face · text-to-image",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "PSRben/VisionHOPE",
+        "link": "https://huggingface.co/PSRben/VisionHOPE",
+        "summary": "394 curtidas no Hugging Face · image-classification",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Contrastive-LM/CLM-v0.1-8B",
+        "link": "https://huggingface.co/Contrastive-LM/CLM-v0.1-8B",
+        "summary": "701 curtidas no Hugging Face · text-ranking",
+        "published": "",
+        "category": "model_upload"
+      }
+    ]
   }
 ]
