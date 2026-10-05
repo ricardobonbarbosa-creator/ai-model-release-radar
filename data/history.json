@@ -9447,5 +9447,108 @@
         "category": "model_upload"
       }
     ]
+  },
+  {
+    "date": "2026-10-05",
+    "generated_at": "2026-10-05T19:30:15.242498+00:00",
+    "count": 12,
+    "items": [
+      {
+        "source": "OpenAI",
+        "title": "Our approach to EU text provenance rules",
+        "link": "https://openai.com/index/eu-text-provenance",
+        "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+        "published": "2026-10-05T15:00:00+00:00",
+        "category": "release"
+      },
+      {
+        "source": "OpenAI",
+        "title": "Building advertising for the way people use AI",
+        "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+        "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+        "published": "2026-10-05T10:00:00+00:00",
+        "category": "release"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Cloudflare/clef",
+        "link": "https://huggingface.co/Cloudflare/clef",
+        "summary": "1410 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "convaiinnovations/laya",
+        "link": "https://huggingface.co/convaiinnovations/laya",
+        "summary": "5222 curtidas no Hugging Face · text-classification",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+        "link": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+        "summary": "3237 curtidas no Hugging Face · text-to-image",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Aleph-Alpha/Kolibri-1",
+        "link": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
+        "summary": "599 curtidas no Hugging Face · text-generation",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Lightricks/LTX-2.5",
+        "link": "https://huggingface.co/Lightricks/LTX-2.5",
+        "summary": "6457 curtidas no Hugging Face · image-to-video",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Cloudflare/clef-flash",
+        "link": "https://huggingface.co/Cloudflare/clef-flash",
+        "summary": "502 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Venastine-Research/Xing4.0-29B-A4B-GGUF",
+        "link": "https://huggingface.co/Venastine-Research/Xing4.0-29B-A4B-GGUF",
+        "summary": "410 curtidas no Hugging Face · text-generation",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Qwen/Qwen3.8-27B",
+        "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "summary": "17009 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "autotrust/JEV-27B-VL",
+        "link": "https://huggingface.co/autotrust/JEV-27B-VL",
+        "summary": "418 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "PSRben/VisionHOPE",
+        "link": "https://huggingface.co/PSRben/VisionHOPE",
+        "summary": "417 curtidas no Hugging Face · image-classification",
+        "published": "",
+        "category": "model_upload"
+      }
+    ]
   }
 ]
