@@ -9550,5 +9550,236 @@
         "category": "model_upload"
       }
     ]
+  },
+  {
+    "date": "2026-10-06",
+    "generated_at": "2026-10-06T17:02:34.626534+00:00",
+    "count": 28,
+    "items": [
+      {
+        "source": "OpenAI",
+        "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+        "link": "https://openai.com/index/atlassian-partnership",
+        "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+        "published": "2026-10-06T16:00:00+00:00",
+        "category": "release"
+      },
+      {
+        "source": "Hugging Face",
+        "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+        "link": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+        "summary": "",
+        "published": "2026-10-06T06:44:39+00:00",
+        "category": "release"
+      },
+      {
+        "source": "arXiv",
+        "title": "One Figure, Every Canvas: Editable Flowchart Relayout via Agentic Pipeline",
+        "link": "http://arxiv.org/abs/2610.06852v1",
+        "summary": "Pipeline figures in ML papers must be repurposed across many canvases, including paper columns, 16:9 slides, portrait posters, 1:1 social teasers, 9:16 phone previews. Each format imposes a different…",
+        "published": "2026-10-05T17:59:54+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "Base Models Can Reason By Taking a Cue From Training Data",
+        "link": "http://arxiv.org/abs/2610.06851v1",
+        "summary": "In this paper, we study how training data creates associations between the tokens at the start of a base model's response and the reasoning behavior that follows. First, we demonstrate that fixing…",
+        "published": "2026-10-05T17:59:52+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "BiasFlow: Geometric Monitoring and Backbone Regularization for Spurious Feature Reliance",
+        "link": "http://arxiv.org/abs/2610.06846v1",
+        "summary": "Worst-group accuracy (WGA) evaluates a trained predictor but does not characterize how its frozen backbone behaves when a new head is learned. We introduce BiasFlow, a hook-based toolkit for…",
+        "published": "2026-10-05T17:59:28+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "Learning to Read the Contextual Tokens in Diffusion Transformers",
+        "link": "http://arxiv.org/abs/2610.06844v1",
+        "summary": "Multimodal Diffusion Transformers (MM-DiTs) jointly process visual and textual representations throughout generation. These models repeatedly update the text tokens through multimodal attention,…",
+        "published": "2026-10-05T17:59:17+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "Recursive Video In-Context Learning for Agentic Robot",
+        "link": "http://arxiv.org/abs/2610.06843v1",
+        "summary": "LLM agents that orchestrate frozen vision-language-action (VLA) policies improve across episodes through text memory, which records what the agent did but not how the task is done. A demonstration…",
+        "published": "2026-10-05T17:59:11+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "UniSlider: Perceptually Uniform Sliders for Continuous Image Editing",
+        "link": "http://arxiv.org/abs/2610.06831v1",
+        "summary": "Sliders provide an intuitive interface for continuous image editing. In current generative approaches, however, the slider is simply a rescaling of the method's strength parameter, such as an adapter…",
+        "published": "2026-10-05T17:58:11+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "MemPilot: Orchestrating On-Demand Multimodal Memory Curation for LLM Agents",
+        "link": "http://arxiv.org/abs/2610.06830v1",
+        "summary": "Memory has become integral to the LLM agent ecosystem, supporting information retention and reuse across interactions. However, most existing agent memory systems construct memory in a query-agnostic…",
+        "published": "2026-10-05T17:58:06+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "CLIFT: Conformal Self-Verification for Web Agent Training and Test-Time Scaling",
+        "link": "http://arxiv.org/abs/2610.06829v1",
+        "summary": "Open-source web agents are now strong enough to execute realistic browser tasks, but training them with reinforcement learning still depends on weak supervision: binary task success is too sparse for…",
+        "published": "2026-10-05T17:57:51+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "PlotGround: Grounding Plot Digitization in Real Scientific Figures and Their Source Data",
+        "link": "http://arxiv.org/abs/2610.06825v1",
+        "summary": "Scientific figures often encode quantitative results that are not readily available in machine-readable form, making accurate plot digitization important for verifying and reusing published findings.…",
+        "published": "2026-10-05T17:57:19+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "TasteVal: Measuring the Experimental Research Taste of AI Systems Against Human Experts",
+        "link": "http://arxiv.org/abs/2610.06824v1",
+        "summary": "We introduce TasteVal, a benchmark to evaluate the experimental research taste of frontier models. We define research taste as the ability to pick interesting problems to solve, design experiments,…",
+        "published": "2026-10-05T17:57:15+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "Deep Learning for Sleep Heart Rate Estimation from Accelerometers: Toward Population-Scale Cardiac Insight Without Optical Sensors",
+        "link": "http://arxiv.org/abs/2610.06823v1",
+        "summary": "Large longitudinal cohorts often contain wrist accelerometry without optical heart-rate sensing, motivating recovery of cardiac information from motion signals already collected during sleep. We…",
+        "published": "2026-10-05T17:56:57+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "Paradee: Distilling Kokoro-82M into an 8M-Parameter Single-Voice Text-to-Speech Model",
+        "link": "http://arxiv.org/abs/2610.06817v1",
+        "summary": "We distill Kokoro-82M, a widely used open text-to-speech model with 54 voices, into Paradee, an 8.07M-parameter model that speaks one of them. Paradee keeps Kokoro's architecture with much narrower…",
+        "published": "2026-10-05T17:56:07+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "TAPDreamer: Transferable Adversarial Patches for World Action Models",
+        "link": "http://arxiv.org/abs/2610.06814v1",
+        "summary": "World models learn to predict how their environment will evolve, making them an important foundation for general-purpose robotic control. Yet world action models depend on camera inputs whose…",
+        "published": "2026-10-05T17:55:21+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "Sharpen Without Search: On-Policy Distillation of Sequence-Level Power Distribution",
+        "link": "http://arxiv.org/abs/2610.06804v1",
+        "summary": "A language model can give a correct answer more probability than any single incorrect answer and still usually sample an incorrect one, because the incorrect answers together hold more probability.…",
+        "published": "2026-10-05T17:53:30+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "MC-Sparse: Deconstructing and Closing the Dense-Sparse Attention Gap in Diffusion Transformers",
+        "link": "http://arxiv.org/abs/2610.06801v1",
+        "summary": "Sparse attention is a primary approach to reducing the latency of diffusion transformers in long-sequence generation tasks, such as video and high-resolution 3D asset generation. However, existing…",
+        "published": "2026-10-05T17:51:42+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "OpenAI",
+        "title": "Our approach to EU text provenance rules",
+        "link": "https://openai.com/index/eu-text-provenance",
+        "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+        "published": "2026-10-05T15:00:00+00:00",
+        "category": "release"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Cloudflare/clef",
+        "link": "https://huggingface.co/Cloudflare/clef",
+        "summary": "1629 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "autotrust/JEV-27B-VL",
+        "link": "https://huggingface.co/autotrust/JEV-27B-VL",
+        "summary": "910 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+        "link": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+        "summary": "3388 curtidas no Hugging Face · text-to-image",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Aleph-Alpha/Kolibri-1",
+        "link": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
+        "summary": "693 curtidas no Hugging Face · text-generation",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "convaiinnovations/laya",
+        "link": "https://huggingface.co/convaiinnovations/laya",
+        "summary": "5274 curtidas no Hugging Face · text-classification",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Cloudflare/clef-flash",
+        "link": "https://huggingface.co/Cloudflare/clef-flash",
+        "summary": "574 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "autotrust/GEV-26B-Decide",
+        "link": "https://huggingface.co/autotrust/GEV-26B-Decide",
+        "summary": "666 curtidas no Hugging Face · text-classification",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Lightricks/LTX-2.5",
+        "link": "https://huggingface.co/Lightricks/LTX-2.5",
+        "summary": "6606 curtidas no Hugging Face · image-to-video",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Venastine-Research/Xing4.0-29B-A4B-GGUF",
+        "link": "https://huggingface.co/Venastine-Research/Xing4.0-29B-A4B-GGUF",
+        "summary": "427 curtidas no Hugging Face · text-generation",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "jialinyyzz/humanizer",
+        "link": "https://huggingface.co/jialinyyzz/humanizer",
+        "summary": "369 curtidas no Hugging Face · text-generation",
+        "published": "",
+        "category": "model_upload"
+      }
+    ]
   }
 ]
