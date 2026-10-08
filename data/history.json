@@ -10044,5 +10044,276 @@
         "category": "model_upload"
       }
     ]
+  },
+  {
+    "date": "2026-10-08",
+    "generated_at": "2026-10-08T17:43:05.806482+00:00",
+    "count": 33,
+    "items": [
+      {
+        "source": "OpenAI",
+        "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+        "link": "https://openai.com/index/oracle",
+        "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+        "published": "2026-10-08T16:00:00+00:00",
+        "category": "release"
+      },
+      {
+        "source": "OpenAI",
+        "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+        "link": "https://openai.com/index/pollo-ai",
+        "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+        "published": "2026-10-08T12:00:00+00:00",
+        "category": "release"
+      },
+      {
+        "source": "OpenAI",
+        "title": "Disrupting AI-enabled “false front” operations",
+        "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+        "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+        "published": "2026-10-08T00:00:00+00:00",
+        "category": "release"
+      },
+      {
+        "source": "arXiv",
+        "title": "Never Look Back: Understanding Persistence in 3D Object Memory from Egocentric Videos",
+        "link": "http://arxiv.org/abs/2610.10538v1",
+        "summary": "As we move through the world and carry out everyday tasks, we encounter objects that may become relevant only later. We are capable of recalling where we left something or what was inside a…",
+        "published": "2026-10-07T17:59:41+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "Decoupling Exploration from Optimization in RLVR",
+        "link": "http://arxiv.org/abs/2610.10536v1",
+        "summary": "Modern language models undergo reinforcement learning with verifiable rewards (RLVR) on top of already-trained checkpoints. A key promise of RLVR is the discovery of new reasoning strategies. In…",
+        "published": "2026-10-07T17:59:26+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory",
+        "link": "http://arxiv.org/abs/2610.10533v1",
+        "summary": "Conditional memory architectures such as DeepSeek Engram use input n-grams to look up learned embeddings, expanding the capacity of large language models (LLMs) with limited additional computation.…",
+        "published": "2026-10-07T17:58:52+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "Long-WAM: Scaling the Context of World-Action Models",
+        "link": "http://arxiv.org/abs/2610.10528v1",
+        "summary": "Real-time robot control demands enough visual history to infer motion and task progress, but processing that history can delay action. We present Long-WAM, a model-system framework for scaling the…",
+        "published": "2026-10-07T17:58:04+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in Vision-Language-Action Models",
+        "link": "http://arxiv.org/abs/2610.10526v1",
+        "summary": "Vision-language-action models (VLAs) are strikingly sensitive to instruction phrasing and do not inherit the language robustness of the vision-language models they are built on. A one-word edit can…",
+        "published": "2026-10-07T17:57:38+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "RoboJEPA: Scaling Robotic Latent World Models",
+        "link": "http://arxiv.org/abs/2610.10515v1",
+        "summary": "Latent world models have shown a remarkable ability to predict future states and to plan in the real world. In practice, however, we lack a principled way to estimate how their capabilities scale…",
+        "published": "2026-10-07T17:54:42+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "SciExam for ENSO: Can AI Agents Build Climate Models?",
+        "link": "http://arxiv.org/abs/2610.10513v1",
+        "summary": "Language-model agents are increasingly asked to carry out open-ended scientific research, yet their results are usually graded against a known answer, a rubric, or a language-model reviewer, none of…",
+        "published": "2026-10-07T17:52:52+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "Your Prompt Should Do More: Effects of Retrieval Instructions in Embedding Models",
+        "link": "http://arxiv.org/abs/2610.10508v1",
+        "summary": "Prompted embedding models have recently received increasing attention, particularly for retrieval, where detailed retrieval instructions are provided as part of the retrieval prompt. Several new…",
+        "published": "2026-10-07T17:51:46+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "RECAST: Learning to Compute the Right Context through Adaptive Evidence Routing",
+        "link": "http://arxiv.org/abs/2610.10507v1",
+        "summary": "Large language models are increasingly applied to tasks grounded in long, heterogeneous information sources. Conventional Retrieval-Augmented Generation (RAG) relies on fixed similarity-based…",
+        "published": "2026-10-07T17:51:08+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "Validity Without Ground Truth: What Stated-Preference Economics Offers the Evaluation of Language Models",
+        "link": "http://arxiv.org/abs/2610.10506v1",
+        "summary": "Many of the questions now put to large language models have no correct answer to score against: what a policy is worth, which option a user should choose, how to weigh competing values.…",
+        "published": "2026-10-07T17:51:07+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "EmbodiedRSI: Active Continual Robot Learning Through Hypothesis-Guided Co-Evolution",
+        "link": "http://arxiv.org/abs/2610.10498v1",
+        "summary": "Robot foundation models provide strong visuomotor control, yet their performance can degrade when object positions or task instructions change. Further improvements often require post-training on…",
+        "published": "2026-10-07T17:48:02+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "Before They Can Solve: Predicting Post-Training Coding-Agent Performance from Base Models",
+        "link": "http://arxiv.org/abs/2610.10478v1",
+        "summary": "How can we predict which base checkpoint is worth an expensive round of agentic post-training? End-to-end pass@$K$ tests whether successful behavior already appears in a base model's distribution,…",
+        "published": "2026-10-07T17:37:19+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "A Society of Researchers: Designing Institutions for Populations of Autonomous Research Agents",
+        "link": "http://arxiv.org/abs/2610.10468v1",
+        "summary": "Deployments of research agents are moving to populations of thousands that share one pool of compute, while most current systems organize one project at a time or leave the population unorganized. We…",
+        "published": "2026-10-07T17:30:45+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "How assigned AI use before class shapes active student engagement in class",
+        "link": "http://arxiv.org/abs/2610.10463v1",
+        "summary": "AI learning tools are rapidly entering classrooms, but evidence about whether they help students learn is mixed and rests mostly on test scores. Comparatively less research addresses whether the use…",
+        "published": "2026-10-07T17:29:14+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "FoldBack: Self-Correcting Masked Generative Policy for Long-Horizon Garment Folding",
+        "link": "http://arxiv.org/abs/2610.10462v1",
+        "summary": "We present FoldBack, a self-correcting masked generative policy for long-horizon garment folding. Existing long-trajectory policies may continue after a missed or slipped grasp even when the garment…",
+        "published": "2026-10-07T17:28:32+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "Hugging Face",
+        "title": "Multimodal open d1 decision models for the edge",
+        "link": "https://huggingface.co/blog/LiquidAI/open-d1",
+        "summary": "",
+        "published": "2026-10-07T16:54:33+00:00",
+        "category": "release"
+      },
+      {
+        "source": "Hugging Face",
+        "title": "Introducing Falcon ASR",
+        "link": "https://huggingface.co/blog/tiiuae/falcon-asr",
+        "summary": "",
+        "published": "2026-10-07T13:21:03+00:00",
+        "category": "release"
+      },
+      {
+        "source": "Hugging Face",
+        "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+        "link": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+        "summary": "",
+        "published": "2026-10-07T12:45:31+00:00",
+        "category": "release"
+      },
+      {
+        "source": "OpenAI",
+        "title": "Helping teens learn, plan, and shape the future of AI",
+        "link": "https://openai.com/index/teens-learn-and-plan",
+        "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+        "published": "2026-10-07T12:00:00+00:00",
+        "category": "release"
+      },
+      {
+        "source": "Google AI",
+        "title": "Introducing Playground: Create and play custom games",
+        "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+        "summary": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
+        "published": "2026-10-07T12:00:00+00:00",
+        "category": "release"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "autotrust/JEV-27B-VL",
+        "link": "https://huggingface.co/autotrust/JEV-27B-VL",
+        "summary": "2761 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Cloudflare/clef",
+        "link": "https://huggingface.co/Cloudflare/clef",
+        "summary": "1871 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "autotrust/GEV-26B-Decide",
+        "link": "https://huggingface.co/autotrust/GEV-26B-Decide",
+        "summary": "1744 curtidas no Hugging Face · text-classification",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "google/embeddinggemma-2",
+        "link": "https://huggingface.co/google/embeddinggemma-2",
+        "summary": "1146 curtidas no Hugging Face · feature-extraction",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Aleph-Alpha/Kolibri-1",
+        "link": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
+        "summary": "803 curtidas no Hugging Face · text-generation",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+        "link": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+        "summary": "3655 curtidas no Hugging Face · text-to-image",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Cloudflare/clef-flash",
+        "link": "https://huggingface.co/Cloudflare/clef-flash",
+        "summary": "685 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Venastine-Research/Xing4.0-29B-A4B-GGUF",
+        "link": "https://huggingface.co/Venastine-Research/Xing4.0-29B-A4B-GGUF",
+        "summary": "639 curtidas no Hugging Face · text-generation",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "jialinyyzz/humanizer",
+        "link": "https://huggingface.co/jialinyyzz/humanizer",
+        "summary": "604 curtidas no Hugging Face · text-generation",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Lightricks/LTX-2.5",
+        "link": "https://huggingface.co/Lightricks/LTX-2.5",
+        "summary": "6893 curtidas no Hugging Face · image-to-video",
+        "published": "",
+        "category": "model_upload"
+      }
+    ]
   }
 ]
