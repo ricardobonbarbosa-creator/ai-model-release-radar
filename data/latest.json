@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-09",
-  "generated_at": "2026-10-09T17:19:31.135624+00:00",
-  "count": 30,
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10T16:06:20.020087+00:00",
+  "count": 11,
   "items": [
     {
       "source": "Hugging Face",
@@ -12,162 +12,10 @@
       "category": "release"
     },
     {
-      "source": "OpenAI",
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "link": "https://openai.com/index/sophos",
-      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-      "published": "2026-10-09T07:00:00+00:00",
-      "category": "release"
-    },
-    {
-      "source": "arXiv",
-      "title": "On the estimation and validity of AI time horizons---a statistical look at the METR plot",
-      "link": "http://arxiv.org/abs/2610.12466v1",
-      "summary": "METR's 50\\% time horizon measures the human completion time of software tasks that an AI solves with 50\\% probability, allowing AI capabilities to be expressed in interpretable units. On 228 tasks…",
-      "published": "2026-10-08T17:59:50+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents",
-      "link": "http://arxiv.org/abs/2610.12463v1",
-      "summary": "In 2026, cybersecurity evaluations involving OpenAI, Anthropic, and Google agents reached real systems outside their authorized test scope. The paths were different. OpenAI agents exploited research…",
-      "published": "2026-10-08T17:59:49+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "BrickBench: Evaluating Agentic Brick Design",
-      "link": "http://arxiv.org/abs/2610.12452v1",
-      "summary": "We propose BrickBench, a benchmark for agentic text-conditioned LEGO-set design. Given a prompt, an agent is tasked with producing an assembly that not only satisfies semantic and design criteria,…",
-      "published": "2026-10-08T17:58:56+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "Bi-FORK: Generative Modeling of High-Dimensional Bifurcating Systems",
-      "link": "http://arxiv.org/abs/2610.12449v1",
-      "summary": "Bifurcations are ubiquitous in physical systems, from structural buckling to fluid and climate dynamics, yet they remain largely unexplored in deep learning. At a symmetry-breaking bifurcation, a…",
-      "published": "2026-10-08T17:58:36+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Deception",
-      "link": "http://arxiv.org/abs/2610.12445v1",
-      "summary": "Recent incidents have highlighted the challenge of monitoring LLM agents and the danger of models deceiving people. We show that white-box deception detection via probes can be scaled up to frontier…",
-      "published": "2026-10-08T17:58:13+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "Ecology of AI Agents: Collaboration Creates a Population Threshold for Takeoff",
-      "link": "http://arxiv.org/abs/2610.12436v1",
-      "summary": "AI agents can now conduct real-world cyberattacks, scale up capabilities with the number of agents, and collectively pursue misaligned goals to obtain rewards. Together, these factors raise the risk…",
-      "published": "2026-10-08T17:57:32+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "FastBench: Can Streaming VLMs Perceive High-Dynamic Real-World Streams?",
-      "link": "http://arxiv.org/abs/2610.12427v1",
-      "summary": "Streaming Video Large Language Models (VLMs) enable continuous video understanding, yet existing benchmarks focus on low-dynamic scenarios. Under bounded context budgets, models must balance temporal…",
-      "published": "2026-10-08T17:55:20+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "RoboRSI: Stable, efficient, and reusable robot self-evolution in complex real-world environments",
-      "link": "http://arxiv.org/abs/2610.12424v1",
-      "summary": "A generalist robot should not only perform diverse tasks but also improve through experience, turning what it learns during execution into capabilities that later tasks can reuse. Robot agents that…",
-      "published": "2026-10-08T17:55:12+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "WOVEN: Weaving Visual World Modeling into Multimodal LLMs",
-      "link": "http://arxiv.org/abs/2610.12417v1",
-      "summary": "Multimodal large language models (MLLMs) struggle with spatial, embodied, physical, and temporal reasoning. We hypothesize that these failures reflect a shared deficit in visual transition reasoning,…",
-      "published": "2026-10-08T17:52:03+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "MAMHOI: Factorizing Scene-Aware Human-Object Interaction through Affordances",
-      "link": "http://arxiv.org/abs/2610.12416v1",
-      "summary": "Generating realistic human-object interactions (HOI) in complex 3D scenes requires two complementary capabilities: reasoning about interaction feasibility in the environment and synthesizing…",
-      "published": "2026-10-08T17:52:02+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "Predicting Alignment Generalization with Value Representations",
-      "link": "http://arxiv.org/abs/2610.12410v1",
-      "summary": "LLM developers post-train their models to exhibit prosocial values and behavioral traits, which are enumerated in an alignment target. However, while recent post-training developments have yielded…",
-      "published": "2026-10-08T17:47:26+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "Searching for \"Harmful Refusal\": A Psychometric Audit of an AI Safety Benchmark",
-      "link": "http://arxiv.org/abs/2610.12409v1",
-      "summary": "Safety benchmarks typically report one overall score for a suite of datasets, each of which may target one or more safety-related attributes, so models with similar overall scores can have very…",
-      "published": "2026-10-08T17:46:43+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "LeWAM: A JEPA World Action Model with Diffusion-Steering-Based MPC",
-      "link": "http://arxiv.org/abs/2610.12407v1",
-      "summary": "World action models (WAMs) predict actions and future observations, typically from a reconstruction-based representation that carries noisy, redundant information which can complicate downstream…",
-      "published": "2026-10-08T17:46:03+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "ViSkill: Reinforcing VLM Agents with Evolving Visual-Native Skills",
-      "link": "http://arxiv.org/abs/2610.12403v1",
-      "summary": "Skill-augmented agents improve sample efficiency by distilling successful trajectories into reusable strategies. Yet most existing approaches remain text-centric, linearizing spatial layouts and…",
-      "published": "2026-10-08T17:44:19+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "arXiv",
-      "title": "SpaceCast-Bench: Evaluating Predictive Spatial Reasoning in Vision-Language Models",
-      "link": "http://arxiv.org/abs/2610.12402v1",
-      "summary": "Existing spatial reasoning benchmarks mainly test spatial perception: reading off relations already visible in the input. Yet real-world spatial intelligence demands predictive spatial reasoning:…",
-      "published": "2026-10-08T17:44:17+00:00",
-      "category": "paper"
-    },
-    {
-      "source": "OpenAI",
-      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "link": "https://openai.com/index/oracle",
-      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
-      "published": "2026-10-08T16:00:00+00:00",
-      "category": "release"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-      "link": "https://openai.com/index/pollo-ai",
-      "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
-      "published": "2026-10-08T12:00:00+00:00",
-      "category": "release"
-    },
-    {
-      "source": "OpenAI",
-      "title": "LegalOn halves Codex costs while maintaining development speed",
-      "link": "https://openai.com/index/legalon-halves-codex-costs",
-      "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
-      "published": "2026-10-08T12:00:00+00:00",
-      "category": "release"
-    },
-    {
       "source": "Hugging Face Hub",
       "title": "google/embeddinggemma-2",
       "link": "https://huggingface.co/google/embeddinggemma-2",
-      "summary": "1303 curtidas no Hugging Face · feature-extraction",
+      "summary": "1452 curtidas no Hugging Face · feature-extraction",
       "published": "",
       "category": "model_upload"
     },
@@ -175,15 +23,7 @@
       "source": "Hugging Face Hub",
       "title": "Cloudflare/clef",
       "link": "https://huggingface.co/Cloudflare/clef",
-      "summary": "1926 curtidas no Hugging Face · image-text-to-text",
-      "published": "",
-      "category": "model_upload"
-    },
-    {
-      "source": "Hugging Face Hub",
-      "title": "Aleph-Alpha/Kolibri-1",
-      "link": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
-      "summary": "835 curtidas no Hugging Face · text-generation",
+      "summary": "1976 curtidas no Hugging Face · image-text-to-text",
       "published": "",
       "category": "model_upload"
     },
@@ -191,7 +31,7 @@
       "source": "Hugging Face Hub",
       "title": "jialinyyzz/humanizer",
       "link": "https://huggingface.co/jialinyyzz/humanizer",
-      "summary": "719 curtidas no Hugging Face · text-generation",
+      "summary": "905 curtidas no Hugging Face · text-generation",
       "published": "",
       "category": "model_upload"
     },
@@ -199,7 +39,15 @@
       "source": "Hugging Face Hub",
       "title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
       "link": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
-      "summary": "3743 curtidas no Hugging Face · text-to-image",
+      "summary": "3837 curtidas no Hugging Face · text-to-image",
+      "published": "",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "Aleph-Alpha/Kolibri-1",
+      "link": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
+      "summary": "855 curtidas no Hugging Face · text-generation",
       "published": "",
       "category": "model_upload"
     },
@@ -207,7 +55,7 @@
       "source": "Hugging Face Hub",
       "title": "Venastine-Research/Xing4.0-29B-A4B-GGUF",
       "link": "https://huggingface.co/Venastine-Research/Xing4.0-29B-A4B-GGUF",
-      "summary": "671 curtidas no Hugging Face · text-generation",
+      "summary": "679 curtidas no Hugging Face · text-generation",
       "published": "",
       "category": "model_upload"
     },
@@ -215,7 +63,15 @@
       "source": "Hugging Face Hub",
       "title": "Lightricks/LTX-2.5",
       "link": "https://huggingface.co/Lightricks/LTX-2.5",
-      "summary": "7020 curtidas no Hugging Face · image-to-video",
+      "summary": "7133 curtidas no Hugging Face · image-to-video",
+      "published": "",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "Qwen/Qwen-Image-2.1-Turbo",
+      "link": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
+      "summary": "408 curtidas no Hugging Face · text-to-image",
       "published": "",
       "category": "model_upload"
     },
@@ -223,15 +79,7 @@
       "source": "Hugging Face Hub",
       "title": "Cloudflare/clef-flash",
       "link": "https://huggingface.co/Cloudflare/clef-flash",
-      "summary": "708 curtidas no Hugging Face · image-text-to-text",
-      "published": "",
-      "category": "model_upload"
-    },
-    {
-      "source": "Hugging Face Hub",
-      "title": "convaiinnovations/laya",
-      "link": "https://huggingface.co/convaiinnovations/laya",
-      "summary": "5421 curtidas no Hugging Face · text-classification",
+      "summary": "725 curtidas no Hugging Face · image-text-to-text",
       "published": "",
       "category": "model_upload"
     },
@@ -239,7 +87,7 @@
       "source": "Hugging Face Hub",
       "title": "Qwen/Qwen3.8-27B",
       "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
-      "summary": "17329 curtidas no Hugging Face · image-text-to-text",
+      "summary": "17398 curtidas no Hugging Face · image-text-to-text",
       "published": "",
       "category": "model_upload"
     }

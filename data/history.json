@@ -10562,5 +10562,100 @@
         "category": "model_upload"
       }
     ]
+  },
+  {
+    "date": "2026-10-10",
+    "generated_at": "2026-10-10T16:06:20.020087+00:00",
+    "count": 11,
+    "items": [
+      {
+        "source": "Hugging Face",
+        "title": "Impactful scheduling for GPU clusters",
+        "link": "https://huggingface.co/blog/allenai/impactful-scheduling",
+        "summary": "",
+        "published": "2026-10-09T15:20:29+00:00",
+        "category": "release"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "google/embeddinggemma-2",
+        "link": "https://huggingface.co/google/embeddinggemma-2",
+        "summary": "1452 curtidas no Hugging Face · feature-extraction",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Cloudflare/clef",
+        "link": "https://huggingface.co/Cloudflare/clef",
+        "summary": "1976 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "jialinyyzz/humanizer",
+        "link": "https://huggingface.co/jialinyyzz/humanizer",
+        "summary": "905 curtidas no Hugging Face · text-generation",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+        "link": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+        "summary": "3837 curtidas no Hugging Face · text-to-image",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Aleph-Alpha/Kolibri-1",
+        "link": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
+        "summary": "855 curtidas no Hugging Face · text-generation",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Venastine-Research/Xing4.0-29B-A4B-GGUF",
+        "link": "https://huggingface.co/Venastine-Research/Xing4.0-29B-A4B-GGUF",
+        "summary": "679 curtidas no Hugging Face · text-generation",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Lightricks/LTX-2.5",
+        "link": "https://huggingface.co/Lightricks/LTX-2.5",
+        "summary": "7133 curtidas no Hugging Face · image-to-video",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Qwen/Qwen-Image-2.1-Turbo",
+        "link": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
+        "summary": "408 curtidas no Hugging Face · text-to-image",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Cloudflare/clef-flash",
+        "link": "https://huggingface.co/Cloudflare/clef-flash",
+        "summary": "725 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Qwen/Qwen3.8-27B",
+        "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "summary": "17398 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      }
+    ]
   }
 ]
