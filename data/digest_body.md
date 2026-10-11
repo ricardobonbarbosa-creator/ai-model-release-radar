@@ -1,37 +1,35 @@
-# 🛰️ Resumo Diário de IA — 2026-10-10
+# 🛰️ Resumo Diário de IA — 2026-10-11
 
-## 🚀 Lançamentos e novidades (11)
-**🚀 [Impactful scheduling for GPU clusters](https://huggingface.co/blog/allenai/impactful-scheduling)** — Hugging Face
-
+## 🚀 Lançamentos e novidades (10)
 **🤗 [google/embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2)** — Hugging Face Hub
-> 1452 curtidas no Hugging Face · feature-extraction
-
-**🤗 [Cloudflare/clef](https://huggingface.co/Cloudflare/clef)** — Hugging Face Hub
-> 1976 curtidas no Hugging Face · image-text-to-text
+> 1636 curtidas no Hugging Face · feature-extraction
 
 **🤗 [jialinyyzz/humanizer](https://huggingface.co/jialinyyzz/humanizer)** — Hugging Face Hub
-> 905 curtidas no Hugging Face · text-generation
+> 1024 curtidas no Hugging Face · text-generation
+
+**🤗 [Cloudflare/clef](https://huggingface.co/Cloudflare/clef)** — Hugging Face Hub
+> 2016 curtidas no Hugging Face · image-text-to-text
 
 **🤗 [abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF)** — Hugging Face Hub
-> 3837 curtidas no Hugging Face · text-to-image
-
-**🤗 [Aleph-Alpha/Kolibri-1](https://huggingface.co/Aleph-Alpha/Kolibri-1)** — Hugging Face Hub
-> 855 curtidas no Hugging Face · text-generation
-
-**🤗 [Venastine-Research/Xing4.0-29B-A4B-GGUF](https://huggingface.co/Venastine-Research/Xing4.0-29B-A4B-GGUF)** — Hugging Face Hub
-> 679 curtidas no Hugging Face · text-generation
-
-**🤗 [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)** — Hugging Face Hub
-> 7133 curtidas no Hugging Face · image-to-video
+> 3948 curtidas no Hugging Face · text-to-image
 
 **🤗 [Qwen/Qwen-Image-2.1-Turbo](https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo)** — Hugging Face Hub
-> 408 curtidas no Hugging Face · text-to-image
+> 514 curtidas no Hugging Face · text-to-image
 
-**🤗 [Cloudflare/clef-flash](https://huggingface.co/Cloudflare/clef-flash)** — Hugging Face Hub
-> 725 curtidas no Hugging Face · image-text-to-text
+**🤗 [Aleph-Alpha/Kolibri-1](https://huggingface.co/Aleph-Alpha/Kolibri-1)** — Hugging Face Hub
+> 880 curtidas no Hugging Face · text-generation
+
+**🤗 [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)** — Hugging Face Hub
+> 7269 curtidas no Hugging Face · image-to-video
+
+**🤗 [Venastine-Research/Xing4.0-29B-A4B-GGUF](https://huggingface.co/Venastine-Research/Xing4.0-29B-A4B-GGUF)** — Hugging Face Hub
+> 689 curtidas no Hugging Face · text-generation
 
 **🤗 [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** — Hugging Face Hub
-> 17398 curtidas no Hugging Face · image-text-to-text
+> 17485 curtidas no Hugging Face · image-text-to-text
+
+**🤗 [canberkkkkkk/ema-lightning](https://huggingface.co/canberkkkkkk/ema-lightning)** — Hugging Face Hub
+> 351 curtidas no Hugging Face · text-to-speech
 
 ---
 [📊 Ver dashboard completo](https://ricardobonbarbosa-creator.github.io/ai-model-release-radar/)
