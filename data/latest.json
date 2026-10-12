@@ -1,13 +1,13 @@
 {
-  "date": "2026-10-11",
-  "generated_at": "2026-10-11T16:33:24.976830+00:00",
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T20:06:40.290361+00:00",
   "count": 10,
   "items": [
     {
       "source": "Hugging Face Hub",
       "title": "google/embeddinggemma-2",
       "link": "https://huggingface.co/google/embeddinggemma-2",
-      "summary": "1636 curtidas no Hugging Face · feature-extraction",
+      "summary": "1914 curtidas no Hugging Face · feature-extraction",
       "published": "",
       "category": "model_upload"
     },
@@ -15,23 +15,7 @@
       "source": "Hugging Face Hub",
       "title": "jialinyyzz/humanizer",
       "link": "https://huggingface.co/jialinyyzz/humanizer",
-      "summary": "1024 curtidas no Hugging Face · text-generation",
-      "published": "",
-      "category": "model_upload"
-    },
-    {
-      "source": "Hugging Face Hub",
-      "title": "Cloudflare/clef",
-      "link": "https://huggingface.co/Cloudflare/clef",
-      "summary": "2016 curtidas no Hugging Face · image-text-to-text",
-      "published": "",
-      "category": "model_upload"
-    },
-    {
-      "source": "Hugging Face Hub",
-      "title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
-      "link": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
-      "summary": "3948 curtidas no Hugging Face · text-to-image",
+      "summary": "1302 curtidas no Hugging Face · text-generation",
       "published": "",
       "category": "model_upload"
     },
@@ -39,15 +23,23 @@
       "source": "Hugging Face Hub",
       "title": "Qwen/Qwen-Image-2.1-Turbo",
       "link": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
-      "summary": "514 curtidas no Hugging Face · text-to-image",
+      "summary": "621 curtidas no Hugging Face · text-to-image",
       "published": "",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "Aleph-Alpha/Kolibri-1",
-      "link": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
-      "summary": "880 curtidas no Hugging Face · text-generation",
+      "title": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+      "link": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+      "summary": "4079 curtidas no Hugging Face · text-to-image",
+      "published": "",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "Cloudflare/clef",
+      "link": "https://huggingface.co/Cloudflare/clef",
+      "summary": "2083 curtidas no Hugging Face · image-text-to-text",
       "published": "",
       "category": "model_upload"
     },
@@ -55,15 +47,7 @@
       "source": "Hugging Face Hub",
       "title": "Lightricks/LTX-2.5",
       "link": "https://huggingface.co/Lightricks/LTX-2.5",
-      "summary": "7269 curtidas no Hugging Face · image-to-video",
-      "published": "",
-      "category": "model_upload"
-    },
-    {
-      "source": "Hugging Face Hub",
-      "title": "Venastine-Research/Xing4.0-29B-A4B-GGUF",
-      "link": "https://huggingface.co/Venastine-Research/Xing4.0-29B-A4B-GGUF",
-      "summary": "689 curtidas no Hugging Face · text-generation",
+      "summary": "7455 curtidas no Hugging Face · image-to-video",
       "published": "",
       "category": "model_upload"
     },
@@ -71,7 +55,15 @@
       "source": "Hugging Face Hub",
       "title": "Qwen/Qwen3.8-27B",
       "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
-      "summary": "17485 curtidas no Hugging Face · image-text-to-text",
+      "summary": "17567 curtidas no Hugging Face · image-text-to-text",
+      "published": "",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "ConwayResearch/Underdog-Saluki-27B-1.0",
+      "link": "https://huggingface.co/ConwayResearch/Underdog-Saluki-27B-1.0",
+      "summary": "364 curtidas no Hugging Face · text-generation",
       "published": "",
       "category": "model_upload"
     },
@@ -79,7 +71,15 @@
       "source": "Hugging Face Hub",
       "title": "canberkkkkkk/ema-lightning",
       "link": "https://huggingface.co/canberkkkkkk/ema-lightning",
-      "summary": "351 curtidas no Hugging Face · text-to-speech",
+      "summary": "387 curtidas no Hugging Face · text-to-speech",
+      "published": "",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "LiquidAI/d1-3B",
+      "link": "https://huggingface.co/LiquidAI/d1-3B",
+      "summary": "336 curtidas no Hugging Face · image-text-to-text",
       "published": "",
       "category": "model_upload"
     }
