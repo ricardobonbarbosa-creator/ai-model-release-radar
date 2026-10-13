@@ -1,13 +1,45 @@
 {
-  "date": "2026-10-12",
-  "generated_at": "2026-10-12T20:06:40.290361+00:00",
-  "count": 10,
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T17:56:14.897861+00:00",
+  "count": 14,
   "items": [
+    {
+      "source": "Hugging Face",
+      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+      "link": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+      "summary": "",
+      "published": "2026-10-13T17:05:48+00:00",
+      "category": "release"
+    },
+    {
+      "source": "DeepMind",
+      "title": "Gemini 4 Argon for Robotics",
+      "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+      "summary": "",
+      "published": "2026-10-13T16:01:58+00:00",
+      "category": "release"
+    },
+    {
+      "source": "DeepMind",
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+      "summary": "",
+      "published": "2026-10-13T16:01:52+00:00",
+      "category": "release"
+    },
+    {
+      "source": "Google AI",
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+      "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
+      "published": "2026-10-13T16:00:00+00:00",
+      "category": "release"
+    },
     {
       "source": "Hugging Face Hub",
       "title": "google/embeddinggemma-2",
       "link": "https://huggingface.co/google/embeddinggemma-2",
-      "summary": "1914 curtidas no Hugging Face · feature-extraction",
+      "summary": "2070 curtidas no Hugging Face · feature-extraction",
       "published": "",
       "category": "model_upload"
     },
@@ -15,7 +47,7 @@
       "source": "Hugging Face Hub",
       "title": "jialinyyzz/humanizer",
       "link": "https://huggingface.co/jialinyyzz/humanizer",
-      "summary": "1302 curtidas no Hugging Face · text-generation",
+      "summary": "1448 curtidas no Hugging Face · text-generation",
       "published": "",
       "category": "model_upload"
     },
@@ -23,7 +55,7 @@
       "source": "Hugging Face Hub",
       "title": "Qwen/Qwen-Image-2.1-Turbo",
       "link": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
-      "summary": "621 curtidas no Hugging Face · text-to-image",
+      "summary": "692 curtidas no Hugging Face · text-to-image",
       "published": "",
       "category": "model_upload"
     },
@@ -31,15 +63,7 @@
       "source": "Hugging Face Hub",
       "title": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
       "link": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
-      "summary": "4079 curtidas no Hugging Face · text-to-image",
-      "published": "",
-      "category": "model_upload"
-    },
-    {
-      "source": "Hugging Face Hub",
-      "title": "Cloudflare/clef",
-      "link": "https://huggingface.co/Cloudflare/clef",
-      "summary": "2083 curtidas no Hugging Face · image-text-to-text",
+      "summary": "4186 curtidas no Hugging Face · text-to-image",
       "published": "",
       "category": "model_upload"
     },
@@ -47,15 +71,15 @@
       "source": "Hugging Face Hub",
       "title": "Lightricks/LTX-2.5",
       "link": "https://huggingface.co/Lightricks/LTX-2.5",
-      "summary": "7455 curtidas no Hugging Face · image-to-video",
+      "summary": "7599 curtidas no Hugging Face · image-to-video",
       "published": "",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "Qwen/Qwen3.8-27B",
-      "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
-      "summary": "17567 curtidas no Hugging Face · image-text-to-text",
+      "title": "Cloudflare/clef",
+      "link": "https://huggingface.co/Cloudflare/clef",
+      "summary": "2135 curtidas no Hugging Face · image-text-to-text",
       "published": "",
       "category": "model_upload"
     },
@@ -63,15 +87,15 @@
       "source": "Hugging Face Hub",
       "title": "ConwayResearch/Underdog-Saluki-27B-1.0",
       "link": "https://huggingface.co/ConwayResearch/Underdog-Saluki-27B-1.0",
-      "summary": "364 curtidas no Hugging Face · text-generation",
+      "summary": "401 curtidas no Hugging Face · text-generation",
       "published": "",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "canberkkkkkk/ema-lightning",
-      "link": "https://huggingface.co/canberkkkkkk/ema-lightning",
-      "summary": "387 curtidas no Hugging Face · text-to-speech",
+      "title": "openbmb/MiniCPM-V-4.7-35B-A3B",
+      "link": "https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B",
+      "summary": "429 curtidas no Hugging Face · image-text-to-text",
       "published": "",
       "category": "model_upload"
     },
@@ -79,7 +103,15 @@
       "source": "Hugging Face Hub",
       "title": "LiquidAI/d1-3B",
       "link": "https://huggingface.co/LiquidAI/d1-3B",
-      "summary": "336 curtidas no Hugging Face · image-text-to-text",
+      "summary": "371 curtidas no Hugging Face · image-text-to-text",
+      "published": "",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF",
+      "link": "https://huggingface.co/AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF",
+      "summary": "399 curtidas no Hugging Face · text-to-image",
       "published": "",
       "category": "model_upload"
     }
