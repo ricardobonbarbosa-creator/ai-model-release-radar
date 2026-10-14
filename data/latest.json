@@ -1,8 +1,160 @@
 {
-  "date": "2026-10-13",
-  "generated_at": "2026-10-13T17:56:14.897861+00:00",
-  "count": 14,
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T15:41:59.235824+00:00",
+  "count": 34,
   "items": [
+    {
+      "source": "OpenAI",
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "link": "https://openai.com/index/third-moment-research",
+      "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+      "published": "2026-10-14T07:00:00+00:00",
+      "category": "release"
+    },
+    {
+      "source": "DeepMind",
+      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+      "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+      "published": "2026-10-14T02:00:14+00:00",
+      "category": "release"
+    },
+    {
+      "source": "OpenAI",
+      "title": "The EU’s next chapter in AI is agentic",
+      "link": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+      "published": "2026-10-14T00:00:00+00:00",
+      "category": "release"
+    },
+    {
+      "source": "DeepMind",
+      "title": "Developing Gemini 4 Argon responsibly and safely",
+      "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+      "summary": "",
+      "published": "2026-10-13T19:43:07+00:00",
+      "category": "release"
+    },
+    {
+      "source": "arXiv",
+      "title": "ChunkAct: Action Chunking for Agentic Robotics",
+      "link": "http://arxiv.org/abs/2610.18874v1",
+      "summary": "Agentic robotics places a large language model (LLM) agent in the robot control loop, where it composes perception, motion, and vision-language-action (VLA) tools under the guidance of a memory and…",
+      "published": "2026-10-13T17:59:57+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "What Matters in Quality-Aware VLA Pretraining: A Benchmark and Empirical Study",
+      "link": "http://arxiv.org/abs/2610.18869v1",
+      "summary": "How should demonstration quality be used during vision-language-action (VLA) pretraining to improve performance after target-task fine-tuning? We compare weighting, filtering, and conditioning across…",
+      "published": "2026-10-13T17:59:52+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards",
+      "link": "http://arxiv.org/abs/2610.18868v1",
+      "summary": "Long-horizon agents have drawn growing attention for their ability to work autonomously -- from hours to days -- on economically valuable tasks, a capability essential to automated discovery and…",
+      "published": "2026-10-13T17:59:51+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "DoubtLess: Training-Free Contrastive Decoding for Efficient Reasoning",
+      "link": "http://arxiv.org/abs/2610.18862v1",
+      "summary": "Reasoning models achieve strong performance through long chains of thought (CoT), but often spend more tokens than needed to solve a problem. Existing ways to shorten the CoT require additional…",
+      "published": "2026-10-13T17:59:32+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "AesCode: Aesthetic Code Generation with Decoupled Cross-Modal Rewards",
+      "link": "http://arxiv.org/abs/2610.18860v1",
+      "summary": "Generating information-rich visual artifacts such as slides, posters, and dashboards as code is appealing because the outputs are structured, editable, and verifiable. Yet code models cannot see how…",
+      "published": "2026-10-13T17:59:31+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "Hybrid Reasoning Agents",
+      "link": "http://arxiv.org/abs/2610.18861v1",
+      "summary": "How can we build an agent that thinks beyond human language, yet still acts through it in the external environment? Modern LLM agents still reason and interact through text, while latent reasoning…",
+      "published": "2026-10-13T17:59:31+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "Two Clocks: Why Larger Rollout Batches Learn Slower but Fail on Schedule in Reinforcement Learning with Verifiable Rewards",
+      "link": "http://arxiv.org/abs/2610.18853v1",
+      "summary": "Reinforcement learning with verifiable rewards (RLVR) relies on costly model-generated responses, motivating larger rollout batches and square-root learning-rate scaling. Reported to approximately…",
+      "published": "2026-10-13T17:58:57+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "MFG: Multi-turn Feedback Guided Molecular Optimization",
+      "link": "http://arxiv.org/abs/2610.18851v1",
+      "summary": "Multi-objective molecular optimization is a critical process in drug discovery that aims to modify a given molecule to simultaneously improve multiple properties while maintaining a similar overall…",
+      "published": "2026-10-13T17:58:41+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "The Last Remote Sensing Model Built by Humans? Casting Any Earth Observation Task as Recursive Self-Improvement",
+      "link": "http://arxiv.org/abs/2610.18845v1",
+      "summary": "Earth observation (EO) models are still built by hand. For each new task, experts design a training recipe and tune it against a benchmark. We show that this loop can be handed to an agent. Any…",
+      "published": "2026-10-13T17:57:51+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "LIBERO-RIG: A Hardware-Setup Robustness Benchmark for Vision-Language-Action Models",
+      "link": "http://arxiv.org/abs/2610.18843v1",
+      "summary": "Robot policies are expected to generalize across deployment environments, including variations in the robot itself: cameras are bumped and remounted, calibrations drift, controllers run at different…",
+      "published": "2026-10-13T17:57:18+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "Who Improves the Robot? Toward Physical Recursive Self-Improvement",
+      "link": "http://arxiv.org/abs/2610.18842v1",
+      "summary": "Robots are increasingly autonomous in task execution, yet their improvement remains largely human-driven. This study investigates Physical Recursive Self-Improvement (Physical RSI), in which physical…",
+      "published": "2026-10-13T17:57:04+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "Fast Rates for Offline Q-Learning with KL Regularization",
+      "link": "http://arxiv.org/abs/2610.18839v1",
+      "summary": "This paper investigates offline Q-learning for finite-horizon Markov decision processes with Kullback-Leibler (KL) regularization. Recent studies have shown that KL regularization can yield fast…",
+      "published": "2026-10-13T17:56:27+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "RoboSimStudio: An Interactive Toolkit for Rapid Real2Sim of Robot Manipulation Tasks",
+      "link": "http://arxiv.org/abs/2610.18835v1",
+      "summary": "It is difficult to accurately model the physics of the interaction between a robot and the objects it manipulates, including contact mechanics, coupled contact dynamics, deformations, stiffness and…",
+      "published": "2026-10-13T17:55:14+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "OmniCompass: A Holistic Benchmark for Omni-Modal Video Grounding and Understanding",
+      "link": "http://arxiv.org/abs/2610.18829v1",
+      "summary": "With the rapid development of multimodal large language models (MLLMs), evaluating their video understanding capabilities has become increasingly important. Existing video understanding benchmarks…",
+      "published": "2026-10-13T17:54:22+00:00",
+      "category": "paper"
+    },
+    {
+      "source": "arXiv",
+      "title": "Read the Room Before Your Model Generates",
+      "link": "http://arxiv.org/abs/2610.18820v1",
+      "summary": "Large language models (LLMs) generally rely on sampling temperature to regulate the amount of randomness in their outputs. Mainstream methods for selecting temperature typically involve fixed,…",
+      "published": "2026-10-13T17:51:18+00:00",
+      "category": "paper"
+    },
     {
       "source": "Hugging Face",
       "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
@@ -36,10 +188,18 @@
       "category": "release"
     },
     {
+      "source": "OpenAI",
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "link": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+      "published": "2026-10-13T12:00:00+00:00",
+      "category": "release"
+    },
+    {
       "source": "Hugging Face Hub",
       "title": "google/embeddinggemma-2",
       "link": "https://huggingface.co/google/embeddinggemma-2",
-      "summary": "2070 curtidas no Hugging Face · feature-extraction",
+      "summary": "2206 curtidas no Hugging Face · feature-extraction",
       "published": "",
       "category": "model_upload"
     },
@@ -47,7 +207,7 @@
       "source": "Hugging Face Hub",
       "title": "jialinyyzz/humanizer",
       "link": "https://huggingface.co/jialinyyzz/humanizer",
-      "summary": "1448 curtidas no Hugging Face · text-generation",
+      "summary": "1599 curtidas no Hugging Face · text-generation",
       "published": "",
       "category": "model_upload"
     },
@@ -55,7 +215,7 @@
       "source": "Hugging Face Hub",
       "title": "Qwen/Qwen-Image-2.1-Turbo",
       "link": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
-      "summary": "692 curtidas no Hugging Face · text-to-image",
+      "summary": "752 curtidas no Hugging Face · text-to-image",
       "published": "",
       "category": "model_upload"
     },
@@ -63,31 +223,7 @@
       "source": "Hugging Face Hub",
       "title": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
       "link": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
-      "summary": "4186 curtidas no Hugging Face · text-to-image",
-      "published": "",
-      "category": "model_upload"
-    },
-    {
-      "source": "Hugging Face Hub",
-      "title": "Lightricks/LTX-2.5",
-      "link": "https://huggingface.co/Lightricks/LTX-2.5",
-      "summary": "7599 curtidas no Hugging Face · image-to-video",
-      "published": "",
-      "category": "model_upload"
-    },
-    {
-      "source": "Hugging Face Hub",
-      "title": "Cloudflare/clef",
-      "link": "https://huggingface.co/Cloudflare/clef",
-      "summary": "2135 curtidas no Hugging Face · image-text-to-text",
-      "published": "",
-      "category": "model_upload"
-    },
-    {
-      "source": "Hugging Face Hub",
-      "title": "ConwayResearch/Underdog-Saluki-27B-1.0",
-      "link": "https://huggingface.co/ConwayResearch/Underdog-Saluki-27B-1.0",
-      "summary": "401 curtidas no Hugging Face · text-generation",
+      "summary": "4274 curtidas no Hugging Face · text-to-image",
       "published": "",
       "category": "model_upload"
     },
@@ -95,15 +231,31 @@
       "source": "Hugging Face Hub",
       "title": "openbmb/MiniCPM-V-4.7-35B-A3B",
       "link": "https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B",
-      "summary": "429 curtidas no Hugging Face · image-text-to-text",
+      "summary": "535 curtidas no Hugging Face · image-text-to-text",
       "published": "",
       "category": "model_upload"
     },
     {
       "source": "Hugging Face Hub",
-      "title": "LiquidAI/d1-3B",
-      "link": "https://huggingface.co/LiquidAI/d1-3B",
-      "summary": "371 curtidas no Hugging Face · image-text-to-text",
+      "title": "autotrust/JEV-35B",
+      "link": "https://huggingface.co/autotrust/JEV-35B",
+      "summary": "714 curtidas no Hugging Face · text-classification",
+      "published": "",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "ConwayResearch/Underdog-Saluki-27B-1.0",
+      "link": "https://huggingface.co/ConwayResearch/Underdog-Saluki-27B-1.0",
+      "summary": "445 curtidas no Hugging Face · text-generation",
+      "published": "",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "Lightricks/LTX-2.5",
+      "link": "https://huggingface.co/Lightricks/LTX-2.5",
+      "summary": "7737 curtidas no Hugging Face · image-to-video",
       "published": "",
       "category": "model_upload"
     },
@@ -111,7 +263,15 @@
       "source": "Hugging Face Hub",
       "title": "AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF",
       "link": "https://huggingface.co/AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF",
-      "summary": "399 curtidas no Hugging Face · text-to-image",
+      "summary": "440 curtidas no Hugging Face · text-to-image",
+      "published": "",
+      "category": "model_upload"
+    },
+    {
+      "source": "Hugging Face Hub",
+      "title": "LiquidAI/d1-3B",
+      "link": "https://huggingface.co/LiquidAI/d1-3B",
+      "summary": "390 curtidas no Hugging Face · image-text-to-text",
       "published": "",
       "category": "model_upload"
     }
