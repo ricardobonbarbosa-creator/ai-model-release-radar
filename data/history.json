@@ -11229,5 +11229,260 @@
         "category": "model_upload"
       }
     ]
+  },
+  {
+    "date": "2026-10-15",
+    "generated_at": "2026-10-15T15:29:38.231530+00:00",
+    "count": 31,
+    "items": [
+      {
+        "source": "OpenAI",
+        "title": "Teaching students to think and learn through questions",
+        "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+        "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+        "published": "2026-10-15T13:00:00+00:00",
+        "category": "release"
+      },
+      {
+        "source": "Hugging Face",
+        "title": "Apertus 1.5 Release Notes",
+        "link": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+        "summary": "",
+        "published": "2026-10-15T09:08:45+00:00",
+        "category": "release"
+      },
+      {
+        "source": "Hugging Face",
+        "title": "Welcome FLUX.3 Image Klein in Diffusers",
+        "link": "https://huggingface.co/blog/flux-3",
+        "summary": "",
+        "published": "2026-10-15T00:00:00+00:00",
+        "category": "release"
+      },
+      {
+        "source": "arXiv",
+        "title": "Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion",
+        "link": "http://arxiv.org/abs/2610.20606v1",
+        "summary": "Recent advances in robot learning have driven rapid progress in humanoid control, enabling increasingly agile behaviors in the real world. However, humanoid control networks are typically obtained…",
+        "published": "2026-10-14T17:59:52+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance",
+        "link": "http://arxiv.org/abs/2610.20607v1",
+        "summary": "Mobile Manipulation (MoMa) is a cornerstone of autonomous robotic systems, yet real-world fine-tuning remains a formidable challenge because of high-dimensional action spaces and intricate coupling…",
+        "published": "2026-10-14T17:59:52+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "Co-Evolving Acting and Forecasting for Language Agents",
+        "link": "http://arxiv.org/abs/2610.20597v1",
+        "summary": "Training language agents is bottlenecked by the high cost of long-horizon rollouts, yet standard agentic reinforcement learning (RL) learns only from a terminal scalar reward, leaving the supervision…",
+        "published": "2026-10-14T17:59:28+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "Your Transformer Is Secretly Elastic",
+        "link": "http://arxiv.org/abs/2610.20588v1",
+        "summary": "Scaling up transformers has produced models with broad capabilities, deployed across heterogeneous hardware and fluctuating workloads. Yet, model families offer only a few fixed sizes (e.g., S, B,…",
+        "published": "2026-10-14T17:58:08+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "Price of Anarchy of First-Price Auctions in Agentic Markets",
+        "link": "http://arxiv.org/abs/2610.20587v1",
+        "summary": "An agentic market is a decentralized serving-time market where AI agents bid to claim each user prompt. An agent's bid is based on its expected value for the prompt, which is the expectation of the…",
+        "published": "2026-10-14T17:57:57+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "Continuum Attention",
+        "link": "http://arxiv.org/abs/2610.20586v1",
+        "summary": "We introduce Continuum Attention (CA), a causal Transformer attention operator that replaces discrete key and value lookup with integration over a continuous, piecewise linear memory curve. Each…",
+        "published": "2026-10-14T17:57:40+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "Player-1: Learning to Play from Synthetic Experience",
+        "link": "http://arxiv.org/abs/2610.20584v1",
+        "summary": "Computer-use agents have demonstrated strong capabilities in interpreting screens and executing keyboard and mouse actions. However, games, with their visually rich worlds and diverse mechanics,…",
+        "published": "2026-10-14T17:57:12+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "Latent Compaction with Test-Time Training",
+        "link": "http://arxiv.org/abs/2610.20582v1",
+        "summary": "Long contexts enlarge key--value (KV) caches, increasing memory use and attention costs during generation. Compressing these caches must preserve information for unseen questions. We introduce…",
+        "published": "2026-10-14T17:57:01+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "One Task, Many Interfaces: Simple Cross-Interface Consistency Training Improves LLM Agent Robustness",
+        "link": "http://arxiv.org/abs/2610.20576v1",
+        "summary": "Post-training binds the competence of an LLM agent to the interface it was trained on. Semantics-preserving perturbations of that interface, such as renaming an action or changing the notation, leave…",
+        "published": "2026-10-14T17:56:06+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "Beyond LLM Judge: Mechanical Verification for Agentic Autoformalization",
+        "link": "http://arxiv.org/abs/2610.20573v1",
+        "summary": "We introduce a novel method for verifying Lean formalizations that goes beyond LLM-judged faithfulness. Unlike most verification methods, which rely on LLMs or trained models, our method combines…",
+        "published": "2026-10-14T17:54:48+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "Recovering Reliable Supervision via Critique-Guided On-Policy Distillation",
+        "link": "http://arxiv.org/abs/2610.20572v1",
+        "summary": "On-policy distillation (OPD) trains a student model on its own rollouts with token-level supervision from a teacher, assuming that the teacher can reach a correct answer from any prefix the student…",
+        "published": "2026-10-14T17:54:34+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "Manacá-1B-Instruct-2: Reproducible Safety Alignment for a Native Brazilian-Portuguese LLM. Negative DPO Results, a Controlled Composition Scan, and a Silent Failure Mode of the LLM Judge",
+        "link": "http://arxiv.org/abs/2610.20570v1",
+        "summary": "Brazilian Portuguese remains underserved by open-source language models, and the few that are safety-aligned rarely document what did not work or validate comparisons with statistical significance.…",
+        "published": "2026-10-14T17:53:46+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "Scaling Discovery Requires Forgetting",
+        "link": "http://arxiv.org/abs/2610.20563v1",
+        "summary": "Automated research with LLM agents has shown promising results in various domains. Through iterative refinement and scored verifiers, LLM agents are capable of discovering new ideas. There are…",
+        "published": "2026-10-14T17:49:37+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "PhySGA: A Physics-Space Grounded Agentic Framework for Generalizable and Interactive 3D Composition",
+        "link": "http://arxiv.org/abs/2610.20560v1",
+        "summary": "3D object composition is pivotal to digital content creation and robot simulation, while also serving as a critical testbed for physical intelligence in foundation models. Previous methods either…",
+        "published": "2026-10-14T17:47:24+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "arXiv",
+        "title": "PerSo: Investigating Facets of LLMs' Social Intelligence in Real-World Persuasion Scenarios",
+        "link": "http://arxiv.org/abs/2610.20548v1",
+        "summary": "Understanding the social intelligence of large language models (LLMs) is increasingly important for applications involving human-AI interaction and multi-agent environments. Social intelligence…",
+        "published": "2026-10-14T17:39:35+00:00",
+        "category": "paper"
+      },
+      {
+        "source": "Hugging Face",
+        "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+        "link": "https://huggingface.co/blog/allenai/hiro-acev2",
+        "summary": "",
+        "published": "2026-10-14T16:12:42+00:00",
+        "category": "release"
+      },
+      {
+        "source": "OpenAI",
+        "title": "Amp puts AI agents to work beyond code with OpenAI models",
+        "link": "https://openai.com/index/amp-beyond-coding",
+        "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+        "published": "2026-10-14T12:00:00+00:00",
+        "category": "release"
+      },
+      {
+        "source": "OpenAI",
+        "title": "SentinelOne cuts malware analysis from weeks to hours",
+        "link": "https://openai.com/index/sentinelone",
+        "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+        "published": "2026-10-14T12:00:00+00:00",
+        "category": "release"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "google/embeddinggemma-2",
+        "link": "https://huggingface.co/google/embeddinggemma-2",
+        "summary": "2356 curtidas no Hugging Face · feature-extraction",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "jialinyyzz/humanizer",
+        "link": "https://huggingface.co/jialinyyzz/humanizer",
+        "summary": "1699 curtidas no Hugging Face · text-generation",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Qwen/Qwen-Image-2.1-Turbo",
+        "link": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
+        "summary": "854 curtidas no Hugging Face · text-to-image",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "openbmb/MiniCPM-V-4.7-35B-A3B",
+        "link": "https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B",
+        "summary": "775 curtidas no Hugging Face · image-text-to-text",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "autotrust/JEV-35B",
+        "link": "https://huggingface.co/autotrust/JEV-35B",
+        "summary": "940 curtidas no Hugging Face · text-classification",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+        "link": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+        "summary": "4360 curtidas no Hugging Face · text-to-image",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "Lightricks/LTX-2.5",
+        "link": "https://huggingface.co/Lightricks/LTX-2.5",
+        "summary": "7893 curtidas no Hugging Face · image-to-video",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "fishaudio/drama-3",
+        "link": "https://huggingface.co/fishaudio/drama-3",
+        "summary": "410 curtidas no Hugging Face · text-to-speech",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF",
+        "link": "https://huggingface.co/AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF",
+        "summary": "478 curtidas no Hugging Face · text-to-image",
+        "published": "",
+        "category": "model_upload"
+      },
+      {
+        "source": "Hugging Face Hub",
+        "title": "ConwayResearch/Underdog-Saluki-27B-1.0",
+        "link": "https://huggingface.co/ConwayResearch/Underdog-Saluki-27B-1.0",
+        "summary": "490 curtidas no Hugging Face · text-generation",
+        "published": "",
+        "category": "model_upload"
+      }
+    ]
   }
 ]
