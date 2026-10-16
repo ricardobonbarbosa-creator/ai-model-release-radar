@@ -1,60 +1,60 @@
-# 🛰️ Resumo Diário de IA — 2026-10-15
+# 🛰️ Resumo Diário de IA — 2026-10-16
 
 ## 🚀 Lançamentos e novidades (16)
+**🚀 [Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline](https://huggingface.co/blog/nvidia/scaling-indic-pretraining)** — Hugging Face
+
+**🚀 [Welcome Beam: a 501B open model you can own, customize, and scale](https://huggingface.co/blog/reflection-beam)** — Hugging Face
+
+**🚀 [Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint](https://huggingface.co/blog/ibm-granite/granite-switch-4-1)** — Hugging Face
+
+**🚀 [Bringing GPT-Rosalind to academic research labs](https://openai.com/index/introducing-the-rosalind-academic-plan)** — OpenAI
+> Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.
+
+**🚀 [Accelerating the search for antimicrobial peptides with Google Antigravity](https://deepmind.google/blog/accelerating-antimicrobial-discovery/)** — DeepMind
+> Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.
+
 **🚀 [Teaching students to think and learn through questions](https://openai.com/index/teaching-students-to-think-and-learn-through-questions)** — OpenAI
 > Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.
 
-**🚀 [Apertus 1.5 Release Notes](https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes)** — Hugging Face
-
-**🚀 [Welcome FLUX.3 Image Klein in Diffusers](https://huggingface.co/blog/flux-3)** — Hugging Face
-
-**🚀 [HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost](https://huggingface.co/blog/allenai/hiro-acev2)** — Hugging Face
-
-**🚀 [Amp puts AI agents to work beyond code with OpenAI models](https://openai.com/index/amp-beyond-coding)** — OpenAI
-> See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.
-
-**🚀 [SentinelOne cuts malware analysis from weeks to hours](https://openai.com/index/sentinelone)** — OpenAI
-> With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.
-
 **🤗 [google/embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2)** — Hugging Face Hub
-> 2356 curtidas no Hugging Face · feature-extraction
+> 2482 curtidas no Hugging Face · feature-extraction
 
 **🤗 [jialinyyzz/humanizer](https://huggingface.co/jialinyyzz/humanizer)** — Hugging Face Hub
-> 1699 curtidas no Hugging Face · text-generation
-
-**🤗 [Qwen/Qwen-Image-2.1-Turbo](https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo)** — Hugging Face Hub
-> 854 curtidas no Hugging Face · text-to-image
+> 1797 curtidas no Hugging Face · text-generation
 
 **🤗 [openbmb/MiniCPM-V-4.7-35B-A3B](https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B)** — Hugging Face Hub
-> 775 curtidas no Hugging Face · image-text-to-text
+> 823 curtidas no Hugging Face · image-text-to-text
 
-**🤗 [autotrust/JEV-35B](https://huggingface.co/autotrust/JEV-35B)** — Hugging Face Hub
-> 940 curtidas no Hugging Face · text-classification
-
-**🤗 [abenzerps/Qwen-Image-2.1-Uncensored-Quantized](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized)** — Hugging Face Hub
-> 4360 curtidas no Hugging Face · text-to-image
-
-**🤗 [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)** — Hugging Face Hub
-> 7893 curtidas no Hugging Face · image-to-video
+**🤗 [Qwen/Qwen-Image-2.1-Turbo](https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo)** — Hugging Face Hub
+> 921 curtidas no Hugging Face · text-to-image
 
 **🤗 [fishaudio/drama-3](https://huggingface.co/fishaudio/drama-3)** — Hugging Face Hub
-> 410 curtidas no Hugging Face · text-to-speech
+> 526 curtidas no Hugging Face · text-to-speech
+
+**🤗 [abenzerps/Qwen-Image-2.1-Uncensored-Quantized](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized)** — Hugging Face Hub
+> 4416 curtidas no Hugging Face · text-to-image
+
+**🤗 [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)** — Hugging Face Hub
+> 8026 curtidas no Hugging Face · image-to-video
 
 **🤗 [AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF](https://huggingface.co/AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF)** — Hugging Face Hub
-> 478 curtidas no Hugging Face · text-to-image
+> 508 curtidas no Hugging Face · text-to-image
 
-**🤗 [ConwayResearch/Underdog-Saluki-27B-1.0](https://huggingface.co/ConwayResearch/Underdog-Saluki-27B-1.0)** — Hugging Face Hub
-> 490 curtidas no Hugging Face · text-generation
+**🤗 [LiquidAI/LFM2.5-24B-A2B](https://huggingface.co/LiquidAI/LFM2.5-24B-A2B)** — Hugging Face Hub
+> 412 curtidas no Hugging Face · text-generation
+
+**🤗 [meta-models/Muse-Spark-Open-816B-A42B](https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B)** — Hugging Face Hub
+> 392 curtidas no Hugging Face · image-text-to-text
 
 ## 📄 Pesquisas recentes (15)
-- [Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion](http://arxiv.org/abs/2610.20606v1)
-- [Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance](http://arxiv.org/abs/2610.20607v1)
-- [Co-Evolving Acting and Forecasting for Language Agents](http://arxiv.org/abs/2610.20597v1)
-- [Your Transformer Is Secretly Elastic](http://arxiv.org/abs/2610.20588v1)
-- [Price of Anarchy of First-Price Auctions in Agentic Markets](http://arxiv.org/abs/2610.20587v1)
-- [Continuum Attention](http://arxiv.org/abs/2610.20586v1)
-- [Player-1: Learning to Play from Synthetic Experience](http://arxiv.org/abs/2610.20584v1)
-- [Latent Compaction with Test-Time Training](http://arxiv.org/abs/2610.20582v1)
+- [LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation](http://arxiv.org/abs/2610.22372v1)
+- [Discovering state-of-the-art quantum circuits with large language models](http://arxiv.org/abs/2610.22367v1)
+- [T2-z: Test-Time Optimization of Environment Latents for Robotic World Models](http://arxiv.org/abs/2610.22364v1)
+- [CoDA: Co-Evolution of Data Engines and Action Policies](http://arxiv.org/abs/2610.22362v1)
+- [OmniVerifier-C1: Decomposed Graded Verifier for Rule-Governed Generative World Modeling](http://arxiv.org/abs/2610.22355v1)
+- [Rethinking Routing Exploration in Modern Mixture-of-Experts](http://arxiv.org/abs/2610.22353v1)
+- [FDE-Gym: The Last Mile of AI Delivery](http://arxiv.org/abs/2610.22350v1)
+- [MLExpert: Towards a Generalist Agentic Model for Autonomous Machine Learning Engineering](http://arxiv.org/abs/2610.22344v1)
 - …e mais 7 artigos no dashboard
 
 ---
